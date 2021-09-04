@@ -1,0 +1,191 @@
+CREDITS:
+
+THE STORY OF RED CLOUD ADVENTURE MAP:
+Tim Hjersted aka Vibrent / Everything. Ahhh! :p
+
+
+MOD REVAMP (TModLoader Edition)
+Zeodexic / lead programmer
+RecursiveCollapse / programmer
+Chroma Equinox / programmer
+JayTeff / programmer
+W1k / coding help
+NephilimDeath / sprites
+Blasfah / sprites
+Frous / sprites + beta testing
+Mddznyan / sprites
+MarfMasterofDesaster / beta testing
+
+
+ORIGINAL MOD (tConfig Edition):
+Tim Hjersted / Mod Director + Dark Souls concept + New content + Mod Remixing & Compiling**
+Yoraiz0r / Dark Souls + Dual Wielding + More Dark Souls features
+Omnir / Omnir's Mod
+W1k / W1k's Mod + help
+Draykon  / Dark Souls + Curtain of Bullets, Endgame
+Surfpup / No mining or placing tiles code
+Obsidian54 / Obsidian's Mod
+blahblahbal et al  / Avalon Mod
+VortexJ / Unobtanium
+Zoodletec / Necro Pack 
+Kujulo / Kujulo's Mod DLC
+Dogsonofawolf / NPCs
+Reborn Team / Reborn Mod
+Phlebas / Debuffs code
+FatObeseBird / League of Legends
+NerdyBoy, Reactorcore / Alchemistry
+PolarBMD / Terraria_
+Delra / Monster Hunter Mod
+KaneStaff  / Zelda Mod
+FrosTr / FrosTr's Misc Pack
+Scooterboot9697 / Metroid Mod
+Pwnager	/ Empowered Endgame
+SuperWeegee1 / Dream (Also credit Dream Team)
+Mitchellex / Wululu
+Acheld / Phoenix Down & Bookmarks
+Wooren / Sprites
+Sapharan / Legend of Sapharan 
+Flashkirby99 / Flashkirby's Weapons Mod
+Zero-Exodus/Omnir / Dark,Blood,Crystal Knights, Dark Cloud Sprites
+Heartstone25 / Covenant of Artorias blood moon code
+Ace the Best / Ace The Best's Final Fantasy Modification
+Solenix / Vertigo Elemental
+MiraiMai	 / Duel Wielding mod aka Mainslot-0
+Eikester  / Made Game Launcher and improved tConfig installation
+
+1.1 MOD UPDATE CONTRIBUTORS
+Tim Hjersted / Update director + new content and polish - see the original change log for more
+Grox The Great / coding help
+Zoodletech / content + sprites
+Avalon mod team / coding help
+Wooren / sprites
+Omnir / content + coding help
+Yorai / coding help
+Blahblahbal / coding help
+Flashkirby99 / mod content
+Zero-Exodus / sprites
+Scooterboot and W1k / Serris boss
+Whale Cancer / sprites
+Ace the Best / sprites
+Sapharan / select Legend of Sapharan content
+Heartstone25 / coding help
+Phlebas / debuff code
+Solenix / select Vertigo Elemental content
+
+--------------
+**Here is a short list of things Tim Hjersted remixed and/or created for this mod:
+All armors have original stats and/or abilities.
+Attraidies/Mindflayer King boss 
+Dungeon/Shadow Mage
+Attraidies Illusion/Mindflayer Illusion
+Demon Spirit/Crazed Demon Spirit 
+Wyvern Mage boss 
+Jungle Wyvern boss
+Dark, Light, Mana and Dragoon Cloak
+Upgrade tiers for some items
+Ghost of the Forgotten Warrior/Knight 
+Remixed projectiles and stats for several mod bosses, including debuffs and additional minions
+Changed all crafting recipes to fit the Dark Souls mechanic
+Bloom Shards weapon
+Many more remixed enemies and bosses
+Made lots of small changes to dozens of other things so that the mod feels cohesive
+
+
+
+
+TCONFIG EDITION SPECIAL THANKS:
+*Yoraizor (is responsible for virtually all of the unique features related to the Dark Souls aspects of the mod and has always been super helpful)
+*Surfpup (made tConfig - would have never attempted to get into modding without tconfig's added accessibility.
+*Surfpup again for updating tConfig to version 0.36, making TSORC playable again in 2018! Hurray!
+*W1k (helped me a ton with mod questions)
+*Draykon (made the initial Dark Souls mechanic for the mod in like 3 hours!)
+*Diggaroo, Zebri and Triangular Satellite (each made a great trailer for the mod)
+*Omnir (a ton of the mod content is from his Omnir mod. The guy just pumps out tons of quality work)
+*Binary Construct (made the Tedit map editing program - couldn't have made the map without it)
+*Yoraizor (did I mention how helpful he's been? Can't thank him enough for helping me all the times I've been stumped by a mod issue)
+*Eikester (made Game Launcher and improved tConfig installation)
+
+
+
+
+
+CUSTOM SOUNDTRACK
+(tsorcMusic.tmod):
+
+This is the music soundtrack for The Story of Red Cloud, compiled and audio-mixed by Vibrent (updated for TmodLoader & Terraria 1.3.5). All credit and thanks for these songs go to the original composers and remixers and are used here under Fair Use.
+
+SONG CREDITS
+Titles in "". Author credit in ().
+____________________________________________________________________
+
+Boss 1 / "Dark Souls 3: Ludex Gundyr" (Tsukasa Saitoh / From Software)
+
+Boss 2 / "Battle of Stoicism" (Motoi Sakuraba / From Software) 
+
+Boss 3 / "Dark Souls 3: Abyss Watchers" (From Software)
+
+Boss 4 / "Bloodborne: The First Hunter" (From Software)
+
+Boss 5 / "Dark Souls 3: Slave Knight Gael" (From Software)
+
+Boss 6 / "Dark Souls: Knight Artorias" (From Software)
+
+Cavern / "Metroid Prime 2 - Torvus Bog Entrance" (Kenji Yamamoto)
+
+Corruption / Dark Souls Abyss ambient sounds (From Software) + "Hive Tunnel - Metroid Prime 2" (Nintendo)
+
+Crimson / "Super Metroid: Crateria Zebes Planetfall (Interior)" (The Blake Robinson Synthetic Orchestra) 
+
+Desert / "Forest Temple - The Legend of Zelda - Twilight Princess- " (Nintendo)
+
+Dungeon / Ocarina of Time - Spirit Temple Reorchestrated / Majora's Mask - Stone Tower Temple Reorchestrated (ZREO)
+
+Eerie / "Lakebed Temple  - The Legend of Zelda: Twilight Princess" (Koji Kondo)
+
+Hallow / "Skyward Sword - Skyview Temple Reorchestrated" (ZREO)
+
+Jungle / "Ocarina of Time - Fire Temple Reorchestrated" (ZREO)
+
+Mushrooms / "The Legend of Zelda: Skyward Sword - Goddess Mission" (Hajime Wakai, Shibo Fujii, Mahito Yokota, Takeshi Hama, Koji Kondo)
+
+Night / "Skyward Sword - Separation" (Nintendo) / "Skyward Sword - Sealed Temple" (Nintendo)
+
+Ocean / "The Legend of Zelda: Skyward Sword - Sailing the Sand Sea"(Hajime Wakai, Shiho Fujii) mixed with desert wind sounds
+
+Overworld Day / "A Link to the Past - Dark Overworld Theme Reorchestrated" (ZREO) / "The Minish Cap - Mt. Crenel Reorchestrated" (ZREO)
+
+Rain / "Faron Woods" (ZREO)
+
+Sandstorm / "The Legend of Zelda Breath of the Wild - Attack on Vah Naboris" (Nintendo)
+
+Space / "Chozo Statue Awakens" (The Blake Robinson Synthetic Orchestra) 
+
+Pillars / "Dark Souls - The Ancient Dragon" (From Software)
+
+Underground / "Ocarina of Time - Forest Temple Reorchestrated" (ZREO)
+
+Underground Corruption / "Twilight Princess - Arbiters Grounds" (Nintendo)
+
+Underground Crimson / "Brinstar - Underground Depths" (The Blake Robinson Synthetic Orchestra) mixed with "Dark Souls Ambient Sounds  - Pinwheels Sarcophagus (From Software)"
+
+Underground Desert / "Desert Temple - Minecraft Dungeons" (Johan Johnson)
+
+Underground Eerie / "Great Bay Temple, TLOZ: Majora's Mask" (Koji Kondo, Nintendo)
+
+Underground Hallow / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
+
+Underground Mushrooms / "Ocarina of Time - Temple of Time" (ZREO)
+
+Snow / "Dark Souls - Crystal Caves Ambient Sounds" (From Software)
+
+Underground Snow / "Metroid Prime 2: Torvus Bog Subterranean Theme"  (Kenji Yamamoto)
+
+Underworld / "Pinwheels Sarcophagus - Ambient Sounds, Dark Souls" (From Software)
+
+Mixed in as transitions in certain songs: 
+"Cave Ambience" (Jross aka Xeltic89)
+"Frog Chorus" (Echoes of Nature album by American Wilds)
+"Deep Woods" (Echoes of Nature album by American Wilds)  
+"Crickets" (Echoes of Nature album by American Wilds)
+
+ZREO =  Zelda Reorchestrated : http://www.zreomusic.com/

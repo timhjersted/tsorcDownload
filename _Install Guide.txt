@@ -1,0 +1,15 @@
+ESTIMATED TIME: 3 MINUTES
+
+1. Download TModLoader from Steam: https://store.steampowered.com/app/1281930/tModLoader/
+
+2. Open TModLoader and select Mod Browser, then search for The Story of Red Cloud or tsorc. Download and load the TSORC Revamp mod. 
+
+3. Copy "The Story of Red Cloud.wld" to Documents\My Games\Terraria\ModLoader\Worlds
+
+4. Copy "tsorcMusic.tmod" to Documents\My Games\Terraria\ModLoader\Mods
+
+5. Open TModLoader and ensure the mods are Enabled via the "Mods" menu.
+
+Done!
+
+See Game Manual.txt for more helpful info before playing.
