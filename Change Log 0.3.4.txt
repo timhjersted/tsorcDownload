@@ -1,5 +1,10 @@
 CHANGE LOG
 
+MUSIC 0.3.2
+------------------
+Added mod music for the remaining SHM bosses
+
+
 MAP 0.3.4
 ------------------
 Fixed unobtainable heart crystal in meteorite temple
