@@ -20,7 +20,7 @@ GAME MANUAL:
 
 *Read all item tool-tips for hints and game clues, especially mod items.
 
-*If items found in chests are a "material," they can likely be crafted into something else with Dark Souls
+*If loot you discover is a "material," it can likely be crafted into something else with Dark Souls
 
 *Don't move vanilla NPC's like the Wizard, Mechanic or Goblin Tinkerer until you've found them in game. Modded NPCs may be moved.
 
@@ -65,6 +65,17 @@ Vibrent#7623 on Discord.com
 
 
 
+
+ENJOYED THIS MAP AND WANT TO SAY THANKS?
+------------------------------------------------
+
+The original TSORC released in 2012 was over 2 years in development (pre-and-post launch). The 2021 update for TModLoader has been another 9 months in development. If you'd like to support more work like this in the future or just want to say thanks, you can send me a tip via my Paypal account: https://paypal.me/timhjersted
+
+No matter how you show it, thanks for your support, and thanks for playing!
+
+
+
+
 TIPS & HINTS
 -------------------------------------------------
 
@@ -72,29 +83,17 @@ TIPS & HINTS
 
 *Future pickaxes will be used as keys to open gates made of ore. 
 
-*Play with the Recipe Browser mod to easily check what mod items can be crafted (using dark souls and normal items found in chests).
-
-*The Greater Magic Mirror provides some major benefits for fast travel and convenience. It can also be used to return to a tricky spot quickly, if you can remember to set your spawn point. 
-
-*Some friendly NPCS will sell new items after defeating certain bosses...
+*Play with the Recipe Browser mod to easily see if loot dropped from enemies or found in chests can be crafted into something else
 
 *Dark Souls are used for 99% of all special mod items, weapons and armors you can craft, and usually in combination with other found materials. 99% of regular Terraria content will be looted from chests.
 
-*Play with Auto-Pause turned ON (this will make reading signs and crafting stress free) and don't forget to use Quick Heal 
+*Play with Auto-Pause turned ON (this will make reading signs and crafting stress free)
 
 *Recommended Hot Keys: Pause/Inventory (R), Quick Heal (F), Quick Buff (B), Quick Mana (C), Grapple (E)
 
 *You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, leveling up your gear, and come back when you're stronger.
 
-*All boss summoning items are non-consumable so that you don't have to worry about running out of summoning chances. 
-
-*You won't be able to craft everything on your first play-through, so you will need to make choices about what you want to invest your souls in.
-
-*Keep an eye out for visual clues and secrets (there are many!)
-
 *You can stash excess ammo, weapons and armors in the safes and piggy banks found at save points. 
-
-*You can craft or buy potions and ammo or buy other basic stocks like these from NPCs. 
 
 *You will not be able to farm bosses for souls, but you can farm bosses for the materials they drop.
 
@@ -103,14 +102,6 @@ TIPS & HINTS
 *Good luck and have fun! 
 
 
-
-
-ENJOYED THIS MAP AND WANT TO SAY THANKS?
-------------------------------------------------
-
-This game was over 2 years in development (pre-and-post launch). The 1.3.3 update has been another 6 months in development. if you'd like to support more work like this in the future or just want to say thanks, you can send me a tip via my Paypal account: https://paypal.me/timhjersted
-
-No matter how you show it, thanks for your support, and thanks for playing!
 
 
 
