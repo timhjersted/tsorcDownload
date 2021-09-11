@@ -14,7 +14,7 @@ Added room for SHM boss
 
 MUSIC 0.3.3
 ------------------
-Fixed small bug preventing all music from playing. Whoops. :p
+Added music for Solar Eclipses
 
 
 MUSIC 0.3.2
