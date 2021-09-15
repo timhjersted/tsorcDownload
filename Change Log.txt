@@ -13,7 +13,7 @@ Enlarged Ar____ boss room
 Tweaked EoC boss room
 
 
-MUSIC 0.3.3
+MUSIC 0.3.4
 ------------------
 Added music for Moon Lord
 
