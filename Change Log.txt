@@ -1,5 +1,43 @@
 CHANGE LOG
 
+MAP 0.3.7
+------------------
+Moved all 4 Monoliths to new locations above ground and placed 3 SHM bosses in prior locations
+Added new location to fight the Blight and Witchking
+Added Peace Candles to a few boss rooms
+Changed section of Shadow Temple path from jungle to forest and added new background textures
+Deleted several recipe signs
+Moved Tabi
+Changed tile theme for Mountain Fortress
+Added bee hive 
+Secret jungle level skip is more feasible and more rewarding
+Removed 4 safe houses
+Moved 3 bonfires, added a few more
+Added sign saying Golem doesn't possess the Picksaw
+Added missing chest 
+Removed duplicate Nebula Monolith
+Plantera should be harder to enrage in its arena
+Added clue about the Pyramid of Golem
+Added 2 alt paths to Pyramid
+Added Temple Key to a chest
+Added teleporter to surface from Pyramid link
++5 Life Fruit
+Added secrets, fixed things
+Added cave near village 
+Added gem locks for 2 SHM bosses
+Added identifying blocks to several teleporters to hint at where they lead (glass for surface, grass for jungle etc)
+Replaced Tedit coordinate signs with text clues
+Changed mountain from pearlstone block to marble
+Encased hallow blocks in mud to prevent spread
+
+
+MUSIC 0.3.7
+------------------
+Updated music mod version number to always match the latest map release version
+Fixed Goblin Invasion music, Attraidies, & Witchking
+Changed Chaos song
+
+
 MAP 0.3.6
 ------------------
 Created new area for Vortex Monolith and moved it from previous location
@@ -13,7 +51,7 @@ Enlarged Ar____ boss room
 Tweaked EoC boss room
 
 
-MUSIC 0.3.4
+MUSIC 0.3.6
 ------------------
 Added music for Moon Lord
 
@@ -31,13 +69,9 @@ Revamped house near corruption mouth
 Added room for SHM boss
 
 
-MUSIC 0.3.3
+MUSIC 0.3.5
 ------------------
 Added music for Solar Eclipses
-
-
-MUSIC 0.3.2
-------------------
 Added mod music for the remaining SHM bosses
 
 

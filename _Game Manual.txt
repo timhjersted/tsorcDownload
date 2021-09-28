@@ -1,10 +1,6 @@
 
 
-
-
   :|:::       THE STORY OF RED CLOUD      :::|:
-
-
 
 
 
@@ -14,25 +10,19 @@ GAME MANUAL:
 
 *Make sure Adventure Mode is checked in the TSORC mod config options.
 
-*A pickaxe or sticky bomb can be used to break blocks that are 1 width wide. Stone gates need switches to open. If in doubt, go for it! 
-
 *Read signs in the order you come to them.
 
 *Read all item tool-tips for hints and game clues, especially mod items.
 
-*If loot you discover is a "material," it can likely be crafted into something else with Dark Souls
-
 *Don't move vanilla NPC's like the Wizard, Mechanic or Goblin Tinkerer until you've found them in game. Modded NPCs may be moved.
 
-*Dark Souls have special properties. On death, you will drop all your souls and have one chance to recover them. Die before this and they are gone for good. For a more forgiving experience, you can turn this off in the mod's Config options.
+*On death, you will drop all your Dark Souls and have one chance to recover them. For a more forgiving experience, you can turn this off in the mod's Config options.
 
 *Want to play multiplayer? Just turn off the two souls related options in the TSORC mod config. The map supports up to 3 players. Class diversity recommended.
 
 
 
-OFFICIAL RED CLOUD WIKI: 
---------------------------------------------
-http://the-story-of-red-cloud.wikia.com/wiki/Welcome!
+
 
 
 
@@ -78,12 +68,11 @@ No matter how you show it, thanks for your support, and thanks for playing!
 
 TIPS & HINTS
 -------------------------------------------------
-
-*Use health regen/defence potions during normal combat and when retrieving lost souls. Hoarded potions are of no use to the dead! ;)
-
-*Future pickaxes will be used as keys to open gates made of ore. 
+*If loot you discover is a "material," it can likely be crafted into something else with Dark Souls
 
 *Play with the Recipe Browser mod to easily see if loot dropped from enemies or found in chests can be crafted into something else
+
+*Use health regen/defence potions during normal combat and when retrieving lost souls. Hoarded potions are of no use to the dead! ;)
 
 *Dark Souls are used for 99% of all special mod items, weapons and armors you can craft, and usually in combination with other found materials. 99% of regular Terraria content will be looted from chests.
 
@@ -91,9 +80,9 @@ TIPS & HINTS
 
 *Recommended Hot Keys: Pause/Inventory (R), Quick Heal (F), Quick Buff (B), Quick Mana (C), Grapple (E)
 
-*You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, leveling up your gear, and come back when you're stronger.
+*You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, level up your gear, and come back when you're stronger.
 
-*You can stash excess ammo, weapons and armors in the safes and piggy banks found at save points. 
+*You can stash excess loot in the safe and piggy bank found at most save points. 
 
 *You will not be able to farm bosses for souls, but you can farm bosses for the materials they drop.
 
@@ -101,6 +90,13 @@ TIPS & HINTS
 
 *Good luck and have fun! 
 
+
+
+
+
+OFFICIAL RED CLOUD WIKI: 
+--------------------------------------------
+http://the-story-of-red-cloud.wikia.com/wiki/Welcome!
 
 
 
