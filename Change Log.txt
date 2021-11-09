@@ -3,7 +3,7 @@ CHANGE LOG
 
 MAP 0.3.8
 ------------------
-Added heart crystal to Corruption Temple
++1 heart crystal in Corruption Temple
 Expanded Skeletron boss room a bit more
 Fixed Eternia Crystal Stand battle area
 Removed errant biome blocks and walls from places they shouldn't be
@@ -17,6 +17,9 @@ Added clouds to Attraidies tower
 Moved Great Spirit sign
 Added Pyramid clue to sign
 Added cog wall to Machine battle room
++1 Molten Armor set for MP
++1 Obsidian Shield for MP
+
 
 
 MAP 0.3.7
