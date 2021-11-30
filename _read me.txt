@@ -1,0 +1,275 @@
+
+
+  :|:::       THE STORY OF RED CLOUD      :::|:
+
+
+
+GAME MANUAL:
+--------------------------------------------
+*Adventure Mode should be checked in the TSORC mod config options.
+
+*Read signs in the order you come to them.
+
+*Read all item tool-tips for hints and game clues, especially mod items.
+
+*Don't move vanilla NPC's like the Wizard, Mechanic or Goblin Tinkerer until you've found them in game. Modded NPCs may be moved.
+
+*On death, you will drop all your Dark Souls and have one chance to recover them. For a more forgiving experience, you can turn this off in the mod's Config options.
+
+*Want to play multiplayer? Just turn off the two souls related options in the TSORC mod config. The map supports up to 3 players. Class diversity recommended.
+
+
+
+
+
+
+
+DISCORD GROUP:
+--------------------------------------------
+https://discord.com/invite/kSptDbe
+
+Questions? Post them to #mod-questions or #map-questions
+
+Map suggestions or bugs to fix? Post to #map-suggestions-bugs
+
+
+
+
+THINGS I'D LOVE TO SEE:
+--------------------------------------------
+
+*VIDEO PLAYTHROUGHS: Share a link to the series in our Discord.
+
+COMMENTS/REVIEWS: Post them on our Discord or this Terraria Forum thread: https://forums.terraria.org/index.php?threads/the-story-of-red-cloud-dark-souls-mod-tconfig-edition.70670/
+
+MAP REMIXES: Adventure map creators are welcome to borrow or remix assets from the map in their own creations - just include credit to Tim Hjersted somewhere and let me know so I can check it out! I'm a big fan of remix culture.
+
+
+
+CONTACT 
+------------------------------------------------
+timhjersted@gmail.com
+Vibrent#7623 on Discord.com
+
+
+
+
+ENJOYED THIS MAP AND WANT TO SAY THANKS?
+------------------------------------------------
+
+The original TSORC released in 2012 was over 2 years in development (pre-and-post launch). The 2021 update for TModLoader has been another 9 months in development. If you'd like to support more work like this in the future or just want to say thanks, you can send me a tip via my Paypal account: https://paypal.me/timhjersted
+
+No matter how you show it, thanks for your support, and thanks for playing!
+
+
+
+
+TIPS & HINTS
+-------------------------------------------------
+*If loot you discover is a "material," it can likely be crafted into something else with Dark Souls
+
+*Play with the Recipe Browser mod to easily see if loot dropped from enemies or found in chests can be crafted into something else
+
+*Use health regen/defence potions during normal combat and when retrieving lost souls. Hoarded potions are of no use to the dead! ;)
+
+*Dark Souls are used for 99% of all special mod items, weapons and armors you can craft, and usually in combination with other found materials. 99% of regular Terraria content will be looted from chests.
+
+*Play with Auto-Pause turned ON (this will make reading signs and crafting stress free)
+
+*Recommended Hot Keys: Pause/Inventory (R), Quick Heal (F), Quick Buff (B), Quick Mana (C), Grapple (E)
+
+*You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, level up your gear, and come back when you're stronger.
+
+*You can stash excess loot in the safe and piggy bank found at most save points. 
+
+*You will not be able to farm bosses for souls, but you can farm bosses for the materials they drop.
+
+*You will die. Probably a lot. But don't stress it. It is part of the risk/reward satisfaction of the game. If I succeeded, when you beat this game (and every dungeon in between) you will feel a real sense of accomplishment and triumph.
+
+*Good luck and have fun! 
+
+
+
+
+
+OFFICIAL RED CLOUD WIKI: 
+--------------------------------------------
+http://the-story-of-red-cloud.wikia.com/wiki/Welcome!
+
+
+
+
+
+What's this teleporter doing here? Oh, it takes you to the organization I co-founded in 2006. Hurrahh! 
+
+https://www.filmsforaction.org
+
+
+
+
+
+
+
+
+. . .
+
+
+
+
+
+CREDITS:
+
+THE STORY OF RED CLOUD ADVENTURE MAP:
+Tim Hjersted aka Vibrent / Everything. Ahhh! :p
+
+
+MOD REVAMP (tModLoader Edition)
+Zeodexic / lead programmer
+RecursiveCollapse / programmer
+Chroma Equinox / programmer
+JayTeff / programmer
+W1k / coding help
+NephilimDeath / sprites
+Blasfah / sprites
+Frous / sprites + beta testing
+Mddznyan / sprites
+MarfMasterofDesaster / beta testing
+
+
+ORIGINAL DARK SOULS MOD (tConfig Edition):
+Tim Hjersted / Mod Director + Dark Souls concept + New content + Mod Remixing & Compiling**
+Yoraiz0r / Dark Souls + Dual Wielding + More Dark Souls features
+Omnir / Omnir's Mod
+W1k / W1k's Mod + help
+Draykon  / Dark Souls + Curtain of Bullets, Endgame
+Surfpup / No mining or placing tiles code
+Obsidian54 / Obsidian's Mod
+blahblahbal et al  / Avalon Mod
+VortexJ / Unobtanium
+Zoodletec / Necro Pack 
+Kujulo / Kujulo's Mod DLC
+Dogsonofawolf / NPCs
+Reborn Team / Reborn Mod
+Phlebas / Debuffs code
+FatObeseBird / League of Legends
+NerdyBoy, Reactorcore / Alchemistry
+PolarBMD / Terraria_
+Delra / Monster Hunter Mod
+KaneStaff  / Zelda Mod
+FrosTr / FrosTr's Misc Pack
+Scooterboot9697 / Metroid Mod
+Pwnager	/ Empowered Endgame
+SuperWeegee1 / Dream (Also credit Dream Team)
+Mitchellex / Wululu
+Acheld / Phoenix Down & Bookmarks
+Wooren / Sprites
+Sapharan / Legend of Sapharan 
+Flashkirby99 / Flashkirby's Weapons Mod
+Zero-Exodus/Omnir / Dark,Blood,Crystal Knights, Dark Cloud Sprites
+Heartstone25 / Covenant of Artorias blood moon code
+Ace the Best / Ace The Best's Final Fantasy Modification
+Solenix / Vertigo Elemental
+MiraiMai	 / Duel Wielding mod aka Mainslot-0
+Eikester  / Made Game Launcher and improved tConfig installation
+
+1.1 MOD UPDATE CONTRIBUTORS
+Tim Hjersted / Update director + new content and polish, see the original change log for more
+Grox The Great / coding help
+Zoodletech / content + sprites
+Avalon mod team / coding help
+Wooren / sprites
+Omnir / content + coding help
+Yorai / coding help
+Blahblahbal / coding help
+Flashkirby99 / mod content
+Zero-Exodus / sprites
+Scooterboot and W1k / Serris boss
+Whale Cancer / sprites
+Ace the Best / sprites
+Sapharan / select Legend of Sapharan content
+Heartstone25 / coding help
+Phlebas / debuff code
+Solenix / select Vertigo Elemental content
+
+
+
+CUSTOM SOUNDTRACK
+(tsorcMusic.tmod):
+
+This is the music soundtrack for The Story of Red Cloud, compiled and audio-mixed by Vibrent (updated for TmodLoader & Terraria 1.3.5). All credit and thanks for these songs go to the original composers and remixers and are used here under Fair Use.
+
+SONG CREDITS
+Titles in "". Author credit in ().
+____________________________________________________________________
+
+Boss 1 / "Dark Souls 3: Ludex Gundyr" (Tsukasa Saitoh / From Software)
+
+Boss 2 / "Battle of Stoicism" (Motoi Sakuraba / From Software) 
+
+Boss 3 / "Dark Souls 3: Abyss Watchers" (From Software)
+
+Boss 4 / "Bloodborne: The First Hunter" (From Software)
+
+Boss 5 / "Dark Souls 3: Slave Knight Gael" (From Software)
+
+Boss 6 / "Dark Souls: Knight Artorias" (From Software)
+
+Cavern / "Metroid Prime 2 - Torvus Bog Entrance" (Kenji Yamamoto)
+
+Corruption / Dark Souls Abyss ambient sounds (From Software) + "Hive Tunnel - Metroid Prime 2" (Nintendo)
+
+Crimson / "Super Metroid: Crateria Zebes Planetfall (Interior)" (The Blake Robinson Synthetic Orchestra) 
+
+Desert / "Forest Temple - The Legend of Zelda - Twilight Princess- " (Nintendo)
+
+Dungeon / Ocarina of Time - Spirit Temple Reorchestrated / Majora's Mask - Stone Tower Temple Reorchestrated (ZREO)
+
+Eerie / "Lakebed Temple  - The Legend of Zelda: Twilight Princess" (Koji Kondo)
+
+Hallow / "Skyward Sword - Skyview Temple Reorchestrated" (ZREO)
+
+Jungle / "Ocarina of Time - Fire Temple Reorchestrated" (ZREO)
+
+Mushrooms / "The Legend of Zelda: Skyward Sword - Goddess Mission" (Hajime Wakai, Shibo Fujii, Mahito Yokota, Takeshi Hama, Koji Kondo)
+
+Night / "Skyward Sword - Separation" (Nintendo) / "Skyward Sword - Sealed Temple" (Nintendo)
+
+Ocean / "The Legend of Zelda: Skyward Sword - Sailing the Sand Sea"(Hajime Wakai, Shiho Fujii) mixed with desert wind sounds
+
+Overworld Day / "A Link to the Past - Dark Overworld Theme Reorchestrated" (ZREO) / "The Minish Cap - Mt. Crenel Reorchestrated" (ZREO)
+
+Rain / "Faron Woods" (ZREO)
+
+Sandstorm / "The Legend of Zelda Breath of the Wild - Attack on Vah Naboris" (Nintendo)
+
+Space / "Chozo Statue Awakens" (The Blake Robinson Synthetic Orchestra) 
+
+Pillars / "Dark Souls - The Ancient Dragon" (From Software)
+
+Underground / "Ocarina of Time - Forest Temple Reorchestrated" (ZREO)
+
+Underground Corruption / "Twilight Princess - Arbiters Grounds" (Nintendo)
+
+Underground Crimson / "Brinstar - Underground Depths" (The Blake Robinson Synthetic Orchestra) mixed with "Dark Souls Ambient Sounds  - Pinwheels Sarcophagus (From Software)"
+
+Underground Desert / "Desert Temple - Minecraft Dungeons" (Johan Johnson)
+
+Underground Eerie / "Great Bay Temple, TLOZ: Majora's Mask" (Koji Kondo, Nintendo)
+
+Underground Hallow / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
+
+Underground Mushrooms / "Ocarina of Time - Temple of Time" (ZREO)
+
+Snow / "Dark Souls - Crystal Caves Ambient Sounds" (From Software)
+
+Underground Snow / "Metroid Prime 2: Torvus Bog Subterranean Theme"  (Kenji Yamamoto)
+
+Underworld / "Pinwheels Sarcophagus - Ambient Sounds, Dark Souls" (From Software)
+
+Mixed in as transitions in certain songs: 
+"Cave Ambience" (Jross aka Xeltic89)
+"Frog Chorus" (Echoes of Nature album by American Wilds)
+"Deep Woods" (Echoes of Nature album by American Wilds)  
+"Crickets" (Echoes of Nature album by American Wilds)
+
+ZREO =  Zelda Reorchestrated : http://www.zreomusic.com/
