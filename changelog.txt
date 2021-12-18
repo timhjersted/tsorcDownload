@@ -30,7 +30,7 @@ Fixed typos
 MUSIC 0.3.11
 ------------------
 Fixed mod music not playing for several vanilla bosses
-
+Fixed corruption and crimson music rain bug
 
 
 MAP 0.3.10
