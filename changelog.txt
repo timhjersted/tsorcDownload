@@ -1,5 +1,38 @@
 CHANGELOG
 
+MAP 0.3.11
+------------------
+Turned Forgotten City back to jungle biome
+Game now starts at night, for atmosphere and sorrow
+Increased dungeon brick count for all dungeon biomes to ensure dungeon enemies spawn more reliably
+Tweaked starting area to hint at roof path and added a few flasks of fire and a boreal wood bow to the first chest
+Moved clue sign about the Blight and added clue sign for Artorias
+Expanded Witchking area slightly
+Reduced frozen biome range in the Earth Temple
+Added Bone Sword and clue about seemingly useless items to Earth Temple
+Added secret location and treasure, post EoW
+Moved Large Amethyst Gem
+Added clue for Chaos, moved clue for the Blight
+Added more vines to secret area
+Added secret bonfire to Meteorite Temple
+Added boss room and bonfire for Seath the Scaleless
+Removed Hallow blocks from Mountain Fortress to maintain ice biome
+Added 1 more rope path to village cliff 
+Raised height of Rage boss room
++2 Hellwing Bow
+Changed "Forest" and "Hallow" background
+Tweaked 1 trap, added 1 new
+Added moss to starting area
+Moved Ranger and Sorcerer Emblems
+Fixed typos
+
+
+MUSIC 0.3.11
+------------------
+Fixed mod music not playing for several vanilla bosses
+
+
+
 MAP 0.3.10
 ------------------
 Changed the biome type in the Forgotten City from jungle to forest
