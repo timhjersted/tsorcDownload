@@ -6,7 +6,7 @@
 
 GAME MANUAL:
 --------------------------------------------
-*Adventure Mode should be checked in the TSORC mod config options.
+*Adventure Mode should stay checked in the TSORC mod config options.
 
 *Read signs in the order you come to them.
 
@@ -16,7 +16,9 @@ GAME MANUAL:
 
 *On death, you will drop all your Dark Souls and have one chance to recover them. For a more forgiving experience, you can turn this off in the mod's Config options.
 
-*Want to play multiplayer? Just turn off the two souls related options in the TSORC mod config. The map supports up to 3 players. Class diversity recommended.
+*New dodge roll action with i-frames can be bound to any key via the mod config
+
+*Want to play multiplayer? The map supports up to 3 players. Class diversity recommended. Souls will not drop on death when playing MP.
 
 
 
@@ -35,7 +37,7 @@ Map suggestions or bugs to fix? Post to #map-suggestions-bugs
 
 
 
-THINGS I'D LOVE TO SEE:
+THINGS WE'D LOVE TO SEE:
 --------------------------------------------
 
 *VIDEO PLAYTHROUGHS: Share a link to the series in our Discord.
@@ -50,17 +52,6 @@ CONTACT
 ------------------------------------------------
 timhjersted@gmail.com
 Vibrent#7623 on Discord.com
-
-
-
-
-ENJOYED THIS MAP AND WANT TO SAY THANKS?
-------------------------------------------------
-
-The original TSORC released in 2012 was over 2 years in development (pre-and-post launch). The 2021 update for TModLoader has been another 11 months in development. If you'd like to support more work like this in the future or just want to say thanks, you can send me a tip via my Paypal account: https://paypal.me/timhjersted
-
-No matter how you show it, thanks for your support, and thanks for playing!
-
 
 
 

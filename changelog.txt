@@ -1,5 +1,22 @@
 CHANGELOG
 
+MAP 0.3.12
+------------------
+Improved Fire Temple (less cramped, more ash blocks to step on, more crystal hearts)
+Added 2 peace candles to the burned down village to give the opening an atmosphere of solitude
+Game starts a bit later in the morning; 2 mushroom blocks added to grave for lighting
+Reduced dirt layer by 5 
+Added clue about Ghost Wyvern Mage
+Separated gate switches inside village wall to reduce reliance on secret switch in mote
+Burned down village has more background moss
++1 Sharpening Stone in village
+
+
+MUSIC 0.3.12
+------------------
+Night music plays if the player is within the burned down village and they have not yet killed a boss
+
+
 MAP 0.3.11
 ------------------
 Turned Forgotten City back to jungle biome
@@ -70,6 +87,7 @@ Small tweaks and polish added
 Removed 2 recipe signs, added 2 clue signs
 Fixed typos
 Added bonfire to the far west
+
 
 MUSIC 0.3.9
 ------------------
