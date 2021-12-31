@@ -16,6 +16,7 @@ Added spider wall to Western ocean, deep, and in the underworld
 Corruption temple lava/desert biome jumping section is slightly easier
 Added shine potions near flooded mine
 Flooded mine shortcut now activated by teal pressure pad
+Portion of path of pain is now underground desert
 
 
 MAP 0.3.12
