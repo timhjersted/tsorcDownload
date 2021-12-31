@@ -1,5 +1,23 @@
 CHANGELOG
 
+MAP 0.3.13
+------------------
+Added 7 new houses + 1 new bedroom for NPCs in the village 
+Added more trees, vines and another rope cliff on the village mountain
+Added secret near ??? encounter
+Added more snow and ice to the twin peaks bridge
+Added another tunnel in the mountain
+Made important boss gate more clear
+Added large mass of coral reef to ocean
+Changed outdated boss clue
+Improved death boss clue
+Cloud in a Bottle is no longer in a locked chest
+Added spider wall to Western ocean, deep, and in the underworld
+Corruption temple lava/desert biome jumping section is slightly easier
+Added shine potions near flooded mine
+Flooded mine shortcut now activated by teal pressure pad
+
+
 MAP 0.3.12
 ------------------
 Improved Fire Temple (less cramped, more ash blocks to step on, more crystal hearts)
