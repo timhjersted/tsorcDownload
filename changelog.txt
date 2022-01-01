@@ -1,5 +1,14 @@
 CHANGELOG
 
+MAP 0.3.14
+------------------
+Fixed and polished multiple things introduced in .13
+Secret near ??? now accessible
+Two beds above tavern now accessible
+Added a bonfire near Twin Peaks
+Path of Pain has more desert biome
+
+
 MAP 0.3.13
 ------------------
 Added 7 new houses + 1 new bedroom for NPCs in the village 
