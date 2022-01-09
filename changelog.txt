@@ -1,5 +1,10 @@
 CHANGELOG
 
+MAP 0.3.16
+------------------
+Fix for door that could block you from the final boss room if you die
+
+
 MAP 0.3.15
 ------------------
 Added two events and new rooms for Path of Pain
