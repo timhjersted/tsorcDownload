@@ -1,5 +1,25 @@
 CHANGELOG
 
+MAP 0.3.15
+------------------
+Added two events and new rooms for Path of Pain
+Fixed two puzzles that were passable but not working as intended
+Changed entrance to secret near ???
+Added lanterns to bridge near Earth Temple
+More crimson texture in areas of PoP
+Fewer jumps needed in mountain maze
+Fixed door that couldn't open in village
+Added Shadewood wall to room with EoC
+Increased height of EoW 2 room
+Somewhat painstakingly finished adding stone walls to Forgotten City
+Added more details to FC room and other nearby areas
+Added more statues in two dungeons
++1 Pocket Mirror
+Touched up Catacomb walls missing grey paint
+Added more detail to entrance to Catacombs
+Added puzzle clue near Forgotten City
+
+
 MAP 0.3.14
 ------------------
 Fixed and polished multiple things introduced in .13

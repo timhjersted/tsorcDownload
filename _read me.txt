@@ -6,8 +6,6 @@
 
 GAME MANUAL:
 --------------------------------------------
-*Adventure Mode should stay checked in the TSORC mod config options.
-
 *Read signs in the order you come to them.
 
 *Read all item tool-tips for hints and game clues, especially mod items.
@@ -19,6 +17,8 @@ GAME MANUAL:
 *New dodge roll action with i-frames can be bound to any key via the mod config
 
 *Want to play multiplayer? The map supports up to 3 players. Class diversity recommended. Souls will not drop on death when playing MP.
+
+*Adventure Mode should stay checked in the TSORC mod config options.
 
 
 
@@ -67,7 +67,7 @@ TIPS & HINTS
 
 *Play with Auto-Pause turned ON (this will make reading signs and crafting stress free)
 
-*Recommended Hot Keys: Pause/Inventory (R), Quick Heal (F), Quick Buff (B), Quick Mana (C), Grapple (E)
+*Recommended Hot Keys: Pause/Inventory (Q), Quick Heal (F), Quick Buff (B), Quick Mana (C), Grapple (E), Dodge roll (Right Mouse Click), Action Key (Left Shift)
 
 *You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, level up your gear, and come back when you're stronger.
 
@@ -75,7 +75,7 @@ TIPS & HINTS
 
 *You will not be able to farm bosses for souls, but you can farm bosses for the materials they drop.
 
-*You will die. Probably a lot. But don't stress it. It is part of the risk/reward satisfaction of the game. If I succeeded, when you beat this game (and every dungeon in between) you will feel a real sense of accomplishment and triumph.
+*You will die. Probably a lot. But don't stress it. It is part of the risk/reward satisfaction of the game. If we succeeded, when you beat this game (and every dungeon in between) you will feel a real sense of accomplishment and triumph.
 
 *Good luck and have fun! 
 
@@ -115,7 +115,7 @@ Tim Hjersted aka Vibrent / Everything. Ahhh! :p
 
 
 MOD REVAMP (tModLoader Edition)
-Zeodexic / lead programmer
+Zeodexic / programmer
 RecursiveCollapse / programmer
 Chroma Equinox / programmer
 JayTeff / programmer
