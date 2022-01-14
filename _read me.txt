@@ -10,8 +10,6 @@ GAME MANUAL:
 
 *Read all item tool-tips for hints and game clues, especially mod items.
 
-*Don't move vanilla NPC's like the Wizard, Mechanic or Goblin Tinkerer until you've found them in game. Modded NPCs may be moved.
-
 *On death, you will drop all your Dark Souls and have one chance to recover them. For a more forgiving experience, you can turn this off in the mod's Config options.
 
 *New dodge roll action with i-frames can be bound to any key via the mod config

@@ -1,4 +1,34 @@
 CHANGELOG
+MAP 0.3.17
+------------------
+Made several noticeable changes to the Corruption Temple
+Removed 3 vanilla NPCs from the map. They'll now load in via the mod. This means another game manual rule can be removed!
+Transplanted difficult desert section in the Corruption temple to the Meteor Temple and made old section corruption biome
+Moved bonfire in Meteor temple and added more detail to secret entrance
+Moved Key in Jungle
+Added more clues and shortcut for Jungle puzzle
+Improved Red Knight mini-boss encounter rooms
+Removed cobalt gate near West Forgotten City tower
+Added bonfire to Fire Temple and enhanced clues for hidden bonfires
+Added new shortcut from fire temple bonfire
+Expanded caverns and textures in Fire Temple
+Filled in gaps in many bridges in the underworld to enhance late-game enemy combat
+Added bonfire and more detail to end of Catabombs
+Changed Molten Sky Temple's color scheme and added more detail; +1 bonfire
+Tweaked late-game underworld and added 1 bonfire + shortcut
+Dungeon Guardian harder to trigger in 1 area
+Shortcut to village added to corruption area
++1 heart crystal to Corruption path
+Secret near Corruption Temple slightly harder to spot
+Portion of underworld lava hardens in late-game
+Filled in wall gaps in Origin of the _____
+Going to the Meteor Temple has 1 new benefit depending on the path you go
+Removed safe house in Meteor Temple and replaced with bonfire nearby
+Added shortcut in Shadow Temple
+Added progression hint post-EoW2
+Lots more small tweaks I forget ;p
+
+
 
 MAP 0.3.16
 ------------------
