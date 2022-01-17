@@ -1,28 +1,4 @@
 CHANGELOG
-MAP 0.3.18  
-------------------
-IMPORTANT NOTICE FOR PLAYERS WHO DOWNLOADED THE LAST UPDATE:
-**FIXED 2 progression-blocking puzzles in the Catacombs (plus 3 optional puzzles), which broke in the last update, requiring players to turn off adventure mode to mine through some blocks. One involves solid blocks, where the next room can be seen below; the other is in lava, where the passageway is 1 tile too short
-Enlarged and reimagined EoW2 boss room
-Added platforms to MST and Catacombs
-Added peace candle to story event zone and removed nearby water candle
-Refined jungle puzzle clue and expanded nearby tunnel
-Made a few more cavern portions larger for fighting
-Added more lights to Forgotten City and path to the next area
-Added 3 more bonfires
-Added 3 weird block combos soon to turn into mod loot
-Changed Chaos arena tile and wall textures
-Moved Wasp Gun
-In Hunter Ruins: Replaced 1 bed save with bonfire, moved 1 bonfire, removed safe house, added rope & small shortcut 
-Removed music box near MST
-Moved 1 bonfire in surface jungle
-Replaced 1 bed near Skeletron with bonfire
-+3 Bewitching Tables
-
-
-
-
-
 MAP 0.3.17
 ------------------
 Made several noticeable changes to the Corruption Temple
