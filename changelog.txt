@@ -1,7 +1,46 @@
 CHANGELOG
+MAP 0.3.19  
+------------------
+Enlarged and reimagined EoW2 boss room
+Added peace candle to story event zone in FC
+Replaced Water Candles in FC with green candles
+Refined jungle puzzle clue and expanded nearby tunnels
+Added bonfire to Jungle Temple and removed safe house
+Made a couple more cavern portions larger for fighting
+Added more lights to Forgotten City and path to the next area
+Added more visuals clues for Fire Temple switch location and created a hidden route
+Added a dozen+ weird block combos around the map that will turn into mod loot
+Changed Chaos arena tile and wall textures
+Moved Wasp Gun and changed loot
+Hunter Ruins: Removed 1 bonfire and bed; replaced 1 bed save with bonfire; added desert background, fixed sand sections that caved in and looked strange
+Removed music box near MST
+Moved 1 bonfire in surface jungle
+Replaced 1 bed near Skeletron with bonfire, changed nearby bed sprites
++3 Bewitching Tables
+Changed more desert section in Corruption Temple to corruption and switched a few statues
+Added teleporter in Wyvern Mage Fortress (WMF)
+Removed shortcut to old area near Frozen Ocean surface, added something else
+Added signs about the Wyvern Mage Fortress
+Added benefit to engaging King Slime in its lair
+Fixed explosive that could dislodge undesired items in Corruption Temple
+Shadow Temple: added 2 more shortcuts, replaced 2 safe houses with bonfires, one of which can now be accessed on the path to the Catacombs 
+Removed NPC jail
+Dungeon Guardian less likely to trigger when exploring the super secret path to Skeletron
+Added more lore text near Skeletron
+Removed 1 bonfire from WMF
+
+
+MUSIC 0.3.19  
+------------------
+Added music for ???, Red Knight and Hero of Lumelia events 
+Added music for Etherian Lightning Bugs, Ice Golem, and Eternia Event
+Fixed vanilla music playing when a primordial crystal was onscreen but Seath was not
+Fixed the game occasionally crashing if you left a world and *immediately* reloaded mods while the rain music was still fading out in the background
+
+
 MAP 0.3.18  
 ------------------
-IMPORTANT NOTICE FOR PLAYERS WHO DOWNLOADED THE LAST UPDATE:
+IMPORTANT NOTICE FOR PLAYERS WHO DOWNLOADED THE PREVIOUS UPDATE:
 **FIXED 2 progression-blocking puzzles in the Catacombs (plus 3 optional puzzles), which broke in the last update, requiring players to turn off adventure mode to mine through some blocks. One involves solid blocks, where the next room can be seen below; the other is in lava, where the passageway is 1 tile too short
 --
 Added platforms to MST and Catacombs
