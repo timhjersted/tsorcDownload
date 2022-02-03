@@ -1,4 +1,38 @@
 CHANGELOG
+MAP 0.3.20  
+------------------
+Town well no longer gimps you
+Frozen Ocean and Hallow Caverns have been excavated 
+Wyvern Mage Fortress has been reinforced - 2 challenges harder to cheese
+Sky Fracture moved
+Hallowed Cavern entrance tweaked
+More recipe signs removed
+Water pumps in Sorrow's boss room fixed
+Removed clue 
+Weird immovable wooden block deleted near Western sea
+More sprites updated/added
+Destroyer Temple no longer triggers mushroom biome
+Removed gate near end of Meteor Temple that was outdated
+Added more meteorite to place above ground
+Replaced some mountain platforms with ice platforms; added large cavern in mountain
+Some Shadow Temple pressure plates can no longer be triggered by enemies
+Wizard trap is less punishing
+Peace candle added to story area
+More spikes added to Golem's boss room
+2 Golem Temple shortcuts more useful; deleted 1 bonfire
+Progression exploit between HM and SHM area fixed
+Reduced loot in chest with Temple Key so it stands out
+Moved 2 chests in the jungle and added underground lake
+1 Catacombs shortcut added
+Mini-puzzles added to turquoise mini-dungeon
+Removed bonfire in hallowed caverns
+More little things
+
+MUSIC MOD 0.3.20  
+------------------
+The Twins now play mod music
+
+
 MAP 0.3.19  
 ------------------
 Enlarged and reimagined EoW2 boss room
