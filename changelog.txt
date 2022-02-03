@@ -28,7 +28,7 @@ Mini-puzzles added to turquoise mini-dungeon
 Removed bonfire in hallowed caverns
 More little things
 
-MUSIC MOD 0.3.20  
+MUSIC 0.3.20  
 ------------------
 The Twins now play mod music
 
