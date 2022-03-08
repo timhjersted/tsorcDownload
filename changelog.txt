@@ -1,4 +1,30 @@
 CHANGELOG
+MAP 0.3.21  
+------------------
+Added a few new pre-EoC secrets and progression-skips (if you find them, please be cryptic and use ||redacted spoiler text here|| in Discord to discuss them
+Fixed 2 progression-blocking puzzle walls in the SHM "dungeon with blue flames" (you will need to turn off adventure mode to mine through the walls if playing on a previous map)
+Glass Prison got some more attention and detail
+The Hunter, The Rage and the Litch King now spawn from a golden ring, instead of a craftable summon item (needs latest mod update to work)
+Larger portion of the jungle is also crimson and is cast in greater darkness
+Meteor Temple is slightly more spacious + a particular trap room is less lethal 
+Crimson zone near jungle underground is larger
+Path to the Catacombs adjusted (2 extra "shortcut" gates were also removed since they teased possible progression options that are no longer used)
+Path to jungle loot adjusted slightly to account for new progression options
+Tweaked The Sorrow's water pumps to avoid overflowing the boss room with water
+Fixed two signs that had their text removed in a previous update
+Fixed more typos
+Fixed a broken bed in The Machine Temple
+Removed unintended Soul of Fright exploit
+More small tweaks
+
+
+
+MUSIC 0.3.21
+------------------
+Added boss music for Ancient Demon 
+Tried to fix Sandstorm music not playing sometimes
+
+
 MAP 0.3.20  
 ------------------
 Town well no longer gimps you
