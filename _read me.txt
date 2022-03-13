@@ -16,8 +16,6 @@ GAME MANUAL:
 
 *Want to play multiplayer? The map supports up to 3 players. Class diversity recommended. Souls will not drop on death when playing MP.
 
-*Adventure Mode should stay checked in the TSORC mod config options.
-
 
 
 
@@ -32,6 +30,8 @@ Questions? Post them to #mod-questions or #map-questions
 
 Map suggestions or bugs to fix? Post to #map-suggestions-bugs
 
+Love reading changelogs? Read them at #map-changelog and #mod-changelog
+
 
 
 
@@ -40,7 +40,7 @@ THINGS WE'D LOVE TO SEE:
 
 *VIDEO PLAYTHROUGHS: Share a link to the series in our Discord.
 
-COMMENTS/REVIEWS: Post them on our Discord or this Terraria Forum thread: https://forums.terraria.org/index.php?threads/the-story-of-red-cloud-dark-souls-mod-tconfig-edition.70670/
+COMMENTS/REVIEWS: Post them on our Discord or this Terraria Forum thread: https://forums.terraria.org/index.php?threads/the-story-of-red-cloud-a-dark-souls-inspired-adventure-game.110169/
 
 MAP REMIXES: Adventure map creators are welcome to borrow or remix assets from the map in their own creations - just include credit to Tim Hjersted somewhere and let me know so I can check it out! I'm a big fan of remix culture.
 
@@ -59,7 +59,7 @@ TIPS & HINTS
 
 *Play with the Recipe Browser mod to easily see if loot dropped from enemies or found in chests can be crafted into something else
 
-*Use health regen/defence potions during normal combat and when retrieving lost souls. Hoarded potions are of no use to the dead! ;)
+*Use health regen/defense potions during normal combat and when retrieving lost souls. Hoarded potions are of no use to the dead! ;)
 
 *Dark Souls are used for 99% of all special mod items, weapons and armors you can craft, and usually in combination with other found materials. 99% of regular Terraria content will be looted from chests.
 
@@ -70,8 +70,6 @@ TIPS & HINTS
 *You may be able to fight a boss before you are able to beat it. If in doubt, continue exploring, level up your gear, and come back when you're stronger.
 
 *You can stash excess loot in the safe and piggy bank found at most save points. 
-
-*You will not be able to farm bosses for souls, but you can farm bosses for the materials they drop.
 
 *You will die. Probably a lot. But don't stress it. It is part of the risk/reward satisfaction of the game. If we succeeded, when you beat this game (and every dungeon in between) you will feel a real sense of accomplishment and triumph.
 

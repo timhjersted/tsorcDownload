@@ -1,4 +1,31 @@
 CHANGELOG
+MAP 0.3.22  
+------------------
+Added another secret path into the corruption temple 
+Added subtle visual hint for secret boots and other secrets
+Created 1 new little secret path into the Earth Temple
+Created secret path between Hallowed Caves and the Frozen Ocean
+The Twins cannot be fought until a pickaxe 1 level higher is obtained
+Added more demon altars
+Added Path of Pain warning 
+Added Corruption Temple clue
+Added a little secret side path after EoC that hints at next direction to go
+Added lots of holy arrows to chests to compensate for them not being farmable from unicorns
+Reduced desert walls in a Corruption Temple room
+Changed some story text so that players know to read the boss shards for clues
+Changed Attraidies story sign a bit
+Added lore sign that describes the Corruption Tunnel
+Path of Pain is slightly more hidden
+Part of the Frozen Ocean has been cast in a cloudy fog
+Added something needed to escape early mini-boss room
+Added 2 extra Slime Crowns 
+Adjusted the EAST/WEST navigation signs and put a lantern next to one so it's harder to miss
+Raised height of Skeletron boss room shrine for the final time
+Filled 2 empty chests
+Lots more small tweaks
+
+
+
 MAP 0.3.21  
 ------------------
 Added a few new pre-EoC secrets and progression-skips (if you find them, please be cryptic and use ||redacted spoiler text here|| in Discord to discuss them
