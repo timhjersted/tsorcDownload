@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 0.3.23  
+------------------
+Made a few changes to the Earth Temple
+Added a couple more lanterns for game design reasons
+Filled in floor gaps in Slogra's boss room to fix rolling into the lava
+Added more background walls to places they were missing
+
+
 MAP 0.3.22  
 ------------------
 Added another secret path into the corruption temple 
