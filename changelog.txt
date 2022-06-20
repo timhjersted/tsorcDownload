@@ -1,4 +1,76 @@
 CHANGELOG
+MAP 0.4.1 
+------------------
+Added bonfire to village
+Buffed loot in secret mountain fortress chest
+Added more platforms and chains to Machine boss room
+Added a few more lanterns
+Added a little more space to EoC boss room
+Fixed Earth Temple platforming exploit
+Removed some text on a sign leading to the village
+
+
+MAP 0.4 
+Updated map for tModLoader 1.4 / Terraria 1.4. (Credit: MarfMasterofDesaster)
+------------------
+Replaced early(pre-Skeletron) instances of Bowls of Soup with Teacups
+Added few Bowls of Soup in post-Skeletron areas
+Added a Teapot and 100 Bottled Water to make more Teacups in the starter town + a very menacing potion...
+Added some Golden Delight at late stages(post-mech areas)
+Added  a few of all varieties of Luck Potions and a chest containing them
+Added Leather Whip at start
+Added Abigail's Flower at town
+Added a chest containing the Blood Rain Bow inside of a miniboss event area
+Replaced an instance of Wand of Sparking with a Thunder Zapper
+Added a Deer Thing(Deerclops summon) to a Snowy mountain
+Added Finch Staff at starter mountain
+Added 2 Summoning Potions to Earth Temple
+Added Storm Spear to Earth Temple
+Added Flinx Staff to Path of Pain™️
+Added Tentacle Spike to Path of Pain™️
+Added some Flipper Potions to Path of Pain™️
+Added Terragrim to Path of Pain™️
+Added Amphibian Boots to Path of Pain™️
+Added a chest containing Dunerider Boots, Celestial magnet and Mystic Robe to Path of Pain behind a miniboss
+Added a chest containg the Gi and Flinx Fur Coat to Path of Pain™️ behind a miniboss
+Added Snapthorn to Corruption Temple
+Added Celestial magnet to Jungle Temple
+Added Treasure Magnet to Jungle Temple
+Added Vampire Frog Staff to Jungle Temple
+Added Spinal Tap to Forgotten City
+Added Arkhalis to Fire Temple 
+Added Pirate Staff to Hallowed Caverns
+Added Gelatin Crystals to Hallowed caverns
+Added Ham Bat to Hardmode Crimson Cave
+Added Cool Whip to Frozen Ocean
+Added Firecracker to Hell(hardmode part)
+Added Optic Staff to Wyvern Mage's Fortress
+Added 2 bonfires in hardmode desert
+Added Berserker's Glove to Shadow Temple
+Added Hallowed Jousting Lance to Shadow Temple
+Added a chest containing Blood Thorn to Shadow Temple
+Added Drippler Crippler to Shadow Temple
+Added Unholy Trident to Shadow Temple
+Added Sanguine Staff to Skeletron Primes Temple
+Added 2 platforms to Skeletron Primes Arena
+Added Hallowed Hood(summoner helmet) to Hallowed Armor shrine
+Added Durendal to Hallowed Armor Shrine
+Added Resonance Scepter to Locked Hallowed Chest
+Added Terraspark Boots in Yggdrasil Tree in hardmode
+Added Shadow Jousting Lance in The Catacombs
+Added Dark Harvest in the spooky wood secret area
+Replaced Optic Staff in The Catacombs with Morning Star(whip)
+Added a stack of Potions of Return to Path of Pain™️
+Set Stylist to having been saved
+Set Tax Collector to having been saved
+Set Golfer to having been saved
+
+
+MUSIC 0.4
+------------------
+Updated music mod for tModLoader 1.4 (Credit: Recursive Collapse)
+
+
 MAP 0.3.23  
 ------------------
 Made a few changes to the Earth Temple
