@@ -1,4 +1,11 @@
 CHANGELOG
+MAP 0.4.3 
+------------------
+Fixed 4 mannequins that lost their armor in a previous update (Boreal, Copper, Silver & Necro)
+Added Desert Chest, Tiger Staff, and Desert Key
+Added clue for hidden chest in the jungle and buffed loot
+
+
 MAP 0.4.2 
 ------------------
 Added boss arena for Empress of Light
