@@ -1,4 +1,16 @@
 CHANGELOG
+MAP 0.4.4 
+------------------
+Added more swiftness potions to early-game chests
+Added queen slime summoning item to caverns
+Added sign explaining the dodge roll (it's bound to Left Alt by default)
+Added sign in village tower noting some abandoned supplies in the mountain caverns nearby
+Added "supplies" and a few camp-themed sprites to mountain caverns
+Fixed two tight spots you could get stuck (needing a dodge roll to escape previously)
+Added more visual clues hinting at two secret early-game progression paths 
+Made a hidden bonfire easier to spot
+
+
 MAP 0.4.3 
 ------------------
 Fixed 4 mannequins that lost their armor in a previous update (Boreal, Copper, Silver & Necro)
