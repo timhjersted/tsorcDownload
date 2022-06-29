@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.4.5 
+------------------
+Fixed another 7 mannequins missing armor (Gold, Jungle, Meteorite, Molten)
+Trimmed opening story text slightly
+Extended town well chain
+Buffed loot along secret early-game progression skip
+Added several peace candles outside Hunter boss room and 1 more to Skeletron's room
+Fully collapsed a mountain path so folks didn't think it was a puzzle
+
+
 MAP 0.4.4 
 ------------------
 Added more swiftness potions to early-game chests
