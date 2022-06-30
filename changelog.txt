@@ -1,7 +1,24 @@
 CHANGELOG
+MAP 0.4.6 
+------------------
+Fixed 3 cobweb-based puzzles that activated prematurely due to 1.4 update
+Added peace candles to EoW boss room
+Added more light to Slogra boss room
+Added alternate method of accessing 2 early-game secret areas
++1 heart crystal in Earth Temple
+Earth Temple edits to encourage exploring past EoC
+More crystals hinting at more paths and secrets
+Tiny text edits
+Added more smoke to key destination
+Replaced 1 early-game Slime Crown with musket shot, so getting to the East necessitates one of the many map-based solutions 
+Reduced stack of Mechanical Eye's to 1
+Added note about crafting Aaron's Protection stone when refighting The Wall
++ 2 Demon Altars
+
+
 MAP 0.4.5 
 ------------------
-Fixed another 7 mannequins missing armor (Gold, Jungle, Meteorite, Molten)
+Fixed another 7 mannequins missing armor (2x Gold, 2x Jungle, 2x Meteorite, 1x Molten that's also in a chest)
 Trimmed opening story text slightly
 Extended town well chain
 Buffed loot along secret early-game progression skip
