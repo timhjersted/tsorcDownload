@@ -1,4 +1,21 @@
 CHANGELOG
+MAP 0.4.7 
+------------------
+Changed the secret path between the Jungle Temple and Meteorite Temple 
+Added teleport between Attraidies' tower and another location
+Tweaked areas near desert secrets
+Added another teal pressure plate puzzle in the Earth Temple with a bow nearby
+Changed the path from the Earth Temple exit to the village so it's harder to miss
+Named the caverns to the West of the village Arazium's Mountain Caverns
++1 crystal heart in Meteorite Temple
++1 crystal heart in Arazium's Mountain Caverns + nearby bonfire is harder to miss
++6 crystal hearts in Wyvern Mage Fortress and removed outdated boss summon materials
++15 crystal hearts near Corrupted Dragon Perch
+Added teleport between Earth Temple outskirts and another location
+Added bonfire and more details near entrance to the Shadow Temple
+Minor land and text edits
+ 
+
 MAP 0.4.6 
 ------------------
 Fixed 3 cobweb-based puzzles that activated prematurely due to 1.4 update
@@ -13,7 +30,6 @@ Added more smoke to key destination
 Replaced 1 early-game Slime Crown with musket shot, so getting to the East necessitates one of the many map-based solutions 
 Reduced stack of Mechanical Eye's to 1
 Added note about crafting Aaron's Protection stone when refighting The Wall
-+ 2 Demon Altars
 
 
 MAP 0.4.5 
