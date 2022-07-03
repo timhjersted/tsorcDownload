@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 0.4.8 
+------------------
+Added teleporter connecting the Earth Temple and a secret path
++1 crystal heart near start of the game, but hidden
+Named a recently created path the Path of Mystery and another area the Lost Oolacile Forest
+More crystals and small edits offering more clues
+
+
 MAP 0.4.7 
 ------------------
 Changed the secret path between the Jungle Temple and Meteorite Temple 
