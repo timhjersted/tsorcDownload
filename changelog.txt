@@ -1,4 +1,13 @@
 CHANGELOG
+MAP 0.4.10 
+------------------
++1 Shadow Key
+Tweaked entrance to Shadow Temple
+Added teleports connecting a desert location and the Shadow Temple
+More peace candles 
+New path connecting Jungle and Meteorite Temple outskirts
+
+
 MAP 0.4.9 
 ------------------
 Re-hid secret chest in the jungle
