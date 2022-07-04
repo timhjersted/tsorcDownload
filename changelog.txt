@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.4.9 
+------------------
+Re-hid secret chest in the jungle
+Moved teleporter that leads to secret path; previous teleporter now goes to new location
+Removed cloud background near the Blight to assist projectile visibility
+Path of Mystery has +1 small puzzle
+Added more crystals to the Fire Temple for lost explorers
+Added light near "cave" portals to reduce the blinking light effect
+
+
 MAP 0.4.8 
 ------------------
 Added teleporter connecting the Earth Temple and a secret path
