@@ -1,5 +1,46 @@
 CHANGELOG
-MAP 0.4.10 
+MAP 0.5.1 
+"The 4 Player Co-op Update" (Credit: MarfMasterofDesaster)
+------------------
+Added more copies of key items to accommodate 4 players (up from 3), supporting each class
+Added modifiers to various items
+Added Clouds in Bottles to Corruption Temple, totalling to 4 each chest
+Added Grappling Hooks, making a total of 4 and Golden Crowns so everyone can impersonate Yrimir
+Added 4th pair of Aglets, Tiger Climbing Gears, Spectre Boots, Lightning Boots, Dual Hooks, Tabi, Terraspark Boots
+Added 4th Obsidian Shield
+Added 3 Cellphones and 2 Anti-Gravity Hooks
+Added 3 extra Ankh Shields to secret chest
+Added a few balloons and double jumps
+Added class accessories to pre-hardmode and late-hardmode class armor sets and dishes
+Quadrupled all Life Fruits (nerfed one chest that had too many)
+
+Details/Spoilers: 
+Replaced Silver Armor with Gold Armor in Earth Temple, added Gold Ring and Seafood Dinner
+Added Mace to Earth Temple
+Added chest containing Blizzard in a Bottle to Path of Pain™️
+Removed 1 Cloud in a Balloon from Corruption Temple
+Replaced Gold Armor with modified Platinum Armor in Corruption Temple, added Treasure Magnet and Smoothie of Darkness
+Added Bladed Glove to Corruption Temple
+Added Sandstorm in a Bottle to Corruption Temple, replaced Demon Bow #134521 with Tendon Bow
+Replaced Blizzard in a Bottle with Blizzard in a Balloon in Corruption Temple
+Removed Witch Doctor from the map (allowed for early purchase of Pygmy Necklace)
+Replaced Pufferfish Balloon with Amber Horseshoe Balloon in Jungle Village
+Added modified Bee Armor, Pygmy Necklace and Coffee
+Moved Obsidian Armor, added Hercules Beetle and Dragonfruit
+Replaced Blizzard in a Balloon with Bundle of Balloons in Wyvern Mage's Fortress
+Actuated teleporter in Attraidies tower
+Added mannequins with each Hallowed armor set at shrine
+Added 2 Ankh Charms in post-Golem areas
+Added Golden Delights and class accessories to late-Hardmode class armor sets, mostly replaced those chests with mannequins or added some
+Added chest on Hallowed Island containing powerful buffs
+Added mannequins on Hallowed Island dressed with late-Hardmode armor
+Replaced 1 meteor in the sky with Luminite
+Added Snow Globe (it doesn't even work thanks to the mod lol)
+Added Naughty Present and Pumpkin Moon Medallion somewhere
+Fixed a lot of empty chest slots
+
+
+MAP 0.5.0 
 ------------------
 +1 Shadow Key
 Tweaked entrance to Shadow Temple
@@ -907,6 +948,8 @@ INSTALL FOLDER FOR THE STORY OF RED CLOUD  - REVAMPED 0.1
 Updated change log from tConfig Edition 1.1y to TML Edition 0.1 to mark shift to TModLoader and Terraria 1.3.5
 
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+All map updates by Tim Hjersted aka Vibrent on Discord, with 2 exceptions noted above.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
