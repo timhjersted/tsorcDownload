@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.5.2 
+------------------
+Made several challenge-related tweaks to the Earth Temple
+Added sprites to Water Temple
+Redistributed loot from a concentrated chest and added sprites in the Meteorite Dungeon
+Duplicated a few more items for 4 player MP
+Added security system to >>>...<<<
+Buffed loot in 2 desert chests
+
+
 MAP 0.5.1 
 "The 4 Player Co-op Update" (Credit: MarfMasterofDesaster)
 ------------------
