@@ -1,4 +1,22 @@
 CHANGELOG
+MAP 0.5.3 
+------------------
+Nerfed or rebalanced several more statue traps
+Added more Recall Potions near spawn
+Tweaked EoC boss room to encourage exploring futher
+Added wise quote found at the Wizard's abode to prepare player for ???
+Added loot to Machine Temple entrance
++1 crystal heart in Fire Temple, Earth Temple and jungle surface
+Proximity puzzle added to the Earth Temple to teach players about this puzzle type sooner
+More crystal clues
+Teal pressure pad changed to switch in the Corruption Temple
+---
+Changes by MarfMasterofDesaster:
+Removed sign saying Platinum armor has an upgrade
+Buffed Platinum armor to be very tanky
+Added second Spider Mask and Hallowed Hood
+
+
 MAP 0.5.2 
 ------------------
 Made several challenge-related tweaks to the Earth Temple
