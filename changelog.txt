@@ -1,9 +1,18 @@
 CHANGELOG
+MAP 0.5.4 
+------------------
+Added Serris gate clue
+Created teleporter clue for 4th lever in the Fire Temple
+Converted many more green/red pressure plates to brown ones
+Small edits to EoW room
+More crystal clues
+
+
 MAP 0.5.3 
 ------------------
 Nerfed or rebalanced several more statue traps
 Added more Recall Potions near spawn
-Tweaked EoC boss room to encourage exploring futher
+Tweaked EoC boss room to encourage exploring further
 Added wise quote found at the Wizard's abode to prepare player for ???
 Added loot to Machine Temple entrance
 +1 crystal heart in Fire Temple, Earth Temple and jungle surface
