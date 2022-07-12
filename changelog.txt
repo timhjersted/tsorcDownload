@@ -1,4 +1,26 @@
 CHANGELOG
+MAP 0.5.5 
+------------------
+Tweaked Fire Temple signs hinting at Obsidian Shield location
+Added item statues for visual association in 2 places
+Added bonfire near jungle secret
+Added 2 chains to Corruption Temple
+Added loot to empty chest near The Hunter
+Added gate to The Hunter's lake
+Removed some mineable adamantite by 50% but added some elsewhere
+Fortified a trap room in The Hunter's ruins
+Added more thin ice to a path + a sign
+Added water to a jungle cavern for fun
+Made the sign after the Wall more noticable
+Made an Earth Temple secret more noticable
+---
+Changes by MarfMasterofDesaster:
+Removed pumpkin moon medallion and naughty present
+Added pumpkin blocks to a chest
+Removed Sorrow sign and chest with crafting ingredients
+
+
+
 MAP 0.5.4 
 ------------------
 Added Serris gate clue
@@ -12,7 +34,7 @@ MAP 0.5.3
 ------------------
 Nerfed or rebalanced several more statue traps
 Added more Recall Potions near spawn
-Tweaked EoC boss room to encourage exploring further
+Tweaked EoC boss room to encourage exploring further and added lanterns in flooded Earth Temple pool
 Added wise quote found at the Wizard's abode to prepare player for ???
 Added loot to Machine Temple entrance
 +1 crystal heart in Fire Temple, Earth Temple and jungle surface
