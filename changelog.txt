@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.5.6 
+------------------
+Shortened and added line breaks to spawn sign
+Added more line breaks to the first several story signs where possible
+Changed the "too high to climb" sign to one describing locations to the East
+Added another navigation totem to the jungle mentioning what's beyond the volcano
+Added BoC sign
+Added clue sign after Golem
+
+
 MAP 0.5.5 
 ------------------
 Tweaked Fire Temple signs hinting at Obsidian Shield location
