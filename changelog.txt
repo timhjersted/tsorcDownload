@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 0.5.7 
+------------------
+Added 8 shiny red balloons
+Space thing fix
+
+
 MAP 0.5.6 
 ------------------
 Shortened and added line breaks to spawn sign
