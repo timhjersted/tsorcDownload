@@ -1,4 +1,23 @@
 CHANGELOG
+MAP 0.5.8 
+------------------
++2 Crystal Hearts and more loot in Arazium Mountain Caverns
+Purpose added to small dead-end in AMC
+Added 6 lucky horseshoes
+Moved 1 bonfire farther from a lunar pillar
+Moved 1 bonfire closer to Hallowed Cavern entrance
+Moved 1 bonfire closer to Jungle village
+Added lanterns above more bonfires
+Fortified Golem Temple
+Added lava and Hellwing Bows to Fire Temple
+More crystal clues
+More sign hints
+Added Gold Bows to Catacombs
+Re-ordered boss list on sign giving late-game progression clue
+Fixed lighting and removed the small blocks obstructing aerial movement in final boss arena
+Added signs naming the Forgotten City's Cavern of Graves, The Bowels of the Abyss, Ashen Caves, Mushroom Caverns, Elengad's Desert Ruins, Ashen Peak Village, Cave of Shadows and the Frozen Depths
+
+
 MAP 0.5.7 
 ------------------
 Added 8 shiny red balloons
