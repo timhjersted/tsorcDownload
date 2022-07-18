@@ -1,4 +1,19 @@
 CHANGELOG
+MAP 0.5.9 
+------------------
+FIXED: a chest that causes a game crash when opened
+***if you're on 0.5.8, don't open the chest in the mountain cave near the village (it requires a teleporter to access)
+---
+Changed a jumping challenge in the Path of Pain from desert biome to jungle biome
+Fixed spot needing a roll to escape near well
+Changed coordinate sign that's outdated with Barrow Blade clue
+Replaced 2 Tsunami in a Bottles with 4 Sharkron Balloons
+Added 4 Tsunami in a Bottles somewhere to reward thorough Corruption Temple explorers
+Added sign naming the Moon Temple Gate
+Added lots more crystals near important signs
+Changed the fire color in Chaos' boss room for projectile visibility and removed small obstructions
+
+
 MAP 0.5.8 
 ------------------
 +2 Crystal Hearts and more loot in Arazium Mountain Caverns
