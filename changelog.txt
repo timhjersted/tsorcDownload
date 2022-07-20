@@ -1,4 +1,34 @@
 CHANGELOG
+MAP 0.6.0 
+------------------
+Removed defense prefixes on several early-game items (no more face-tanking EoW... hopefully)
+Made adjustments to dozens of chest contents (removed items, removed duplicates so more items have unique locations, moved items around, added duplicates for more 4 player compatibility etc)
+Deleted a few chests
+Notable changes include: 
+-Removed 2 handguns from the Corruption Temple that were too easy to obtain (1 with double jump, the other by cheesing lava)
+-Removed 1 Blue Moon from Jungle Temple
+-Added Void Bags to pre-Earth Temple chest
+-Moved early Star Cloak to later locations
+-Moved 1 Terragrim, Laser Rifle
+-Added 2 sets of silver armor pre-Earth Temple
+-Moved Bundle of Balloons and added other loot to reward exploring post WoF path
+-Cobalt Repeater in the dungeon replaced with Hellwing Bow
+-Added Endless Musket Pouch, Arcane Flower, Flaming Mace, Blade Staff, Illegal Gun Parts & Frost Cores
+-Removed Megasharks awarded too early in the game and moved final one closer to Destroyer
+-Added more Sandguns before difficult Desert Ruins challenge
+-Removed Mythril armor from Wizard Fortress (Now only obtained from ocean)
+-Added lots more bones to the dungeon
+Tweaked secret Hermes location slightly (it's still hard, stay away)
+Renamed Oros' Crossing to Leonhard's Bridge
+Mentioned Great Chasm near it
+Actuated small aerial obstructions in Seath's room used for lighting
+Added Wyvern Mage flavor text
+Fortified honey comb chest that should only be a reward for finding the level skip...
+Fortified lava chest in Corruption Temple and removed some jumping blocks
+More crystal clues (hint: some crystal's orientation are also clues)
+The Frozen Ocean is now mostly covered in a sheet of ice
+
+
 MAP 0.5.9 
 ------------------
 FIXED: a chest that causes a game crash when opened
@@ -12,6 +42,7 @@ Added 4 Tsunami in a Bottles somewhere to reward thorough Corruption Temple expl
 Added sign naming the Moon Temple Gate
 Added lots more crystals near important signs
 Changed the fire color in Chaos' boss room for projectile visibility and removed small obstructions
+Excavated EoW boss room more
 
 
 MAP 0.5.8 
