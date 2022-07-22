@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.6.1 
+------------------
+Added a new late pre-HM/HM event that's only accessible with this map
+Added Shadow Key sign clue, tweaked another
+Made the WoF arena slightly harder in 2 places and slightly easier towards the end
+Blocked off a volcanic interior space that's accessed after beating a secret boss, with improved loot
+Removed some ceiling obstructions in the Lich King's lair
+Added more crystals and peace candles and moved 1 sign
+
+
 MAP 0.6.0 
 ------------------
 Removed defense prefixes on several early-game items (no more face-tanking EoW... hopefully)
@@ -27,6 +37,7 @@ Fortified honey comb chest that should only be a reward for finding the level sk
 Fortified lava chest in Corruption Temple and removed some jumping blocks
 More crystal clues (hint: some crystal's orientation are also clues)
 The Frozen Ocean is now mostly covered in a sheet of ice
+Edited more signs
 
 
 MAP 0.5.9 
