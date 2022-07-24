@@ -1,4 +1,27 @@
 CHANGELOG
+MAP 0.6.2 
+------------------
+Did a full quality assurance pass on the Machine Temple; now has fewer spikes, more grapple points, more water, and some useful potions near the start
+Removed platforms and a vine near the broken bridge to reinstill the fear of death when traversing below the bridge, as it was too safe and enticing to explore before going to the village previously
+Repainted Chaos' boss arena and filled the surrounding areas in darkness
+Made a secret teleporter path only work in one direction
+Added a "Try jumping mid-air" clue sign and repurposed an Earth Temple challenge to teach this trick
+Removed 1 pressure plate to make the mid-air roll challenge easier
+Added a sign scaring people away from the oolicile forest
+Added a sign about the village
+Added a sign naming an important tree
+Added 3 peace candles
+Fixed missing paint in a few areas
+Added a little bit of lore for the Flooded Machine Temple
+Removed some crystals, addes some others and made a couple secrets harder to spot
+Removed some long vines that were going crazy in the jungle
+Filled in some missing background areas in the jungle temple with rock wall 
+Removed tombstones near story NPC
+Removed some glowing blocks near Skeletron, Earth Temple entrance and Unadin Inn
+Changed jungle biome near hallowed caves to hallow/forest
+Changed backdrop for the underworld
+
+
 MAP 0.6.1 
 ------------------
 Added a new late pre-HM/HM event that's only accessible with this map
