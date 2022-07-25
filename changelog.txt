@@ -1,4 +1,17 @@
 CHANGELOG
+MUSIC 0.6.2
+"The Ohhh, Elden Ring" Update
+------------------
+Added 30 new songs!
+Changed title music
+The village now has its own day and night theme
+Added new songs for a dozen specific locations unique to the custom map 
+Numerous bosses and mini-bosses have their own songs now 
+Removed 5 songs because the sound quality was poor or because they no longer fit with the overall theme and quality bar of the soundtrack
+Re-exported Underground, Night, Jungle, Underground Hallow and Dungeon from the original wav files in higher quality
+Fixed Queen Slime and Empress of Light playing vanilla music
+
+
 MAP 0.6.2 
 ------------------
 Did a full quality assurance pass on the Machine Temple; now has fewer spikes, more grapple points, more water, and some useful potions near the start
