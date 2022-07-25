@@ -1,4 +1,9 @@
 CHANGELOG
+MAP 0.6.3 
+------------------
+Hotfix: Two cobalt-tier items are no longer available way earlier than intended
+
+
 MUSIC 0.6.2
 "The Ohhh, Elden Ring" Update
 ------------------
