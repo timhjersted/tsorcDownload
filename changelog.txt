@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.6.4 
+------------------
+-Fixed 2 unactuated blocks that were preventing access to a teleporter near the underworld (if you encounter this, disable adventure mode while in-game to mine the ash blocks starting from the ceiling in the underworld, then turn it back on as boss rings will not appear when it's off)
+-Moved daedalus stormbow to a more hidden and protected position
+-Deactivated outdated EoW Trap
+-Moved 4 lucky horseshoes to deeper into the depths, so as to reinstill the fear of heights in the forgotten city... 
+-Added 8 calming potions and 1 featherfall potion in their place
+-Fortified EoL temple
+
+
 MUSIC 0.6.3
 ------------------
 Fixed village music not playing consistently
