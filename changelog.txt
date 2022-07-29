@@ -1,4 +1,15 @@
 CHANGELOG
+MAP 0.6.5 
+------------------
+Raised the height of Gwyn's tomb entrance slightly and made it possible to keep the door open and turn the lights on at the same time
+Changed a sign to indicate Seath, not Chaos, will soon be required to defeat before facing Gwyn (pending mod update 0.10.3)
+Made the Path of Mystery harder to discover
+Moved Desert Ruins sign as a subliminal clue
+Removed new Earth Temple puzzle that didn't work as intended
+Edited or added a few more signs
+Added a few cracked dungeon bricks
+
+
 MAP 0.6.4 
 ------------------
 -Fixed 2 unactuated blocks that were preventing access to a teleporter near the underworld (if you encounter this, disable adventure mode while in-game to mine the ash blocks starting from the ceiling in the underworld, then turn it back on as boss rings will not appear when it's off)
