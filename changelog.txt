@@ -1,4 +1,60 @@
 CHANGELOG
+MAP 0.6.6 
+------------------
+Added Red's journal notes at major spots to come back to
+EoW 1 & 2 arenas have been excavated further
+Added Heavy Workbench, Blend-O-Matic, 3 Emerald, 3 Sapphire, 50 Martian Conduit Plating and more Silver/Hellstone Bars for Magic Storage compatibility
+Fixed Moon Gate and Cavern of Graves Gate not working as intended
+Added several more clues to new and existing signs
+Added silver watches to chest
+Moved Plantera bulb in Hunter's lair
+Added atmospheric lighting to inside and outside Hunter's lair
+Added atmospheric lighting, textures and dark background walls to the Rage's arena to increase attack visibility and vibes
+Added atmospheric lighting to lower Hallowed Caverns and added clue trigger near Rage arena entrance
+Made optional Frozen Ocean shortcut harder to spot
+Removed Shadow Armor set from Shadow Temple
+Replaced 2 switches with levers in Jungle Ruins
+Added Electrosphere Launcher
+Added plants to Fire Temple and Rage arena
+Added sand to Oolacile Forest
+Moved exit for 2nd EoW arena and created path to optional mini-boss
+Removed text, "You remember your father saying that the only way to take on the strength of a god was to ingest a part of it and then defeat whatever manifestation that awakens - a reflection of your own psyche, the deep fears and raw emotions of the id that lie beneath the surface of consciousness."
+Moved Spectre, Beatle, Spooky and Shroomite armor and created mini-themed biomes for them
+Added extra set of Frost, Turtle and Forbidden armor to earlier in progression
+Added unique wall texture to a post-Golem tunnel
+Added another spider biome post-Wall of Flesh that spawns Humanity Phantoms
+Removed gems from Marilith's chest
+Fixed broken bonfire near Destroyer
+Made entrance to the Path to the Hunter more visually interesting 
+Added lots more Power Cells since a bug is preventing them from being non-consumable
+Moved Chlorophyte Partisan, Shotbow, Waraxe, Saber, Claymore and armor
+Added a couple more statue traps
+Deleted "You feel the hammer in your pack start to rumble. Taking out your hammer you prepare to smash the orbs..."
+Retextured the safe zone before Water Fiend
+Named Volcanic Fissure, which leads to the Earth' Core
+Fixed digging exploit near Gwyn's Tome
+Added Dao of Pow and 5 Light Discs earlier in progression
+Added additional Hand Warmer and clues
+Added new area to Frozen Ocean
+Flattened Seath arena and path further
+Removed obstruction in Hunter arena
+Removed purple fire in Chaos Temple and Bowels of the Abyss
+Made Great Chasm spelunking slightly harder
+Removed 1 secret Hermes Boots 
+Moved Star Cloak to a hidden spot near the jungle
+Added 2 Mana Crystals near Twin mountains and 1 in secret Hermes location
+Removed Cloud in a Blizzard from chest that was too easy to obtain 
+Expanded Sorrow boss room by 30% and increased vibes by 20%
+Added 2 new 1.4 tile texture details to Fire Temple
+Small QoL tweaks
+
+
+MUSIC 0.6.6 (unreleased)
+------------------
+Changed Plantera music
+Attraidies tower plays Sky Temple music
+
+
 MAP 0.6.5 
 ------------------
 Raised the height of Gwyn's tomb entrance slightly and made it possible to keep the door open and turn the lights on at the same time
