@@ -49,8 +49,9 @@ Added 2 new 1.4 tile texture details to Fire Temple
 Small QoL tweaks
 
 
-MUSIC 0.6.6 (unreleased)
+MUSIC 0.6.6 
 ------------------
+(Unreleased)
 Changed Plantera music
 Attraidies tower plays Sky Temple music
 
