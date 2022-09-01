@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 0.6.7 
+------------------
+Removed Bundle of Balloons from 3 locations, added 2 to 1 new spot that's more hidden
+Converted portion of jungle to forest biome after Wall of Flesh
+
+
 MAP 0.6.6 
 ------------------
 Added Red's journal notes at major spots to come back to
