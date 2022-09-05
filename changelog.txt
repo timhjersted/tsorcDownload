@@ -1,4 +1,11 @@
 CHANGELOG
+MAP 0.6.8 
+------------------
+Fixed typo on spawn sign
+Blocked an unintended skip in the Path of Pain
+Polished a few small things in the Path of Pain
+
+
 MAP 0.6.7 
 ------------------
 Removed Bundle of Balloons from 3 locations, added 2 to 1 new spot that's more hidden
