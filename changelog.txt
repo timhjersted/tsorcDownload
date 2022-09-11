@@ -1,4 +1,15 @@
 CHANGELOG
+MAP 0.6.9 
+------------------
+Added sign to Earth Temple with clue about the teal pressure plates...
+Moved sign explaining the dodge roll slightly closer in progression
+Made a few small tweaks to the burned down village
+Fixed Forgotten City typo
+Added 4 dangersense potions and +3 bows to Earth Temple chest for MP compatibility
+Expanded Earth Temple walls in places
+Added Golem Temple blocks to pyramid
+
+
 MAP 0.6.8 
 ------------------
 Fixed typo on spawn sign
