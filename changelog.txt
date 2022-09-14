@@ -1,5 +1,5 @@
 CHANGELOG
-MAP 0.7 
+MAP 0.7.0 
 ------------------
 Reaching double EoW is now only possible after defeating the 1st EoW or finding the hidden Earth Temple path (too many reports of players finding the 2nd before the first when trying to follow the main path)
 Expanded Wyvern Mage's arena and added more visual polish to nearby areas 
