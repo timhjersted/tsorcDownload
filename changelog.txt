@@ -1,4 +1,19 @@
 CHANGELOG
+MAP 0.7.1 
+------------------
+Added clue about the Rage, Sorrow and Hunter's enrage mechanic
+Completing the Ice Magic Game is now necessary to reach the Frozen Ocean (this also ensures an important story beat is not skipped) *although there is still 1 very hidden secret path
+Improved and clarified story dialog with a key character
+Adjusted a few chest's loot tables
+Added crystals to Mythril gate in Earth Temple
+Bundle of Balloons can be obtained via exploration after Adamantite gates have been unlocked
+Removed useless "Arcane" modifier from Wand of Sparking and added mana crystal to chest instead
+Added 4 Ivy Whips to Machine Temple entrance
+Added another navigation sign to the East
+Updated last remaining Wyvern Mage fortress blocks to smooth marble
+Removed reference to outdated Pwnhammer
+
+
 MAP 0.7.0 
 ------------------
 Reaching double EoW is now only possible after defeating the 1st EoW or finding the hidden Earth Temple path (too many reports of players finding the 2nd before the first when trying to follow the main path)
