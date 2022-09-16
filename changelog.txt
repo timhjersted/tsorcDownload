@@ -1,4 +1,18 @@
 CHANGELOG
+MAP 0.7.2 
+------------------
+Removed cloud in a bottle from secret Corruption Temple chest but created another path to nearby loot that normally requires that item, allowing early access (also polished nearby water area)
+Added blue whisp/flame for story immersion
+Changed several biome backgrounds
+Fixed the biome background changing back and forth in a distracting way in 3 places
+Polished a couple bridges in the jungle
+Polished ladder of house above Hallowed Caverns
+Made the Frozen Ocean more frozen
+Added more details to Wyvern Mage arena
+Cleaned up Eastern cloud layer
+Adjusted loot tables in several chests
+
+
 MAP 0.7.1 
 ------------------
 Added clue about the Rage, Sorrow and Hunter's enrage mechanic
