@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 0.7.3 
+------------------
+Fixed misleading sign clue
+Added cobalt gate between Cavern of Graves and a secret boss
+
+
 MAP 0.7.2 
 ------------------
 Removed cloud in a bottle from secret Corruption Temple chest but created another path to nearby loot that normally requires that item, allowing early access (also polished nearby water area)
