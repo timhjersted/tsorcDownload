@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 0.7.4 
+------------------
+Removed a mythril gate that couldn't be mined because of an adjacent door (if you're on an older map, turn off adventure mode temporarily to break it)
+Updated Great Eye clue
+Filled in some clouds
+Replaced switch with lever in Corruption Temple
+
+
 MAP 0.7.3 
 ------------------
 Fixed misleading sign clue
