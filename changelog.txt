@@ -1,4 +1,18 @@
 CHANGELOG
+MAP 0.7.5 
+------------------
+Expanded Oolicile Demon arena
+Made bonfire near Oolicile Forest easier to discover
+Made Earth Temple entrance easier to spot
+Added wings for Shroomite, Beetle, Spectre and Spooky armors, plus their alternate pieces
+Added Solar Flare, Nebula, Stardust and Vortex armors plus their wings to SHM areas
+Added meteorite biome to newly named "Cavern of Anguish" (the one with all the spikes and lava in the desert), which should fill up the spawn pool with meteor heads (ie less powerful enemies)
+Moved Amphibian Boots post-grapple hook
+Moved Vampire Knives to earlier in progression
+Added Laser Machinegun, Xeno Staff, Influx Waver
+Moved Electrosphere Launcher, Xenopopper
+
+
 MAP 0.7.4 
 ------------------
 Removed a mythril gate that couldn't be mined because of an adjacent door (if you're on an older map, turn off adventure mode temporarily to break it)
