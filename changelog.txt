@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 0.7.7 
+------------------
+Fixed broken teleporter leading to Ancient Oolicile Demon
+Added small chasm in the Cavern of Graves revealing optional boss
+
+
 MAP 0.7.6 
 ------------------
 Added 2nd Phoenix enrage clue
