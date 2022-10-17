@@ -1,4 +1,11 @@
 CHANGELOG
+MAP 0.7.9 
+------------------
+Fixed chest in Glass Prison that freezes the game
+Renamed Path of Pain to Path of Ambition
+Updated sign near Destroyer
+
+
 MAP 0.7.8 
 ------------------
 Fixed three broken armor stands 
