@@ -1,4 +1,9 @@
 CHANGELOG
+MAP 0.8.0 
+------------------
+Fixed buggy chest in Glass Prison for real this time. It contains Stardust armor and wings. 
+
+
 MAP 0.7.9 
 ------------------
 Fixed chest in Glass Prison that freezes the game
