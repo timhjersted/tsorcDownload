@@ -1,4 +1,16 @@
 CHANGELOG
+MAP 0.8.1 
+------------------
+Added 8 more chests to Wizard's village home
+Added trick path between Wizard basement and secret basement
+Added hidden path through jungle
+Added several more stacks of Gold Bars, Silver Bars, and Iron Bars to the Earth Temple, secret basement and East of spawn
+Small tweaks to Earth Temple's main shaft
+Fixed wonky lighting in Hunter's arena
+Improved area near flooded mines
+Adjusted loot tables for a few chests
+
+
 MAP 0.8.0 
 ------------------
 Fixed buggy chest in Glass Prison for real this time. It contains Stardust armor and wings. 
