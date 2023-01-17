@@ -1,4 +1,35 @@
 CHANGELOG
+MAP 0.8.2 
+------------------
+Added a mini-dungeon for the The Twins (this will be the Triad in a future mod update)
+Added a hidden path in the underground jungle ruin outskirts leading to *secrets* as well as another shortcut allowing for a potential level skip
+Added a hidden path near a mini-boss, which leads to a shortcut
+Improved loot in mountain caverns near village and added a clue encouraging its exploration
+Added Bone Helm, Lucky Coin, Radio Thing, Sun Stone, Fire Gauntlet, Destroyer Emblem and other items not yet placed 
+Added more secret loot and several grappling hooks
+Added Adamantite shortcut/puzzle leading inside the Water Temple*
+*All three mech boss dungeons can now be accessed earlier than intended
+Added more atmospheric light to the Earth Temple and tweaked many blocks and loot
+Added two more heart crystals to the early game
+Added Eye of the Golem to secret area in early HM and another place
+Improved a few clues and wrote several new clues
+Adjusted the loot in several chests
+Edited the burned down village
+Removed mention of Village Mirror on sign
+Fixed sequence issue in 2nd Red Knight arena
+Fixed Moon Temple related East/West typo
+More tweaks here and there now forgotten...
+
+
+MUSIC 0.8.2 
+------------------
+-Removed 3 unused songs to reduce file size
+-Cleaned up credits description
+-The Triad and The Twins play different music
+-Changed Plantera music
+-Attraidies tower plays Sky Temple music
+
+
 MAP 0.8.1 
 ------------------
 Added 8 more chests to Wizard's village home
@@ -9,6 +40,7 @@ Small tweaks to Earth Temple's main shaft
 Fixed wonky lighting in Hunter's arena
 Improved area near flooded mines
 Adjusted loot tables for a few chests
+
 
 
 MAP 0.8.0 
