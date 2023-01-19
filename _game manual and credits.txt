@@ -14,7 +14,7 @@ GAME MANUAL:
 
 *New dodge roll action with i-frames can be bound to any key via the mod config (default: left alt)
 
-*Want to play multiplayer? The map supports up to 3 players. Class diversity recommended. 
+*Want to play multiplayer? The map supports up to 4 players. Class diversity recommended. 
 
 
 
@@ -81,19 +81,7 @@ TIPS & HINTS
 
 OFFICIAL RED CLOUD WIKI: 
 --------------------------------------------
-http://the-story-of-red-cloud.wikia.com/wiki/Welcome!
-
-
-
-
-
-What's this teleporter doing here? Oh, it takes you to the organization I co-founded in 2006. Hurrahh! 
-
-https://www.filmsforaction.org
-
-
-
-
+https://terrariamods.wiki.gg/wiki/The_Story_of_Red_Cloud
 
 
 
@@ -106,35 +94,49 @@ https://www.filmsforaction.org
 
 CREDITS:
 
-THE STORY OF RED CLOUD ADVENTURE MAP:
-Tim Hjersted aka Vibrent / Everything. Ahhh! :p
 
+Adventure Map
+----
+Tim Hjersted aka Vibrent / Everything (made in Tedit)
+Binary Construct / Tedit program creator
 
-MOD REVAMP (tModLoader Edition)
+Mod Revamp (Current tModloader Edition)
+----
 Zeodexic / programmer
 RecursiveCollapse / programmer
-Chroma Equinox / programmer
+Chroma Equinox / programmer + spriter
+Vibrent / programmer + sprite editer
+MarfMasterofDesaster / programmer + beta testing
+NephilimDeath / spriter
+JOI3 / spriter
+W1k / coding help and extensive content contributions
+RustySlave / programmer
+RAWTHORN / spriter
 JayTeff / programmer
-W1k / coding help
-NephilimDeath / sprites
-Blasfah / sprites
-Frous / sprites + beta testing
-Mddznyan / sprites
-MarfMasterofDesaster / beta testing
-Que aka @Quint_es / seath sprite
+Linklight2 / programmer
+Blasfah / spriting
+Frous / spriting + beta testing
+Mddznyan / spriting
+Articulo / sprites from Dark Souls Vanity
+Maxisi / programmer
+qsab101 / Seath sprite
+Hugekraken / Detonation Signal sprite
+ヨーグルト / Interstellar Vessel sprite
+Julian/Jbug / Challenger's Glove sprite
+Indigo / Plasma Whirlwind item sprite
 
-
-ORIGINAL DARK SOULS MOD (tConfig Edition):
-Tim Hjersted / Mod Director + Dark Souls concept + New content + Mod Remixing & Compiling**
-Yoraiz0r / Dark Souls + Dual Wielding + More Dark Souls features
+Original Mod
+----
+Tim Hjersted / Mod Director + Dark Souls concept + New content + Mod Remixing & Compiling
+Yoraiz0r / Dark Souls mechanics + Dual Wielding + More Dark Souls features
 Omnir / Omnir's Mod
 W1k / W1k's Mod + help
-Draykon  / Dark Souls + Curtain of Bullets, Endgame
-Surfpup / No mining or placing tiles code
+Draykon / Dark Souls mechanics + Curtain of Bullets, Endgame
+Surfpup / No mining or placing tiles code / made tConfig
 Obsidian54 / Obsidian's Mod
-blahblahbal et al  / Avalon Mod
+blahblahbal et al / Avalon Mod
 VortexJ / Unobtanium
-Zoodletec / Necro Pack 
+Zoodletec / Necro Pack
 Kujulo / Kujulo's Mod DLC
 Dogsonofawolf / NPCs
 Reborn Team / Reborn Mod
@@ -143,31 +145,31 @@ FatObeseBird / League of Legends
 NerdyBoy, Reactorcore / Alchemistry
 PolarBMD / Terraria_
 Delra / Monster Hunter Mod
-KaneStaff  / Zelda Mod
+KaneStaff / Zelda Mod
 FrosTr / FrosTr's Misc Pack
 Scooterboot9697 / Metroid Mod
-Pwnager	/ Empowered Endgame
+Pwnager / Empowered Endgame
 SuperWeegee1 / Dream (Also credit Dream Team)
-Mitchellex / Wululu
-Acheld / Phoenix Down & Bookmarks
+Mitchellex / WululuAcheld / Phoenix Down & Bookmarks
 Wooren / Sprites
-Sapharan / Legend of Sapharan 
+Sapharan / Legend of Sapharan
 Flashkirby99 / Flashkirby's Weapons Mod
 Zero-Exodus/Omnir / Dark,Blood,Crystal Knights, Dark Cloud Sprites
 Heartstone25 / Covenant of Artorias blood moon code
 Ace the Best / Ace The Best's Final Fantasy Modification
 Solenix / Vertigo Elemental
-MiraiMai	 / Duel Wielding mod aka Mainslot-0
-Eikester  / Made Game Launcher and improved tConfig installation
+MiraiMai / Duel Wielding mod aka Mainslot-0
+Eikester / Made Game Launcher and improved tConfig installation
+Diggaroo, Zebri and Triangular Satellite / trailers
 
-1.1 MOD UPDATE CONTRIBUTORS
-Tim Hjersted / Update director + new content and polish, see the original change log for more
+1.1 Mod Update Contributors
+----
+Tim Hjersted / Update director + new content and polish
 Grox The Great / coding help
 Zoodletech / content + sprites
 Avalon mod team / coding help
-Wooren / sprites
-Omnir / content + coding help
-Yorai / coding help
+Wooren / spritesOmnir / content + coding help
+Yoraizor / coding help
 Blahblahbal / coding help
 Flashkirby99 / mod content
 Zero-Exodus / sprites
@@ -183,12 +185,16 @@ Solenix / select Vertigo Elemental content
 
 CUSTOM SOUNDTRACK
 (tsorcMusic.tmod):
+----
+This is the music soundtrack for The Story of Red Cloud, compiled and audio-mixed by Vibrent (updated for tModLoader & Terraria 1.4.3.6). All credit and thanks for these songs go to the original composers and remixers and are used here under Fair Use.
 
-This is the music soundtrack for The Story of Red Cloud, compiled and audio-mixed by Vibrent (updated for TmodLoader & Terraria 1.4). All credit and thanks for these songs go to the original composers and remixers and are used here under Fair Use.
+Coding by RecursiveCollapse and Vibrent.
+
+Contact: Vibrent#7623 on Discord.com
 
 SONG CREDITS
 Titles in "". Author credit in ().
-____________________________________________________________________
+____________________
 
 Boss 1 / "Dark Souls 3: Ludex Gundyr" (Tsukasa Saitoh / From Software)
 
@@ -202,19 +208,49 @@ Boss 5 / "Dark Souls 3: Slave Knight Gael" (From Software)
 
 Boss 6 / "Dark Souls: Knight Artorias" (From Software)
 
+Boss 7 / "Dark Souls 2: Sir Alonne" (From Software)
+
+Boss 8 / "Elden Ring: Starscourge Radahn" (From Software)
+
+Boss 9 / "Elden Ring: Mohg, Lord of Blood" (From Software)
+
+Boss 10 / "Elden Ring: Regal Ancestor" (From Software)
+
+Boss 11 / "Elden Ring: Morgot, the Omen King" (From Software)
+
+Boss 12 / "Elden Ring: Rennala, Queen of the Full Moon" (From Software)
+
+Boss 13 / "Elden Ring: Lords Apparition" (From Software)
+
+Boss 14 / "Elden Ring: Godskin Apostles" (From Software)
+
+Boss 15 / "Elden Ring: Death's Kindred" (From Software)
+
+Boss 16 / "Elden Ring: Fire Giant" (From Software)
+
+Boss 17 / "Elden Ring: Beast Clergyman" (From Software)
+
 Cavern / "Metroid Prime 2 - Torvus Bog Entrance" (Kenji Yamamoto)
 
 Corruption / Dark Souls Abyss ambient sounds (From Software) + "Hive Tunnel - Metroid Prime 2" (Nintendo)
 
 Crimson / "Super Metroid: Crateria Zebes Planetfall (Interior)" (The Blake Robinson Synthetic Orchestra) 
 
-Desert / "Forest Temple - The Legend of Zelda - Twilight Princess- " (Nintendo)
+Dark Tower / "Elden Ring: Divine Tower" (From Software)
+
+Desert / "World of Warcraft: Desert Theme" (Blizzard Entertainment)
 
 Dungeon / Ocarina of Time - Spirit Temple Reorchestrated / Majora's Mask - Stone Tower Temple Reorchestrated (ZREO)
 
-Eerie / "Lakebed Temple  - The Legend of Zelda: Twilight Princess" (Koji Kondo)
+Eerie / "Elden Ring: Prison Town" (From Software)
 
-Hallow / "Skyward Sword - Skyview Temple Reorchestrated" (ZREO)
+Ending / "Elden Ring: Ending" (From Software)
+
+Forgotten City / "Elden Ring: Eternal City" (From Software)
+
+Hallow / "Elden Ring: Altus_Plateau" (From Software)
+
+Hallow (OLD) / "Skyward Sword - Skyview Temple Reorchestrated" (ZREO)
 
 Jungle / "Ocarina of Time - Fire Temple Reorchestrated" (ZREO)
 
@@ -224,11 +260,17 @@ Night / "Skyward Sword - Separation" (Nintendo) / "Skyward Sword - Sealed Temple
 
 Ocean / "The Legend of Zelda: Skyward Sword - Sailing the Sand Sea"(Hajime Wakai, Shiho Fujii) mixed with desert wind sounds
 
-Overworld Day / "A Link to the Past - Dark Overworld Theme Reorchestrated" (ZREO) / "The Minish Cap - Mt. Crenel Reorchestrated" (ZREO)
+Old One's Tree / "Elden Ring: Song of Honor" (From Software)
+
+Overworld Day / "World of Warcraft: Elwynn Forest" (Blizzard Entertainment)
+
+Overworld Day (OLD) / "A Link to the Past - Dark Overworld Theme Reorchestrated" (ZREO) / "The Minish Cap - Mt. Crenel Reorchestrated" (ZREO)
 
 Rain / "Faron Woods" (ZREO)
 
-Sandstorm / "The Legend of Zelda Breath of the Wild - Attack on Vah Naboris" (Nintendo)
+Sandstorm / "Elden Ring: Black Knives" (From Software)
+
+Sky Temple / "Elden Ring: Lyndell Capital" (From Software)
 
 Space / "Chozo Statue Awakens" (The Blake Robinson Synthetic Orchestra) 
 
@@ -242,22 +284,47 @@ Underground Crimson / "Brinstar - Underground Depths" (The Blake Robinson Synthe
 
 Underground Desert / "Desert Temple - Minecraft Dungeons" (Johan Johnson)
 
-Underground Eerie / "Great Bay Temple, TLOZ: Majora's Mask" (Koji Kondo, Nintendo)
+Underground Eerie / "Elden Ring: Volcano Manor" (From Software)
 
-Underground Hallow / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
+Underground Jungle / "World of Warcraft: Stranglethorn Vale" (Blizzard Entertainment)
+
+Underground Hallow / "Elden Ring: Liurnia of the Lakes" (From Software)
+
+Underground Hallow (OLD) / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
 
 Underground Mushrooms / "Ocarina of Time - Temple of Time" (ZREO)
 
-Snow / "Dark Souls - Crystal Caves Ambient Sounds" (From Software)
+Snow / "Dark Souls: Crystal Caves Ambient Sounds" (From Software)
 
 Underground Snow / "Metroid Prime 2: Torvus Bog Subterranean Theme"  (Kenji Yamamoto)
 
-Underworld / "Pinwheels Sarcophagus - Ambient Sounds, Dark Souls" (From Software)
+Underworld / "Elden Ring: Mr Gelmir" (From Software)
 
-Mixed in as transitions in certain songs: 
+Village Day / "Dark Souls: Main OST" (From Software)
+
+Village Night / "Dark Souls 2: Majula" (From Software)
+
+Water Temple / "Elden Ring: Consecrated Snowfield" (From Software)
+
+Wyvern Mage Fortress / "Elden Ring: Academy of Raya Lucaria" (From Software)
+
+
+ZREO =  Zelda Reorchestrated : http://www.zreomusic.com/
+
+
+Mixed in as transitions in certain songs
+____________________
 "Cave Ambience" (Jross aka Xeltic89)
 "Frog Chorus" (Echoes of Nature album by American Wilds)
 "Deep Woods" (Echoes of Nature album by American Wilds)  
 "Crickets" (Echoes of Nature album by American Wilds)
 
-ZREO =  Zelda Reorchestrated : http://www.zreomusic.com/
+
+
+---
+
+
+
+What's this teleporter doing here? Oh, it takes you to the organization Tim Hjersted co-founded in 2006. Hurrahh! 
+
+https://www.filmsforaction.org
