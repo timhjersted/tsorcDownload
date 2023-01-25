@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.8.3 
+------------------
+The Triad temple can be accessed 1 tier earlier via a secret entrance
+Adjusted Triad temple loot based on the 3 tiers you can potentially access it 
+Added reward for accessing an almost impossible to reach area near The Sorrow
+Improved rewards for finding another hidden chest in the Frozen Ocean depths
+Amended clue for The Rage and other birds now that they no longer heal when enraged
+Improved Summoner staff discovery options pre-HM
+
+
 MAP 0.8.2 
 ------------------
 Added a mini-dungeon for the The Twins (this will be the Triad in a future mod update)
