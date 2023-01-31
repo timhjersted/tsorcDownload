@@ -1,4 +1,9 @@
 CHANGELOG
+MAP 0.8.6 
+------------------
+Removed *other* Waterbolt next to the removed Waterbolt from an early area
+
+
 MAP 0.8.5 
 ------------------
 Fixed glitched chest in hidden area near Sorrow
