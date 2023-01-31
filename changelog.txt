@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 0.8.5 
+------------------
+Fixed glitched chest in hidden area near Sorrow
+Made a hidden path only accessible from one direction
+Improved a clue
+Removed Waterbolt from an early area
+
+
 MAP 0.8.4 
 ------------------
 Fixed a cave door teleportation issue preventing access to the Machine Temple shortcut
