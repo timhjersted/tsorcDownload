@@ -1,4 +1,22 @@
 CHANGELOG
+MAP 0.8.7 
+------------------
+Added Molten Charm to rewards for beating Serris Temple
+Added a secret cave teleport shortcut in the Corruption Temple
+Added 2 Waterbolts to the Volcano Temple (PS there are still 2 in the Jungle Temple)
+Changed some switches or pressure plates to the orange pressure plates that break on trigger 
+Added doors to the Wizard's 2nd floor chest storage area for easier access
+Added 5 tombstones and 300 snow blocks for Magic Storage mod
+Added 2 Inferno Forks
+Added dodge roll clue for the Destroyer
+Moved Abigail's Flower and added more to other areas
+Added Hunter Potions to Hunter arena
+Added more Shark Fins to chests
+Added Heart Crystal to Corruption Temple 
+Reduced smashed orbs count
+Added Chlorophyte Bars to Shadow Temple
+
+
 MAP 0.8.6 
 ------------------
 Removed *other* Waterbolt next to the removed Waterbolt from an early area
