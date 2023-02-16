@@ -1,4 +1,13 @@
 CHANGELOG
+MAP 0.8.8 
+------------------
+Nerfed statue traps in Corrupted Tunnel so its feasible to not trigger them 
+Made a secret potentially easier to notice
+Golem's temple entrance should be reachable without defeating Plantera first
+Fixed recipe on sign
+Added sign for confusing shortcut wall
+
+
 MAP 0.8.7 
 ------------------
 Added Molten Charm to rewards for beating Serris Temple
