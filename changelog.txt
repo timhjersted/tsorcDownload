@@ -1,4 +1,21 @@
 CHANGELOG
+MAP 0.8.9 
+------------------
+Re-added "Deer Thing" and an extra heart crystal to a new secret area, somewhere in the mountain near Ashenpeak village
+Named the underground jungle lake the Lake of Flowered Paths and made it more spacious
+Made a couple secrets a little easier to notice
+Made one digging secret in the Earth temple a pressure plate secret and made other nearby plates grey
+Added Stardust Dragon Staff to Molten Sky Temple
+Added 4 Vilethorn to Volcano Altar
+Added more visual clues for the final lever in the Fire Temple
+Added lamp lighting for opened gates in Fire Temle
+Added a path teasing EoC arena 
+Removed early access to 1 bonfire in the path of ambition and adjusted a few blocks
+Added decorative lighting to a hidden path near the Red Knight
+Fixed two glitched heart crystals that were providing double the intended crystals
+Fixed a Tao Te Ching quote that was cut off in the Wizard's home
+
+
 MAP 0.8.8 
 ------------------
 Nerfed statue traps in Corrupted Tunnel so its feasible to not trigger them 
