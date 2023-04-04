@@ -1,4 +1,11 @@
 CHANGELOG
+MAP 0.9.0 
+------------------
+Fixed 2 signs with an outdated clue about the Rage, Sorrow and Hunter
+Improved clue leading to sword in the stone
+Added 3 heart crystals to the Hunter's arena
+
+
 MAP 0.8.9 
 ------------------
 Re-added "Deer Thing" and an extra heart crystal to a new secret area, somewhere in the mountain near Ashenpeak village
