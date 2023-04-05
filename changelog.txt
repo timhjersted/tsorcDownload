@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 0.9.1 
+------------------
+Fixed typo in the Rage clue
+Expanded one cavern in the Hallowed Caverns just so a typo isn't the only thing I changed
+
+
 MAP 0.9.0 
 ------------------
 Fixed 2 signs with an outdated clue about the Rage, Sorrow and Hunter
