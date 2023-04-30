@@ -1,4 +1,17 @@
 CHANGELOG
+MAP 0.9.2 
+------------------
+Added arena for Deerclops, 
+Added a bonfire near the demon altar below the village
+Added Cobalt-tier loot to new secret area
+Moved 1 heart crystal and added 1 more 
+Added Demon Contch, Magic Contch and Advanced Combat Techniques, +2 Shark Tooth Necklace, Snow Armor, Glommer's Flower and Jewel of Light 
+Added two Queen Spider Staffs to a Cobalt-tier area and expanded cavern path, also added visual clue
+Added a secret area with loot and a means to access Deerclops arena in the Earth Temple
+Added loot in a few existing chests
+Added two old semi-custom sandbox maps from the tConfig days to the Github repository (Valley of Lord Gwyn and Valley of Defilement are identical aside from the global cave layer height (Sandbox 1.1 generally has more custom elements))
+
+
 MAP 0.9.1 
 ------------------
 Fixed typo in the Rage clue
