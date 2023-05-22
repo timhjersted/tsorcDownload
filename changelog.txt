@@ -1,4 +1,22 @@
 CHANGELOG
+MAP 0.9.3 
+------------------
+Added Ranger Emblem to Hallowed Caves 
+Added Rifle Scope to secret entrance to the Machine Temple and to another spot near a Plantera bulb nest
+Added 4 Geletin Crystal to Hallowed Caves
+Added Avenger Emblem to Golem Temple
+Added some extra useful visual clues for the "3 pillar" puzzle
+Removed inaccessible chest
+Removed Magic Dagger from pre-HM
+Added more Dangersense Potions to the early game
+Removed empty skeleton near hunter arena
+Removed a sign mentioning the cosmic watch and changed the text of another sign nearby to remind players about the dodge roll
+
+Game Folder Changes:
+Deleted two old semi-custom sandbox maps from the upload folder as they currently are corrupted
+Added one new WIP sandbox map called "The Legend of Red Cloud," which is supposed to take place 10,000 years after the events of the main game. It should be played with adventure mode disabled. Most text bubbles with story elements have been removed. Feedback appreciated.
+
+
 MAP 0.9.2 
 ------------------
 Added arena for Deerclops, 
