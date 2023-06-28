@@ -1,4 +1,30 @@
 CHANGELOG
+MAP 0.9.4 
+------------------
+Earth Temple: LOTS of small adjustments based on a recent playthrough
+Corruption Temple: Several adjustments to improve progression flow
+Corruption Temple: 2nd half is now harder to access, to encourage the player to progress East or make a more commited decision to explore more, to improve game pacing and choice (instead of feeling like the whole thing needs to be done). To compensate then for the extra effort, the rewards have been increased
+Catcombs: more atmospheric lighting and more spacious hallways 
+Added a few more ropes around the map to reduce jump climbing in key areas to improve game flow
+Removed Fishing Rod in starting area because fishing isn't an encouraged mechanic (was supposed to just be a lore thing)
+Burned Down Village: Adjusted loot and blocks
+Increased visual clues for a couple secrets
+Removed Soaring Insignia from Triad chest and moved to a SHM chest in chase the player opts not to fight the Empress of Light
+Fixed a jumping puzzle in the Earth Temple
+Shadow Temple: Increased clue visibility for the 3 shortcuts and added a bonfire
+Moved bonfire near The Machine so it can't get wet 
+Added 1 bonfire before Kraken with a shortcut unlock for the dungeon below it
+Slightly moved and polished bonfire area near Destroyer Temple
+Added bonfire at the beginning of the desert
+Fixed rolling challenge under Leonhard's bridge, which should be doable without taking damage
+Deleted sign in Corruption Temple and fixed a lava challenge where it was possible to not be able to fetch souls at a certain death location
+Elendad's Desert Ruins: Added 2x Tiki Armor
+Removed the two large gems which are now dropped by bosses and edited sign near Artorias
+Added 3 hidden Ranger Emblems pre-HM
+Improved loot in hidden chest in village mountain
+Added more smoke to the entrance to a dungeon
+
+
 MAP 0.9.3 
 ------------------
 Added Ranger Emblem to Hallowed Caves 
