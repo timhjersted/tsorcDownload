@@ -1,4 +1,28 @@
 CHANGELOG
+MAP 0.9.5 
+------------------
+Added bonfire and two shortcuts to Hallowed Caves
+Added bonfire to Frozen Ocean
+Added bonfire to Path of Mystery with a shortcut to the surface above
+Added bonfire to Cursed Green Dungeon (SHM)
+Added bonfire to Hallowed Spike Caverns post Shadow Temple
+Added bonfire to Shadow Temple near marble caves
+Added bonfire to Shadow Temple near a big room with two new shortcuts
+Added bonfire to Solaire's lost home in the Forgotten City and removed the other one above it
+Made all summoner items more accessible
+Removed several boss items from chests to make defeating those bosses more valuable
+Added visual distinctivenss to beginning of Path of Anquish
+Added bed save point to Path of the Hunter
+Moved Daedalus Stormbow to Triad Dungeon
+Added sign next to cave teleport in the tunnels at the bottom of the well, saying Caves can be entered by standing at the entrance and clicking on the darkness above your head.
+Updated and moved the "Dark Soul Recipe" sign to the chest right of the well.
+Moved post-Skeletron sign closer to the ledge
+Shortened the "Father once told me" sign about crystal clues
+Split desert sign mentioning hunter and serris clue into two signs
+Added a shortcut from the Deerclops bonfire that leads to EoL 
+Small terrain and visual improvements in: Corruption Temple, Frozen Depths, Forgotten City, Meteor Temple, Path of the Hunter
+
+
 MAP 0.9.4 
 ------------------
 Earth Temple: LOTS of small adjustments based on a recent playthrough
