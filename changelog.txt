@@ -1,4 +1,21 @@
 CHANGELOG
+MAP 0.9.6 
+------------------
+Added 3 sets of Adamantite armor near the beginning of the Path of the Hunter
+Replaced two chests with Adamantite armor with increased Adamantite bars
+Made more shortcut pressure plates orange (one time use)
+Added silver bullets to Earth Temple
+Removed glowing blocks on water surface in village mountain
+Replaced shortcut teal pressure pad with more obvious switch in Earth Temple
+Added more torches in the village
+Updated sign to mention the Catacombs
+Removed duplicate heart crystal on top of heart crystal above Corrupted Tunnel
+Added 2nd location for Vitamins
+Added lamps to key story gate that some players miss above The Hunter arena
+Removed Goblin Battle Standard and sign in favor of a scripted event
+Fixed air pockets in flooded part of Earth Temple
+
+
 MAP 0.9.5 
 ------------------
 Added bonfire and two shortcuts to Hallowed Caves
