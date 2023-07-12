@@ -1,4 +1,13 @@
 CHANGELOG
+MAP 0.9.7 
+------------------
+Cavern of Anguish / Path of the Hunter in HM: Fixed Adamantite Armor not appearing on mannequins in 0.9.6 - they're now in a chest
+Added a Tiki Armor set across 3 shadow chests in Earth temple
+Fixed 3 signs not converting to text bubbles in game
+Removed duplicate sign near skeletron
+Made traps in the Corrupted Tunnel one-time triggers
+
+
 MAP 0.9.6 
 ------------------
 Added 3 sets of Adamantite armor near the beginning of the Path of the Hunter
@@ -14,6 +23,7 @@ Added 2nd location for Vitamins
 Added lamps to key story gate that some players miss above The Hunter arena
 Removed Goblin Battle Standard and sign in favor of a scripted event
 Fixed air pockets in flooded part of Earth Temple
+Replaced a few more hard blocks with platforms in EoC arena
 
 
 MAP 0.9.5 
@@ -26,7 +36,7 @@ Added bonfire to Hallowed Spike Caverns post Shadow Temple
 Added bonfire to Shadow Temple near marble caves
 Added bonfire to Shadow Temple near a big room with two new shortcuts
 Added bonfire to Solaire's lost home in the Forgotten City and removed the other one above it
-Made all summoner items more accessible
+Made all summoner items more accessible (edits by MarfMaster)
 Removed several boss items from chests to make defeating those bosses more valuable
 Added visual distinctivenss to beginning of Path of Anquish
 Added bed save point to Path of the Hunter
@@ -1588,6 +1598,6 @@ Updated change log from tConfig Edition 1.1y to TML Edition 0.1 to mark shift to
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-All map updates by Tim Hjersted aka Vibrent on Discord, with 2 exceptions noted above.
+All map updates by Tim Hjersted aka Vibrent on Discord, with 3 exceptions noted above.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
