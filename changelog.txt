@@ -1,4 +1,20 @@
 CHANGELOG
+MAP 0.9.8 
+------------------
+Fixed the shortcut below spawn
+Added more storage options below village
+Added a chest where a player thought there should be one in Forgotten City
+Removed reference to Skeletron Prime in prep for update
+Moved Venus Magnum to Machine Temple
+Fixed the rolling challenge below Leonhard's Bridge
+Replaced shoe spikes with climbing claws in secret Red Knight path
+Replaced many more pressure plates with one-time use versions
+Replaced statues in Corruption Temple with other spawns
+Added 18 Palladium Bars to Hallowed Cave outskirts
+Added a bridge checkpoint lever and improved loot in 3 chests in Corruption Temple
+Altered one path and chest in Earth Temple
+
+
 MAP 0.9.7 
 ------------------
 Cavern of Anguish / Path of the Hunter in HM: Fixed Adamantite Armor not appearing on mannequins in 0.9.6 - they're now in a chest
