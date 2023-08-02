@@ -1,12 +1,49 @@
 CHANGELOG
+MAP 0.9.9 
+------------------
+***Re-added from lost 0.98 update: Added many more storage options and tools below village; Fixed the rolling challenge below Leonhard's Bridge
+Reduced entrances into the Shadow Temple from 3 to 2
+Expanded event space for first Black Knight encounter and nearby area
+Added blue platforms below Jungle Wyvern arena
+Added black fire to Attraidies' Tower
+Moved lava protection accessories to a single chest, with a new sign in the Great Pyramid offering a clue, also added a few more obsidian skin potions for earlier challenges
+Fixed a spot in the Golem Temple where you couldn't escape a spot without taking damage
+Added 1 Golden Delight to several chests and removed 10
+Added 27 Shroomite Bar to Golem Temple
+All locked Crimson Chests now have a Crimson Key
+Adjusted loot for a few chests
+Added a few blocks in the trees above Elder Crystal to hang banners
+Made it harder to enter Obsidian Temple without taking the big plunge
+Added thin ice to Western Ocean
+Replaced bones pre-dungeon with 1 bone each for summon item and removed bones near Earth Temple
+Added Plaguebringer's set to secret S______ arena
+Added Timeless Traveler's set to D___'s home
+Added Capricorn set to W_____ O____ home
+Added Floret Protector set near H____ arena
+Removed corruption thorns in the path of the player in many cases 
+Added Wandering set to post-E___ __ _____ arena
+Added Super Star Shooter and more stars in 2 chests
+Added more visual clue weidness for Moonlord puzzle
+Changed red bricks to crimson block in a spot and adjusted nearby loot
+Added Nightmare Pickaxe to EoW arena
+Added some Titan and Night Owl potions
+Added 1 dark and light shard to Hallowed Caverns
+Added Ancient Chisel
+Added 4 Defender's Forges to village chests
+Added Void Vault
+Moved Flamethrower to pre-Hunter location near the ocean and added nearby trap
+Fixed jump in flooded mines
+Removed extra spaces on mother and father's house sign
+
+
 MAP 0.9.8 
 ------------------
 Fixed the shortcut below spawn
-Added more storage options below village
+***Missing: Added more storage options below village
 Added a chest where a player thought there should be one in Forgotten City
 Removed reference to Skeletron Prime in prep for update
 Moved Venus Magnum to Machine Temple
-Fixed the rolling challenge below Leonhard's Bridge
+***Missing: Fixed the rolling challenge below Leonhard's Bridge
 Replaced shoe spikes with climbing claws in secret Red Knight path
 Replaced many more pressure plates with one-time use versions
 Replaced statues in Corruption Temple with other spawns
