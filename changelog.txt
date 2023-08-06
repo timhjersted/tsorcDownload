@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 0.9.9.1
+------------------
+Made the Jungle Temple more spacious and visually cool
+Fixed a shortcut door near Shadow Temple not being wired fully (not a big deal)
+Added one last clue for the 3 Stone Pillars puzzle
+Fixed switch on wall in Molten Sky Temple
+Expanded some random tunnels and rooms
+Expanded Artorias battle room and Forgotten City ground floor
+
+
 MAP 0.9.9 
 ------------------
 ***Re-added from lost 0.98 update: Added many more storage options and tools below village; Fixed the rolling challenge below Leonhard's Bridge
