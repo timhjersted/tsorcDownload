@@ -2,15 +2,15 @@ INSTALL GUIDE
 
 0.Download tModLoader from Steam: https://store.steampowered.com/app/1281930/tModLoader/
 
-1.Open tModLoader and select Mod Browser, then search for The Story of Red Cloud or tsorc. Download and load the TSORC Revamp mod. 
+1.Subscribe to the main mod on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2824879484
 
 2.Add these recommended mods: 
    Recipe Browser
    Terraria Ambience
 
-3.On the main menu screen, click the text prompt to download the TSORC Music Mod. 
+3.On the TML main menu screen, click the text prompt to download the Music Mod. 
 
-4.Create a new character (named Red Cloud if you want to follow the story).
+4.Create a new character (named Red Cloud if you want to follow the story or your name for multiplayer).
 
 5.On the world selection screen, select "The Story of Red Cloud." Then play!
 
@@ -21,11 +21,11 @@ INSTALL GUIDE
 
 UPDATE GUIDE 
 
-1. If there's a mod update, open tModLoader, select "Mods," then click the update button for The Story of Red Cloud Revamped.
+1. If you're starting a fresh playthrough and want the latest map (world file), go to the world selection menu, click NEW, then click The Story of Red Cloud.
 
-2. If there's a map update, go to the world selection menu, click NEW, then click the text prompt. 
+Alternatively, you can subscribe to the map on Steam, then use the Import World feature to get the latest map: https://steamcommunity.com/sharedfiles/filedetails/?id=3003346522
 
-3. If there's a music mod update, click the text prompt on the TML main menu. 
+2. If there's a music mod update, click the text prompt on the TML main menu. 
 
 Find out about updates via our Discord Server: https://discord.com/invite/kSptDbe
 

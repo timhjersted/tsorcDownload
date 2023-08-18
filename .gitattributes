@@ -1,2 +1,0 @@
-.tmod filter=lfs diff=lfs merge=lfs -text
-tsorcMusic.tmod filter=lfs diff=lfs merge=lfs -text
