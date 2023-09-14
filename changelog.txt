@@ -1,4 +1,29 @@
 CHANGELOG
+MAP 0.9.9.2
+------------------
+Updated Map for Terraria 1.4.4.9
+Revamped biome and visuals for Path of Ambition (aka Path of Pain) and swapped EoC summon item for something else...
+Added a cool bridge to the Lake of Flowered Paths
+Made a mushroom cavern cooler
+Added shimmer at a sacred site
+Removed a lot of spikes from the big underground lake post Shadow Temple and increased rewards
+Changed visuals for Chaos arena and swapped red moss for argon moss nearby
+Expanded Cavern of Graves
+Added Meteorite Biome to SHM underworld area
+Closed off 1 path to 1st EoW so the player must find another route (this also ensures a certain lever is pulled, relating to a secret)
+Removed a . in the world name to fit with Terraria's 27 character limit
+Picked a nice background wall for the spiked hallowed chasm
+Added lights to Destroyer Idols
+Removed crystal heart before 1st Red Knight encounter and 1st EoW
+Removed Large Gem from Artorias chest (now just a boss drop)
+Fixed statue pixel and underground jungle sign typo, edited and removed some signs
+
+MUSIC 0.9.9
+------------------
+Changed or added music for a few more bosses and mini-bosses
+Removed several unused songs to reduce file size
+
+
 MAP 0.9.9.1
 ------------------
 Made the Jungle Temple more spacious and visually cool
