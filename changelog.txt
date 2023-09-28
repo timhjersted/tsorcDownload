@@ -1,4 +1,16 @@
 CHANGELOG
+MAP 0.9.9.3
+------------------
+Reverted Path of Ambition to jungle biome due to low spawn rates of Crimson, added some metroidvania challenges, reduced water and adjusted loot
+Moved Thunder Zapper, Exotic Scimitar, Storm Spear, Paladin's Hammer, Philosopher's Stone
+Removed some duplicate items
+Fixed crystal heart double stacking bug in a couple spots
+Moved easter egg event to Corruption Temple
+Fixed trapped chest in secret area and added some decorations nearby
+Reduced some adamantite in certain chests
+Added some other small tweaks
+
+
 MAP 0.9.9.2
 ------------------
 Updated Map for Terraria 1.4.4.9
