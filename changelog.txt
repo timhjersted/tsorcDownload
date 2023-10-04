@@ -1,4 +1,20 @@
 CHANGELOG
+MAP 0.9.9.4
+------------------
+Adjusted Path of Ambition loot and temple mechanics
+Moved Tungsten armor and weapons
+Swapped chests near AOD and Crimson cave
+Added 3 modded item caches
+Moved jungle heart crystal
+Moved Ruby Robe and Ruby Staff
+Made it possible to swim out of an icy area near Earth Temple
+Added spectre goggles and echo paint to certain things in one magic related zone
+Fixed 2 actuated block issues (including xenon moss cave entrance)
+Fixed mushroom biome showing up near ??? bridge
+Removed Deerthing (now has event)
+Added little desert area for a new event
+
+
 MAP 0.9.9.3
 ------------------
 Reverted Path of Ambition to jungle biome due to low spawn rates of Crimson, added some metroidvania challenges, reduced water and adjusted loot
