@@ -1,4 +1,9 @@
 CHANGELOG
+
+MUSIC 0.9.9.1
+------------------
+Recompiled music mod to work with TML 1.4.4
+
 MAP 0.9.9.4
 ------------------
 Adjusted Path of Ambition loot and temple mechanics
