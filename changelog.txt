@@ -1,8 +1,18 @@
 CHANGELOG
-
-MUSIC 0.9.9.1
+MAP 0.9.9.5
 ------------------
-Recompiled music mod to work with TML 1.4.4
+Added a secret path leading to a new optional boss and mini-dungeon (near Ashenpeak Village)
+Added a new unlockable path from this dungeon allowing for more non-linearity 
+Loot adjustments and fixes
+Added bonfire near 2nd Skeletron arena
+Added 2 heart crystals accessible before EoC and 2 likely after
+Added exploration based ways to fight Chaos and and the Wyvern Mage's Shadow (boss-based routes still viable)
+
+
+MUSIC MOD 0.9.9.5
+------------------
+Added 8 new songs from Elden Ring for more boss and biome variety!
+
 
 MAP 0.9.9.4
 ------------------
@@ -51,11 +61,6 @@ Removed crystal heart before 1st Red Knight encounter and 1st EoW
 Removed Large Gem from Artorias chest (now just a boss drop)
 Fixed statue pixel and underground jungle sign typo, edited and removed some signs
 
-MUSIC 0.9.9
-------------------
-Changed or added music for a few more bosses and mini-bosses
-Removed several unused songs to reduce file size
-
 
 MAP 0.9.9.1
 ------------------
@@ -65,6 +70,11 @@ Added one last clue for the 3 Stone Pillars puzzle
 Fixed switch on wall in Molten Sky Temple
 Expanded some random tunnels and rooms
 Expanded Artorias battle room and Forgotten City ground floor
+
+
+MUSIC 0.9.9.1
+------------------
+Recompiled music mod to work with TML 1.4.4
 
 
 MAP 0.9.9 
@@ -102,6 +112,12 @@ Added Void Vault
 Moved Flamethrower to pre-Hunter location near the ocean and added nearby trap
 Fixed jump in flooded mines
 Removed extra spaces on mother and father's house sign
+
+
+MUSIC 0.9.9
+------------------
+Changed or added music for a few more bosses and mini-bosses
+Removed several unused songs to reduce file size
 
 
 MAP 0.9.8 
