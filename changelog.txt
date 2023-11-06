@@ -1,4 +1,31 @@
 CHANGELOG
+MAP 0.9.9.6
+------------------
+Entrance to the Earth Temple is now blocked by a Large Amber Gem gate to prevent players from accidentally going there pre-Ashenpeak Village and getting wrecked and rage quitting :p
+Moved bonfire below burnt village to avoid sound at spawn
+Converted two jungle areas to forest biome since jungle is over-represented
+Added cool "gate" blocking the corruption tunnel until you can access it from other side and reduced corruption biome nearby to more directly encourage exploration of the mountains
+Added escape route from parkour puzzle in the mountain
+Made mountain caverns more spacious in areas and added more friendly lighting (thanks villagers)
+Made several sign messages more concise and helpful 
+Added bonfire in Earth Temple at a more natural location for a starting spawn if you come from the main entrance
+Removed wooden boomerang (since magic one is so close)
+Added 2 copper armor sets to starting spawn so the player doesn't have to change sets so fast
+Added flower vines to a jungle zone
+Added another entrance to Mountain Caverns
+Removed ruby hook as reward for a certain puzzle
+Removed some tombstones in catacombs entrance 
+Replaced voodoo doll in Aaron's home with Aaron's Protection Stone! (Needs latest mod update to work)
+Made secret Herme's Boots slightly easier to discover (via visual hints) and obtain (via 2 peace candles)
+Added a few more shallow pools in the catacombs
+
+
+MUSIC MOD 0.9.9.6
+------------------
+Fixed village music playing below town
+Fixed rain playing below ground
+
+
 MAP 0.9.9.5
 ------------------
 Added a secret path leading to a new optional boss and mini-dungeon (near Ashenpeak Village)

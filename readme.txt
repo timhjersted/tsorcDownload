@@ -6,15 +6,15 @@
 
 GAME MANUAL:
 --------------------------------------------
-*Read signs in the order you come to them.
+*Read messages in the order you come to them.
 
 *Read all item tool-tips for hints and game clues, especially mod items.
 
 *On death, you will drop all your Dark Souls and have one chance to recover them. For a more forgiving experience, you can turn this off in the mod's Config options.
 
-*New dodge roll action with i-frames can be bound to any key via the mod config (default: left alt)
+*New dodge roll action with i-frames can be bound to any key via the mod config (default: left alt, left shift recommended)
 
-*Want to play multiplayer? The map supports up to 4 players. Class diversity recommended. 
+*Want to play multiplayer? The map supports up to 4 players. Class diversity recommended. Only one character can be named Red Cloud.
 
 
 
@@ -77,19 +77,11 @@ TIPS & HINTS
 
 
 
-
-
-OFFICIAL RED CLOUD WIKI: 
+OFFICIAL RED CLOUD WIKI (WIP): 
 --------------------------------------------
 https://terrariamods.wiki.gg/wiki/The_Story_of_Red_Cloud
 
-
-
-
 . . .
-
-
-
 
 
 CREDITS:
@@ -186,10 +178,8 @@ Solenix / select Vertigo Elemental content
 CUSTOM SOUNDTRACK
 (tsorcMusic.tmod):
 ----
-This is the music soundtrack for The Story of Red Cloud, compiled and audio-mixed by Vibrent (updated for tModLoader & Terraria 1.4.3.6). All credit and thanks for these songs go to the original composers and remixers and are used here under Fair Use.
-
-Coding by RecursiveCollapse and Vibrent.
-
+Version compatibility: tModLoader & Terraria 1.4.4.9
+Coding by: RecursiveCollapse and Vibrent
 Contact: Vibrent#7623 on Discord.com
 
 SONG CREDITS
@@ -230,6 +220,12 @@ Boss 16 / "Elden Ring: Fire Giant" (From Software)
 
 Boss 17 / "Elden Ring: Beast Clergyman" (From Software)
 
+Boss18 / "Dark Souls: Pinwheel" (From Software)
+
+Boss19 / "Elden Ring: Melania" (From Software)
+
+Catacombs / "Elden Ring: Catacombs (Yuka Kitamura - From Software)
+
 Cavern / "Metroid Prime 2 - Torvus Bog Entrance" (Kenji Yamamoto)
 
 Corruption / Dark Souls Abyss ambient sounds (From Software) + "Hive Tunnel - Metroid Prime 2" (Nintendo)
@@ -244,9 +240,11 @@ Dungeon / Ocarina of Time - Spirit Temple Reorchestrated / Majora's Mask - Stone
 
 Eerie / "Elden Ring: Prison Town" (From Software)
 
-Ending / "Elden Ring: Ending" (From Software)
-
 Forgotten City / "Elden Ring: Eternal City" (From Software)
+
+God-DevouringSerpent / "Elden Ring: God-Devouring Serpent" (From Software)
+
+GreatUndergroundRivers / "Elden Ring: Great Underground Rivers" (From Software)
 
 Hallow / "Elden Ring: Altus_Plateau" (From Software)
 
@@ -262,15 +260,17 @@ Ocean / "The Legend of Zelda: Skyward Sword - Sailing the Sand Sea"(Hajime Wakai
 
 Old One's Tree / "Elden Ring: Song of Honor" (From Software)
 
-Overworld Day / "World of Warcraft: Elwynn Forest" (Blizzard Entertainment)
+Opening / "Elden Ring: Opening" (From Software)
 
-Overworld Day (OLD) / "A Link to the Past - Dark Overworld Theme Reorchestrated" (ZREO) / "The Minish Cap - Mt. Crenel Reorchestrated" (ZREO)
+Overworld Day / "World of Warcraft: Elwynn Forest" (Blizzard Entertainment)
 
 Rain / "Faron Woods" (ZREO)
 
 Sandstorm / "Elden Ring: Black Knives" (From Software)
 
 Sky Temple / "Elden Ring: Lyndell Capital" (From Software)
+
+Tunnels / "Elden Ring: Tunnels" (Yuka Kitamura - From Software)
 
 Space / "Chozo Statue Awakens" (The Blake Robinson Synthetic Orchestra) 
 
