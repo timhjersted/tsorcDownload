@@ -1,7 +1,13 @@
 CHANGELOG
+MAP 0.9.9.8
+------------------
+Fixed several non-actuated blocks in the great Old One's Tree and a few in a blue dungeon found after
+Added a visual clue to find Ancient Demon in the Forgotten City
+
+
 MAP 0.9.9.7
 ------------------
-Fixed non-accuated part of non-critical gate in Earth Temple
+Fixed non-actuated part of secret door near the first Demon Altar in the Earth Temple
 Made several adjustments to improve the Earth Temple because what the hey
 
 
