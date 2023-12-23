@@ -1,4 +1,20 @@
 CHANGELOG
+MAP 1.0
+------------------
+Made a magic dart puzzle easier to complete but harder to spot, with an added lighting clue. This secret now has an added exploration bonus, granting access farther inside a dungeon
+Removed graveyard biome from edges of a hidden area
+Added trap where it might be expected
+Made entrance to tree area cooler 
+Added visual details to tree zone and Path of Ambition
+Removed Skeletron Prime spawn item
+Added visual details to Ashen Caves
+
+
+MUSIC 1.0
+------------------
+Fixed music not playing in Ashen Caves
+
+
 MAP 0.9.9.9
 ------------------
 Fixed two remaining non-actuated blocks in the great Old One's Tree (thanks vanta2306!)
