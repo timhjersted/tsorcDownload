@@ -1,4 +1,16 @@
 CHANGELOG
+MAP 1.01
+------------------
+Removed 2 blocks from Golem arena
+Fixed hammers appearing on Necro Armor mannequins and removed 2 unnecessary chests
+Fixed boulder getting clipped by platform in mountain area
+Fixed some glitched lanterns
+Added singular test dummies to attack in the village basement
+Improved visual clues for secret in the mountain caverns
+Removed Tiki armor set from locked shadow chests and reduced adamantite bar rewards
+Made the area near Cloud in a Bottle a bit more chill
+
+
 MAP 1.0
 ------------------
 Made a magic dart puzzle easier to complete but harder to spot, with an added lighting clue. This secret now has an added exploration bonus, granting access farther inside a dungeon
