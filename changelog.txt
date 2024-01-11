@@ -1,4 +1,16 @@
 CHANGELOG
+MAP 1.02
+------------------
+Fixed bridge not fully activating in Corruption Temple
+Added fancy contraption to Golem arena (thanks Urgiv)
+Replaced potentially confusing gate with mineable sand to encourage 1 of 2 routes without blocking it entirely
+Replaced pressure pads with 2 switches in Path of Mystery and made the secret path deep into the Earth Temple more of an interesting challenge
+Removed 1 bonfire humorously close to another one in the Earth Temple and added a little something plus improved nearby loot
+Replaced boulder trap with boulder statues
+Removed broken bat statue
+Fixed a line of blocks accuating for no reason in the Village Tunnel
+
+
 MAP 1.01
 ------------------
 Removed 2 blocks from Golem arena
