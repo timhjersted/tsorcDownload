@@ -1,4 +1,14 @@
 CHANGELOG
+MAP 1.03
+------------------
+Fixed a sequence issue that could potentially prevent players from returning to a secret boss arena 
+Fixed the lanterns in the mountain by the village, the Corruption Temple, below spawn, near the Ancestral Spirit and more: please report any breaking lanterns that I missed, thanks!
+Fixed small actuator glitch in Path of Ambition
+Added snow clouds near an unidentified object in the sky...
+Added more platforms to EoW arena
+Removed unnecessary lever near a locked shadow chest and added ore gate
+
+
 MAP 1.02
 ------------------
 Fixed bridge not fully activating in Corruption Temple
