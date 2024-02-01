@@ -1,10 +1,4 @@
-
-
-  :|:::       THE STORY OF RED CLOUD      :::|:
-
-
-
-GAME MANUAL:
+THE STORY OF RED CLOUD: GAME MANUAL
 --------------------------------------------
 *Read messages in the order you come to them.
 
@@ -18,11 +12,7 @@ GAME MANUAL:
 
 
 
-
-
-
-
-DISCORD GROUP:
+DISCORD GROUP
 --------------------------------------------
 https://discord.com/invite/kSptDbe
 
@@ -34,11 +24,9 @@ Love reading changelogs? Read them at #map-changelog and #mod-changelog
 
 
 
-
-THINGS WE'D LOVE TO SEE:
+THINGS WE'D LOVE TO SEE
 --------------------------------------------
-
-*VIDEO PLAYTHROUGHS: Share a link to the series in our Discord.
+VIDEO PLAYTHROUGHS: Share a link to the series in our Discord.
 
 COMMENTS/REVIEWS: Post them on our Discord or this Terraria Forum thread: https://forums.terraria.org/index.php?threads/the-story-of-red-cloud-a-dark-souls-inspired-adventure-game.110169/
 
@@ -77,16 +65,14 @@ TIPS & HINTS
 
 
 
-OFFICIAL RED CLOUD WIKI (WIP): 
+OFFICIAL RED CLOUD WIKI (WIP)
 --------------------------------------------
 https://terrariamods.wiki.gg/wiki/The_Story_of_Red_Cloud
 
-. . .
 
 
 CREDITS:
-
-
+--------------------------------------------
 Adventure Map
 ----
 Tim Hjersted aka Vibrent / Everything (made in Tedit)
@@ -175,10 +161,7 @@ Solenix / select Vertigo Elemental content
 
 
 
-CUSTOM SOUNDTRACK
-(tsorcMusic.tmod):
-----
-Version compatibility: tModLoader & Terraria 1.4.4.9
+Version compatibility: tModLoader 1.4.4 & Terraria 1.4.4.9
 Coding by: RecursiveCollapse and Vibrent
 Contact: Vibrent#7623 on Discord.com
 
@@ -240,17 +223,25 @@ Dungeon / Ocarina of Time - Spirit Temple Reorchestrated / Majora's Mask - Stone
 
 Eerie / "Elden Ring: Prison Town" (From Software)
 
+FirelinkShrine / "Dark Souls: Fire Link Shrine" (From Software, reorchestrated by Pontus Hultgren Music)
+
 Forgotten City / "Elden Ring: Eternal City" (From Software)
 
 God-DevouringSerpent / "Elden Ring: God-Devouring Serpent" (From Software)
 
 GreatUndergroundRivers / "Elden Ring: Great Underground Rivers" (From Software)
 
+Gwyn / "Dark Souls: Gwyn" (From Software)
+
 Hallow / "Elden Ring: Altus_Plateau" (From Software)
 
 Hallow (OLD) / "Skyward Sword - Skyview Temple Reorchestrated" (ZREO)
 
 Jungle / "Ocarina of Time - Fire Temple Reorchestrated" (ZREO)
+
+JungleVillage / "World of Warcraft: Zuldazar" (Blizzard Entertainment)
+
+MetroidUndergroundDepths / "Super Metroid: Underground Depths"(Original by Nintendo, Remix/cover by Pontus Hultgren Music)
 
 Mushrooms / "The Legend of Zelda: Skyward Sword - Goddess Mission" (Hajime Wakai, Shibo Fujii, Mahito Yokota, Takeshi Hama, Koji Kondo)
 
@@ -259,8 +250,6 @@ Night / "Skyward Sword - Separation" (Nintendo) / "Skyward Sword - Sealed Temple
 Ocean / "The Legend of Zelda: Skyward Sword - Sailing the Sand Sea"(Hajime Wakai, Shiho Fujii) mixed with desert wind sounds
 
 Old One's Tree / "Elden Ring: Song of Honor" (From Software)
-
-Opening / "Elden Ring: Opening" (From Software)
 
 Overworld Day / "World of Warcraft: Elwynn Forest" (Blizzard Entertainment)
 
@@ -280,8 +269,6 @@ Underground / "Ocarina of Time - Forest Temple Reorchestrated" (ZREO)
 
 Underground Corruption / "Twilight Princess - Arbiters Grounds" (Nintendo)
 
-Underground Crimson / "Brinstar - Underground Depths" (The Blake Robinson Synthetic Orchestra) mixed with "Dark Souls Ambient Sounds  - Pinwheels Sarcophagus (From Software)"
-
 Underground Desert / "Desert Temple - Minecraft Dungeons" (Johan Johnson)
 
 Underground Eerie / "Elden Ring: Volcano Manor" (From Software)
@@ -290,7 +277,9 @@ Underground Jungle / "World of Warcraft: Stranglethorn Vale" (Blizzard Entertain
 
 Underground Hallow / "Elden Ring: Liurnia of the Lakes" (From Software)
 
-Underground Hallow (OLD) / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
+Underground Hallow (OLD) / "The Minish Cap - Temple of Droplets Reorchestrated" (ZREO) / "Ocarina of Time - Water 
+
+Temple Reorchestrated" (ZREO) / "Oracle of Ages - Nayru's Song Reorchestrated"  (ZREO)
 
 Underground Mushrooms / "Ocarina of Time - Temple of Time" (ZREO)
 
@@ -308,23 +297,30 @@ Water Temple / "Elden Ring: Consecrated Snowfield" (From Software)
 
 Wyvern Mage Fortress / "Elden Ring: Academy of Raya Lucaria" (From Software)
 
-
-ZREO =  Zelda Reorchestrated : http://www.zreomusic.com/
-
-
-Mixed in as transitions in certain songs
-____________________
+Mixed in as transitions in certain songs:
 "Cave Ambience" (Jross aka Xeltic89)
 "Frog Chorus" (Echoes of Nature album by American Wilds)
 "Deep Woods" (Echoes of Nature album by American Wilds)  
 "Crickets" (Echoes of Nature album by American Wilds)
 
+ZREO =  Zelda Reorchestrated: http://www.zreomusic.com/
+Pontus Hultgren Music: https://www.youtube.com/@PontusHultgren
 
 
----
+SOURCE LINKS
+--------------------------------------------
+Adventure World, Compiled Music Mod and Download Files:
+https://github.com/timhjersted/tsorcDownload
+
+Music Mod Source Files:
+https://github.com/timhjersted/tsorcMusic
+
+Main Mod Source Files:
+https://github.com/Zeodexic/tsorcRevamp/tree/1.4.4-tracked
 
 
-
+???
+--------------------------------------------
 What's this teleporter doing here? Oh, it takes you to the organization Tim Hjersted co-founded in 2006. Hurrahh! 
 
 https://www.filmsforaction.org

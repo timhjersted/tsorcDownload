@@ -1,0 +1,1851 @@
+CHANGELOG
+MAP 1.04
+------------------
+Added water mechanic back to EoW1
+Added lava (back) and new mechanic to Cloud in a Bottle area
+Increased size of hidey hole inside an early optional boss arena and added escape path
+Added rock formations and rock background to the Nora Sea
+Fixed a few exploding cactuses and a couple lantern sprites
+ 
+
+MUSIC 1.01
+------------------
+-Removed Opening and returned spawn music to "Night"
+-Fixed "Ocean" not playing virtually ever
+-Fixed jungle playing in the desert oasis
+-Nighttime desert music switched from "Hallow" to "GreatUndergroundRivers"
+-Added UI new icons
+-Added missing credit for JungleVillage
+-Removed Chinese translation temporarily as it was causing a build error
+
+
+MAP 1.03
+------------------
+Fixed a sequence issue that could potentially prevent players from returning to a secret boss arena 
+Fixed the lanterns in the mountain by the village, the Corruption Temple, below spawn, near the Ancestral Spirit and more: please report any breaking lanterns that I missed, thanks!
+Fixed small actuator glitch in Path of Ambition
+Added snow clouds near an unidentified object in the sky...
+Added more platforms to EoW arena
+Removed unnecessary lever near a locked shadow chest and added ore gate
+
+
+MAP 1.02
+------------------
+Fixed bridge not fully activating in Corruption Temple
+Added fancy contraption to Golem arena (thanks Urgiv)
+Replaced potentially confusing gate with mineable sand to encourage 1 of 2 routes without blocking it entirely
+Replaced pressure pads with 2 switches in Path of Mystery and made the secret path deep into the Earth Temple more of an interesting challenge
+Removed 1 bonfire humorously close to another one in the Earth Temple and added a little something plus improved nearby loot
+Replaced boulder trap with boulder statues
+Removed broken bat statue
+Fixed a line of blocks accuating for no reason in the Village Tunnel
+
+
+MAP 1.01
+------------------
+Removed 2 blocks from Golem arena
+Fixed hammers appearing on Necro Armor mannequins and removed 2 unnecessary chests
+Fixed boulder getting clipped by platform in mountain area
+Fixed some glitched lanterns
+Added singular test dummies to attack in the village basement
+Improved visual clues for secret in the mountain caverns
+Removed Tiki armor set from locked shadow chests and reduced adamantite bar rewards
+Made the area near Cloud in a Bottle a bit more chill
+
+
+MAP 1.0
+------------------
+Made a magic dart puzzle easier to complete but harder to spot, with an added lighting clue. This secret now has an added exploration bonus, granting access farther inside a dungeon
+Removed graveyard biome from edges of a hidden area
+Added trap where it might be expected
+Made entrance to tree area cooler 
+Added visual details to tree zone and Path of Ambition
+Removed Skeletron Prime spawn item
+Added visual details to Ashen Caves
+
+
+MUSIC 1.0
+------------------
+Fixed music not playing in Ashen Caves
+
+
+MAP 0.9.9.9
+------------------
+Fixed two remaining non-actuated blocks in the great Old One's Tree (thanks vanta2306!)
+
+
+MAP 0.9.9.8
+------------------
+Fixed several non-actuated blocks in the great Old One's Tree and a few in a blue dungeon found after
+Added a visual clue to find Ancient Demon in the Forgotten City
+
+
+MAP 0.9.9.7
+------------------
+Fixed non-actuated part of secret door near the first Demon Altar in the Earth Temple
+Made several adjustments to improve the Earth Temple because what the hey
+
+
+MAP 0.9.9.6
+------------------
+Entrance to the Earth Temple is now blocked by a Large Amber Gem gate to prevent players from accidentally going there pre-Ashenpeak Village and getting wrecked and rage quitting :p
+Moved bonfire below burnt village to avoid sound at spawn
+Converted two jungle areas to forest biome since jungle is over-represented
+Added cool "gate" blocking the corruption tunnel until you can access it from other side and reduced corruption biome nearby to more directly encourage exploration of the mountains
+Added escape route from parkour puzzle in the mountain
+Made mountain caverns more spacious in areas and added more friendly lighting (thanks villagers)
+Made several sign messages more concise and helpful 
+Added bonfire in Earth Temple at a more natural location for a starting spawn if you come from the main entrance
+Removed wooden boomerang (since magic one is so close)
+Added 2 copper armor sets to starting spawn so the player doesn't have to change sets so fast
+Added another entrance to Mountain Caverns
+Removed ruby hook as reward for a certain puzzle
+Replaced voodoo doll in Aaron's home with Aaron's Protection Stone! (Needs latest mod update to work)
+Made secret Herme's Boots slightly easier to discover and obtain 
+
+
+MUSIC MOD 0.9.9.6
+------------------
+Fixed village music playing below town
+Fixed rain playing below ground
+
+
+MAP 0.9.9.5
+------------------
+Added a secret path leading to a new optional boss and mini-dungeon (near Ashenpeak Village)
+Added a new unlockable path from this dungeon allowing for more non-linearity 
+Loot adjustments and fixes
+Added bonfire near 2nd Skeletron arena
+Added 2 heart crystals accessible before EoC and 2 likely after
+Added exploration based ways to fight Chaos and and the Wyvern Mage's Shadow (boss-based routes still viable)
+
+
+MUSIC MOD 0.9.9.5
+------------------
+Added 8 new songs from Elden Ring for more boss and biome variety!
+
+
+MAP 0.9.9.4
+------------------
+Adjusted Path of Ambition loot and temple mechanics
+Moved Tungsten armor and weapons
+Swapped chests near AOD and Crimson cave
+Added 3 modded item caches
+Moved jungle heart crystal
+Moved Ruby Robe and Ruby Staff
+Made it possible to swim out of an icy area near Earth Temple
+Added spectre goggles and echo paint to certain things in one magic related zone
+Fixed 2 actuated block issues (including xenon moss cave entrance)
+Fixed mushroom biome showing up near ??? bridge
+Removed Deerthing (now has event)
+Added little desert area for a new event
+
+
+MAP 0.9.9.3
+------------------
+Reverted Path of Ambition to jungle biome due to low spawn rates of Crimson, added some metroidvania challenges, reduced water and adjusted loot
+Moved Thunder Zapper, Exotic Scimitar, Storm Spear, Paladin's Hammer, Philosopher's Stone
+Removed some duplicate items
+Fixed crystal heart double stacking bug in a couple spots
+Moved easter egg event to Corruption Temple
+Fixed trapped chest in secret area and added some decorations nearby
+Reduced some adamantite in certain chests
+Added some other small tweaks
+
+
+MAP 0.9.9.2
+------------------
+Updated Map for Terraria 1.4.4.9
+Revamped biome and visuals for Path of Ambition (aka Path of Pain) and swapped EoC summon item for something else...
+Added a cool bridge to the Lake of Flowered Paths
+Made a mushroom cavern cooler
+Added shimmer at a sacred site
+Removed a lot of spikes from the big underground lake post Shadow Temple and increased rewards
+Changed visuals for Chaos arena and swapped red moss for argon moss nearby
+Expanded Cavern of Graves
+Added Meteorite Biome to SHM underworld area
+Closed off 1 path to 1st EoW so the player must find another route (this also ensures a certain lever is pulled, relating to a secret)
+Removed a . in the world name to fit with Terraria's 27 character limit
+Picked a nice background wall for the spiked hallowed chasm
+Added lights to Destroyer Idols
+Removed crystal heart before 1st Red Knight encounter and 1st EoW
+Removed Large Gem from Artorias chest (now just a boss drop)
+Fixed statue pixel and underground jungle sign typo, edited and removed some signs
+
+
+MAP 0.9.9.1
+------------------
+Made the Jungle Temple more spacious and visually cool
+Fixed a shortcut door near Shadow Temple not being wired fully (not a big deal)
+Added one last clue for the 3 Stone Pillars puzzle
+Fixed switch on wall in Molten Sky Temple
+Expanded some random tunnels and rooms
+Expanded Artorias battle room and Forgotten City ground floor
+
+
+MUSIC 0.9.9.1
+------------------
+Recompiled music mod to work with TML 1.4.4
+
+
+MAP 0.9.9 
+------------------
+***Re-added from lost 0.98 update: Added many more storage options and tools below village; Fixed the rolling challenge below Leonhard's Bridge
+Reduced entrances into the Shadow Temple from 3 to 2
+Expanded event space for first Black Knight encounter and nearby area
+Added blue platforms below Jungle Wyvern arena
+Added black fire to Attraidies' Tower
+Moved lava protection accessories to a single chest, with a new sign in the Great Pyramid offering a clue, also added a few more obsidian skin potions for earlier challenges
+Fixed a spot in the Golem Temple where you couldn't escape a spot without taking damage
+Added 1 Golden Delight to several chests and removed 10
+Added 27 Shroomite Bar to Golem Temple
+All locked Crimson Chests now have a Crimson Key
+Adjusted loot for a few chests
+Added a few blocks in the trees above Elder Crystal to hang banners
+Made it harder to enter Obsidian Temple without taking the big plunge
+Added thin ice to Western Ocean
+Replaced bones pre-dungeon with 1 bone each for summon item and removed bones near Earth Temple
+Added Plaguebringer's set to secret S______ arena
+Added Timeless Traveler's set to D___'s home
+Added Capricorn set to W_____ O____ home
+Added Floret Protector set near H____ arena
+Removed corruption thorns in the path of the player in many cases 
+Added Wandering set to post-E___ __ _____ arena
+Added Super Star Shooter and more stars in 2 chests
+Added more visual clue weidness for Moonlord puzzle
+Changed red bricks to crimson block in a spot and adjusted nearby loot
+Added Nightmare Pickaxe to EoW arena
+Added some Titan and Night Owl potions
+Added 1 dark and light shard to Hallowed Caverns
+Added Ancient Chisel
+Added 4 Defender's Forges to village chests
+Added Void Vault
+Moved Flamethrower to pre-Hunter location near the ocean and added nearby trap
+Fixed jump in flooded mines
+Removed extra spaces on mother and father's house sign
+
+
+MUSIC 0.9.9
+------------------
+Changed or added music for a few more bosses and mini-bosses
+Removed several unused songs to reduce file size
+
+
+MAP 0.9.8 
+------------------
+Fixed the shortcut below spawn
+***Missing: Added more storage options below village
+Added a chest where a player thought there should be one in Forgotten City
+Removed reference to Skeletron Prime in prep for update
+Moved Venus Magnum to Machine Temple
+***Missing: Fixed the rolling challenge below Leonhard's Bridge
+Replaced shoe spikes with climbing claws in secret Red Knight path
+Replaced many more pressure plates with one-time use versions
+Replaced statues in Corruption Temple with other spawns
+Added 18 Palladium Bars to Hallowed Cave outskirts
+Added a bridge checkpoint lever and improved loot in 3 chests in Corruption Temple
+Altered one path and chest in Earth Temple
+
+
+MAP 0.9.7 
+------------------
+Cavern of Anguish / Path of the Hunter in HM: Fixed Adamantite Armor not appearing on mannequins in 0.9.6 - they're now in a chest
+Added a Tiki Armor set across 3 shadow chests in Earth temple
+Fixed 3 signs not converting to text bubbles in game
+Removed duplicate sign near skeletron
+Made traps in the Corrupted Tunnel one-time triggers
+
+
+MAP 0.9.6 
+------------------
+Added 3 sets of Adamantite armor near the beginning of the Path of the Hunter
+Replaced two chests with Adamantite armor with increased Adamantite bars
+Made more shortcut pressure plates orange (one time use)
+Added silver bullets to Earth Temple
+Removed glowing blocks on water surface in village mountain
+Replaced shortcut teal pressure pad with more obvious switch in Earth Temple
+Added more torches in the village
+Updated sign to mention the Catacombs
+Removed duplicate heart crystal on top of heart crystal above Corrupted Tunnel
+Added 2nd location for Vitamins
+Added lamps to key story gate that some players miss above The Hunter arena
+Removed Goblin Battle Standard and sign in favor of a scripted event
+Fixed air pockets in flooded part of Earth Temple
+Replaced a few more hard blocks with platforms in EoC arena
+
+
+MAP 0.9.5 
+------------------
+Added bonfire and two shortcuts to Hallowed Caves
+Added bonfire to Frozen Ocean
+Added bonfire to Path of Mystery with a shortcut to the surface above
+Added bonfire to Cursed Green Dungeon (SHM)
+Added bonfire to Hallowed Spike Caverns post Shadow Temple
+Added bonfire to Shadow Temple near marble caves
+Added bonfire to Shadow Temple near a big room with two new shortcuts
+Added bonfire to Solaire's lost home in the Forgotten City and removed the other one above it
+Made all summoner items more accessible (edits by MarfMaster)
+Removed several boss items from chests to make defeating those bosses more valuable
+Added visual distinctivenss to beginning of Path of Anquish
+Added bed save point to Path of the Hunter
+Moved Daedalus Stormbow to Triad Dungeon
+Added sign next to cave teleport in the tunnels at the bottom of the well, saying Caves can be entered by standing at the entrance and clicking on the darkness above your head.
+Updated and moved the "Dark Soul Recipe" sign to the chest right of the well.
+Moved post-Skeletron sign closer to the ledge
+Shortened the "Father once told me" sign about crystal clues
+Split desert sign mentioning hunter and serris clue into two signs
+Added a shortcut from the Deerclops bonfire that leads to EoL 
+Small terrain and visual improvements in: Corruption Temple, Frozen Depths, Forgotten City, Meteor Temple, Path of the Hunter
+
+
+MAP 0.9.4 
+------------------
+Earth Temple: LOTS of small adjustments based on a recent playthrough
+Corruption Temple: Several adjustments to improve progression flow
+Corruption Temple: 2nd half is now harder to access, to encourage the player to progress East or make a more commited decision to explore more, to improve game pacing and choice (instead of feeling like the whole thing needs to be done). To compensate then for the extra effort, the rewards have been increased
+Catcombs: more atmospheric lighting and more spacious hallways 
+Added a few more ropes around the map to reduce jump climbing in key areas to improve game flow
+Removed Fishing Rod in starting area because fishing isn't an encouraged mechanic (was supposed to just be a lore thing)
+Burned Down Village: Adjusted loot and blocks
+Increased visual clues for a couple secrets
+Removed Soaring Insignia from Triad chest and moved to a SHM chest in chase the player opts not to fight the Empress of Light
+Fixed a jumping puzzle in the Earth Temple
+Shadow Temple: Increased clue visibility for the 3 shortcuts and added a bonfire
+Moved bonfire near The Machine so it can't get wet 
+Added 1 bonfire before Kraken with a shortcut unlock for the dungeon below it
+Slightly moved and polished bonfire area near Destroyer Temple
+Added bonfire at the beginning of the desert
+Fixed rolling challenge under Leonhard's bridge, which should be doable without taking damage
+Deleted sign in Corruption Temple and fixed a lava challenge where it was possible to not be able to fetch souls at a certain death location
+Elendad's Desert Ruins: Added 2x Tiki Armor
+Removed the two large gems which are now dropped by bosses and edited sign near Artorias
+Added 3 hidden Ranger Emblems pre-HM
+Improved loot in hidden chest in village mountain
+Added more smoke to the entrance to a dungeon
+
+
+MAP 0.9.3 
+------------------
+Added Ranger Emblem to Hallowed Caves 
+Added Rifle Scope to secret entrance to the Machine Temple and to another spot near a Plantera bulb nest
+Added 4 Geletin Crystal to Hallowed Caves
+Added Avenger Emblem to Golem Temple
+Added some extra useful visual clues for the "3 pillar" puzzle
+Removed inaccessible chest
+Removed Magic Dagger from pre-HM
+Added more Dangersense Potions to the early game
+Removed empty skeleton near hunter arena
+Removed a sign mentioning the cosmic watch and changed the text of another sign nearby to remind players about the dodge roll
+
+Game Folder Changes:
+Deleted two old semi-custom sandbox maps from the upload folder as they currently are corrupted
+Added one new WIP sandbox map called "The Legend of Red Cloud," which is supposed to take place 10,000 years after the events of the main game. It should be played with adventure mode disabled. Most text bubbles with story elements have been removed. Feedback appreciated.
+
+
+MAP 0.9.2 
+------------------
+Added arena for Deerclops, 
+Added a bonfire near the demon altar below the village
+Added Cobalt-tier loot to new secret area
+Moved 1 heart crystal and added 1 more 
+Added Demon Contch, Magic Contch and Advanced Combat Techniques, +2 Shark Tooth Necklace, Snow Armor, Glommer's Flower and Jewel of Light 
+Added two Queen Spider Staffs to a Cobalt-tier area and expanded cavern path, also added visual clue
+Added a secret area with loot and a means to access Deerclops arena in the Earth Temple
+Added loot in a few existing chests
+Added two old semi-custom sandbox maps from the tConfig days to the Github repository (Valley of Lord Gwyn and Valley of Defilement are identical aside from the global cave layer height (Sandbox 1.1 generally has more custom elements))
+
+
+MAP 0.9.1 
+------------------
+Fixed typo in the Rage clue
+Expanded one cavern in the Hallowed Caverns just so a typo isn't the only thing I changed
+
+
+MAP 0.9.0 
+------------------
+Fixed 2 signs with an outdated clue about the Rage, Sorrow and Hunter
+Improved clue leading to sword in the stone
+Added 3 heart crystals to the Hunter's arena
+
+
+MAP 0.8.9 
+------------------
+Re-added "Deer Thing" and an extra heart crystal to a new secret area, somewhere in the mountain near Ashenpeak village
+Named the underground jungle lake the Lake of Flowered Paths and made it more spacious
+Made a couple secrets a little easier to notice
+Made one digging secret in the Earth temple a pressure plate secret and made other nearby plates grey
+Added Stardust Dragon Staff to Molten Sky Temple
+Added 4 Vilethorn to Volcano Altar
+Added more visual clues for the final lever in the Fire Temple
+Added lamp lighting for opened gates in Fire Temle
+Added a path teasing EoC arena 
+Removed early access to 1 bonfire in the path of ambition and adjusted a few blocks
+Added decorative lighting to a hidden path near the Red Knight
+Fixed two glitched heart crystals that were providing double the intended crystals
+Fixed a Tao Te Ching quote that was cut off in the Wizard's home
+
+
+MAP 0.8.8 
+------------------
+Nerfed statue traps in Corrupted Tunnel so its feasible to not trigger them 
+Made a secret potentially easier to notice
+Golem's temple entrance should be reachable without defeating Plantera first
+Fixed recipe on sign
+Added sign for confusing shortcut wall
+
+
+MAP 0.8.7 
+------------------
+Added Molten Charm to rewards for beating Serris Temple
+Added a secret cave teleport shortcut in the Corruption Temple
+Added 2 Waterbolts to the Volcano Temple (PS there are still 2 in the Jungle Temple)
+Changed some switches or pressure plates to the orange pressure plates that break on trigger 
+Added doors to the Wizard's 2nd floor chest storage area for easier access
+Added 5 tombstones and 300 snow blocks for Magic Storage mod
+Added 2 Inferno Forks
+Added dodge roll clue for the Destroyer
+Moved Abigail's Flower and added more to other areas
+Added Hunter Potions to Hunter arena
+Added more Shark Fins to chests
+Added Heart Crystal to Corruption Temple 
+Reduced smashed orbs count
+Added Chlorophyte Bars to Shadow Temple
+
+
+MAP 0.8.6 
+------------------
+Removed *other* Waterbolt next to the removed Waterbolt from an early area
+
+
+MAP 0.8.5 
+------------------
+Fixed glitched chest in hidden area near Sorrow
+Made a hidden path only accessible from one direction
+Improved a clue
+Removed Waterbolt from an early area
+
+
+MAP 0.8.4 
+------------------
+Fixed a cave door teleportation issue preventing access to the Machine Temple shortcut
+Changed a heart crystal to need a jump + dodge roll to access, with a clue sign nearby in the Earth Temple
+Made accessing the EoC require figuring out the teal pressure plate puzzle
+
+
+MAP 0.8.3 
+------------------
+The Triad temple can be accessed 1 tier earlier via a secret entrance
+Adjusted Triad temple loot based on the 3 tiers you can potentially access it 
+Added reward for accessing an almost impossible to reach area near The Sorrow
+Improved rewards for finding another hidden chest in the Frozen Ocean depths
+Amended clue for The Rage and other birds now that they no longer heal when enraged
+Improved Summoner staff discovery options pre-HM
+
+
+MAP 0.8.2 
+------------------
+Added a mini-dungeon for the The Twins (this will be the Triad in a future mod update)
+Added a hidden path in the underground jungle ruin outskirts leading to *secrets* as well as another shortcut allowing for a potential level skip
+Added a hidden path near a mini-boss, which leads to a shortcut
+Improved loot in mountain caverns near village and added a clue encouraging its exploration
+Added Bone Helm, Lucky Coin, Radio Thing, Sun Stone, Fire Gauntlet, Destroyer Emblem and other items not yet placed 
+Added more secret loot and several grappling hooks
+Added Adamantite shortcut/puzzle leading inside the Water Temple*
+*All three mech boss dungeons can now be accessed earlier than intended
+Added more atmospheric light to the Earth Temple and tweaked many blocks and loot
+Added two more heart crystals to the early game
+Added Eye of the Golem to secret area in early HM and another place
+Improved a few clues and wrote several new clues
+Adjusted the loot in several chests
+Edited the burned down village
+Removed mention of Village Mirror on sign
+Fixed sequence issue in 2nd Red Knight arena
+Fixed Moon Temple related East/West typo
+More tweaks here and there now forgotten...
+
+
+MUSIC 0.8.2 
+------------------
+-Removed 3 unused songs to reduce file size
+-Cleaned up credits description
+-The Triad and The Twins play different music
+-Changed Plantera music
+-Attraidies tower plays Sky Temple music
+
+
+MAP 0.8.1 
+------------------
+Added 8 more chests to Wizard's village home
+Added trick path between Wizard basement and secret basement
+Added hidden path through jungle
+Added several more stacks of Gold Bars, Silver Bars, and Iron Bars to the Earth Temple, secret basement and East of spawn
+Small tweaks to Earth Temple's main shaft
+Fixed wonky lighting in Hunter's arena
+Improved area near flooded mines
+Adjusted loot tables for a few chests
+
+
+
+MAP 0.8.0 
+------------------
+Fixed buggy chest in Glass Prison for real this time. It contains Stardust armor and wings. 
+
+
+MAP 0.7.9 
+------------------
+Fixed chest in Glass Prison that freezes the game
+Renamed Path of Pain to Path of Ambition
+Updated sign near Destroyer
+
+
+MAP 0.7.8 
+------------------
+Fixed three broken armor stands 
+Switched location of Turtle and Chlorophyte armor
+Fixed Pwnhammer typo
+Added clue for main Earth Temple path
+Removed gate in front of Twins Shrine since it already requires a shadow key
+Added Slime Crown to an early-game spot
+
+
+MAP 0.7.7 
+------------------
+Fixed broken teleporter leading to Ancient Oolicile Demon
+Added small chasm in the Cavern of Graves revealing optional boss
+
+
+MAP 0.7.6 
+------------------
+Added 2nd Phoenix enrage clue
+Excavated part of Hallowed Caverns and added 2 new background walls
+Added Solaire dialog mentioning Jade
+Named entrance to the Earth Temple, so the first place to go is very clear
+Improved Twins shrine 
+Added Green Skulls clue
+Polished section of Jungle temple 
+
+
+MAP 0.7.5 
+------------------
+Expanded Oolicile Demon arena
+Made bonfire near Oolicile Forest easier to discover
+Made Earth Temple entrance easier to spot
+Added wings for Shroomite, Beetle, Spectre and Spooky armors, plus their alternate pieces
+Added Solar Flare, Nebula, Stardust and Vortex armors plus their wings to SHM areas
+Added meteorite biome to newly named "Cavern of Anguish" (the one with all the spikes and lava in the desert), which should fill up the spawn pool with meteor heads (ie less powerful enemies)
+Moved Amphibian Boots post-grapple hook
+Moved Vampire Knives to earlier in progression
+Added Laser Machinegun, Xeno Staff, Influx Waver
+Moved Electrosphere Launcher, Xenopopper
+Improved Teal Pressure Plate tip and Celestial Sigil tip
+
+
+MAP 0.7.4 
+------------------
+Removed a mythril gate that couldn't be mined because of an adjacent door (if you're on an older map, turn off adventure mode temporarily to break it)
+Updated Great Eye clue
+Filled in some clouds
+Replaced switch with lever in Corruption Temple
+
+
+MAP 0.7.3 
+------------------
+Fixed misleading sign clue
+Added cobalt gate between Cavern of Graves and a secret boss
+
+
+MAP 0.7.2 
+------------------
+Removed cloud in a bottle from secret Corruption Temple chest but created another path to nearby loot that normally requires that item, allowing early access (also polished nearby water area)
+Added blue whisp/flame for story immersion
+Changed several biome backgrounds
+Fixed the biome background changing back and forth in a distracting way in 3 places
+Polished a couple bridges in the jungle
+Polished ladder of house above Hallowed Caverns
+Made the Frozen Ocean more frozen
+Added more details to Wyvern Mage arena
+Cleaned up Eastern cloud layer
+Adjusted loot tables in several chests
+
+
+MAP 0.7.1 
+------------------
+Added clue about the Rage, Sorrow and Hunter's enrage mechanic
+Completing the Ice Magic Game is now necessary to reach the Frozen Ocean (this also ensures an important story beat is not skipped) *although there is still 1 very hidden secret path
+Improved and clarified story dialog with a key character
+Adjusted a few chest's loot tables
+Added crystals to Mythril gate in Earth Temple
+Bundle of Balloons can be obtained via exploration after Adamantite gates have been unlocked
+Removed useless "Arcane" modifier from Wand of Sparking and added mana crystal to chest instead
+Added 4 Ivy Whips to Machine Temple entrance
+Added another navigation sign to the East
+Updated last remaining Wyvern Mage fortress blocks to smooth marble
+Removed reference to outdated Pwnhammer
+
+
+MAP 0.7.0 
+------------------
+Reaching double EoW is now only possible after defeating the 1st EoW or finding the hidden Earth Temple path (too many reports of players finding the 2nd before the first when trying to follow the main path)
+Expanded Wyvern Mage's arena and added more visual polish to nearby areas 
+Edited chains in Skeletron Prime arena
+Moved 1 bonfire and made other small Earth Temple tweaks
+Added sign mentioning the Story Time buff, which disables enemy spawns while reading
+Moved Bundle of Balloons to start of SHM
+Added more adamantite bars to end of Hunter dungeon
+Added Arcane Wand of Sparking to burned down village
+Removed 2 clouds
+
+
+MAP 0.6.9 
+------------------
+Added sign to Earth Temple with clue about the teal pressure plates...
+Moved sign explaining the dodge roll slightly closer in progression
+Made a few small tweaks to the burned down village
+Fixed Forgotten City typo
+Added 4 dangersense potions and +3 bows to Earth Temple chest for MP compatibility
+Expanded Earth Temple walls in places
+Added Golem Temple blocks to pyramid
+
+
+MAP 0.6.8 
+------------------
+Fixed typo on spawn sign
+Blocked an unintended skip in the Path of Pain
+Polished a few small things in the Path of Pain
+
+
+MAP 0.6.7 
+------------------
+Removed Bundle of Balloons from 3 locations, added 2 to 1 new spot that's more hidden
+Converted portion of jungle to forest biome after Wall of Flesh
+
+
+MAP 0.6.6 
+------------------
+Added Red's journal notes at major spots to come back to
+EoW 1 & 2 arenas have been excavated further
+Added Heavy Workbench, Blend-O-Matic, 3 Emerald, 3 Sapphire, 50 Martian Conduit Plating and more Silver/Hellstone Bars for Magic Storage compatibility
+Fixed Moon Gate and Cavern of Graves Gate not working as intended
+Added several more clues to new and existing signs
+Added silver watches to chest
+Moved Plantera bulb in Hunter's lair
+Added atmospheric lighting to inside and outside Hunter's lair
+Added atmospheric lighting, textures and dark background walls to the Rage's arena to increase attack visibility and vibes
+Added atmospheric lighting to lower Hallowed Caverns and added clue trigger near Rage arena entrance
+Made optional Frozen Ocean shortcut harder to spot
+Removed Shadow Armor set from Shadow Temple
+Replaced 2 switches with levers in Jungle Ruins
+Added Electrosphere Launcher
+Added plants to Fire Temple and Rage arena
+Added sand to Oolacile Forest
+Moved exit for 2nd EoW arena and created path to optional mini-boss
+Removed text, "You remember your father saying that the only way to take on the strength of a god was to ingest a part of it and then defeat whatever manifestation that awakens - a reflection of your own psyche, the deep fears and raw emotions of the id that lie beneath the surface of consciousness."
+Moved Spectre, Beatle, Spooky and Shroomite armor and created mini-themed biomes for them
+Added extra set of Frost, Turtle and Forbidden armor to earlier in progression
+Added unique wall texture to a post-Golem tunnel
+Added another spider biome post-Wall of Flesh that spawns Humanity Phantoms
+Removed gems from Marilith's chest
+Fixed broken bonfire near Destroyer
+Made entrance to the Path to the Hunter more visually interesting 
+Added lots more Power Cells since a bug is preventing them from being non-consumable
+Moved Chlorophyte Partisan, Shotbow, Waraxe, Saber, Claymore and armor
+Added a couple more statue traps
+Deleted "You feel the hammer in your pack start to rumble. Taking out your hammer you prepare to smash the orbs..."
+Retextured the safe zone before Water Fiend
+Named Volcanic Fissure, which leads to the Earth' Core
+Fixed digging exploit near Gwyn's Tome
+Added Dao of Pow and 5 Light Discs earlier in progression
+Added additional Hand Warmer and clues
+Added new area to Frozen Ocean
+Flattened Seath arena and path further
+Removed obstruction in Hunter arena
+Removed purple fire in Chaos Temple and Bowels of the Abyss
+Made Great Chasm spelunking slightly harder
+Removed 1 secret Hermes Boots 
+Moved Star Cloak to a hidden spot near the jungle
+Added 2 Mana Crystals near Twin mountains and 1 in secret Hermes location
+Removed Cloud in a Blizzard from chest that was too easy to obtain 
+Expanded Sorrow boss room by 30% and increased vibes by 20%
+Added 2 new 1.4 tile texture details to Fire Temple
+Small QoL tweaks
+
+
+MUSIC 0.6.6 
+------------------
+(Unreleased)
+Changed Plantera music
+Attraidies tower plays Sky Temple music
+
+
+MAP 0.6.5 
+------------------
+Raised the height of Gwyn's tomb entrance slightly and made it possible to keep the door open and turn the lights on at the same time
+Changed a sign to indicate Seath, not Chaos, will soon be required to defeat before facing Gwyn (pending mod update 0.10.3)
+Made the Path of Mystery harder to discover
+Moved Desert Ruins sign as a subliminal clue
+Removed new Earth Temple puzzle that didn't work as intended
+Edited or added a few more signs
+Added a few cracked dungeon bricks
+
+
+MAP 0.6.4 
+------------------
+-Fixed 2 unactuated blocks that were preventing access to a teleporter near the underworld (if you encounter this, disable adventure mode while in-game to mine the ash blocks starting from the ceiling in the underworld, then turn it back on as boss rings will not appear when it's off)
+-Moved daedalus stormbow to a more hidden and protected position
+-Deactivated outdated EoW Trap
+-Moved 4 lucky horseshoes to deeper into the depths, so as to reinstill the fear of heights in the forgotten city... 
+-Added 8 calming potions and 1 featherfall potion in their place
+-Fortified EoL temple
+
+
+MUSIC 0.6.3
+------------------
+Fixed village music not playing consistently
+
+
+MAP 0.6.3 
+------------------
+Hotfix: Two cobalt-tier items are no longer available way earlier than intended
+
+
+MUSIC 0.6.2
+"The Ohhh, Elden Ring" Update
+------------------
+Added 30 new songs!
+Changed title music
+The village now has its own day and night theme
+Added new songs for a dozen specific locations unique to the custom map 
+Numerous bosses and mini-bosses have their own songs now 
+Removed 5 songs because the sound quality was poor or because they no longer fit with the overall theme and quality bar of the soundtrack
+Re-exported Underground, Night, Jungle, Underground Hallow and Dungeon from the original wav files in higher quality
+Fixed Queen Slime and Empress of Light playing vanilla music
+
+
+MAP 0.6.2 
+------------------
+Did a full quality assurance pass on the Machine Temple; now has fewer spikes, more grapple points, more water, and some useful potions near the start
+Removed platforms and a vine near the broken bridge to reinstill the fear of death when traversing below the bridge, as it was too safe and enticing to explore before going to the village previously
+Repainted Chaos' boss arena and filled the surrounding areas in darkness
+Made a secret teleporter path only work in one direction
+Added a "Try jumping mid-air" clue sign and repurposed an Earth Temple challenge to teach this trick
+Removed 1 pressure plate to make the mid-air roll challenge easier
+Added a sign scaring people away from the oolicile forest
+Added a sign about the village
+Added a sign naming an important tree
+Added 3 peace candles
+Fixed missing paint in a few areas
+Added a little bit of lore for the Flooded Machine Temple
+Removed some crystals, addes some others and made a couple secrets harder to spot
+Removed some long vines that were going crazy in the jungle
+Filled in some missing background areas in the jungle temple with rock wall 
+Removed tombstones near story NPC
+Removed some glowing blocks near Skeletron, Earth Temple entrance and Unadin Inn
+Changed jungle biome near hallowed caves to hallow/forest
+Changed backdrop for the underworld
+
+
+MAP 0.6.1 
+------------------
+Added a new late pre-HM/HM event that's only accessible with this map
+Added Shadow Key sign clue, tweaked another
+Made the WoF arena slightly harder in 2 places and slightly easier towards the end
+Blocked off a volcanic interior space that's accessed after beating a secret boss, with improved loot
+Removed some ceiling obstructions in the Lich King's lair
+Added more crystals and peace candles and moved 1 sign
+
+
+MAP 0.6.0 
+------------------
+Removed defense prefixes on several early-game items (no more face-tanking EoW... hopefully)
+Made adjustments to dozens of chest contents (removed items, removed duplicates so more items have unique locations, moved items around, added duplicates for more 4 player compatibility etc)
+Deleted a few chests
+Notable changes include: 
+-Removed 2 handguns from the Corruption Temple that were too easy to obtain (1 with double jump, the other by cheesing lava)
+-Removed 1 Blue Moon from Jungle Temple
+-Added Void Bags to pre-Earth Temple chest
+-Moved early Star Cloak to later locations
+-Moved 1 Terragrim, Laser Rifle
+-Added 2 sets of silver armor pre-Earth Temple
+-Moved Bundle of Balloons and added other loot to reward exploring post WoF path
+-Cobalt Repeater in the dungeon replaced with Hellwing Bow
+-Added Endless Musket Pouch, Arcane Flower, Flaming Mace, Blade Staff, Illegal Gun Parts & Frost Cores
+-Removed Megasharks awarded too early in the game and moved final one closer to Destroyer
+-Added more Sandguns before difficult Desert Ruins challenge
+-Removed Mythril armor from Wizard Fortress (Now only obtained from ocean)
+-Added lots more bones to the dungeon
+Tweaked secret Hermes location slightly (it's still hard, stay away)
+Renamed Oros' Crossing to Leonhard's Bridge
+Mentioned Great Chasm near it
+Actuated small aerial obstructions in Seath's room used for lighting
+Added Wyvern Mage flavor text
+Fortified honey comb chest that should only be a reward for finding the level skip...
+Fortified lava chest in Corruption Temple and removed some jumping blocks
+More crystal clues (hint: some crystal's orientation are also clues)
+The Frozen Ocean is now mostly covered in a sheet of ice
+Edited more signs
+
+
+MAP 0.5.9 
+------------------
+FIXED: a chest that causes a game crash when opened
+***if you're on 0.5.8, don't open the chest in the mountain cave near the village (it requires a teleporter to access)
+---
+Changed a jumping challenge in the Path of Pain from desert biome to jungle biome
+Fixed spot needing a roll to escape near well
+Changed coordinate sign that's outdated with Barrow Blade clue
+Replaced 2 Tsunami in a Bottles with 4 Sharkron Balloons
+Added 4 Tsunami in a Bottles somewhere to reward thorough Corruption Temple explorers
+Added sign naming the Moon Temple Gate
+Added lots more crystals near important signs
+Changed the fire color in Chaos' boss room for projectile visibility and removed small obstructions
+Excavated EoW boss room more
+
+
+MAP 0.5.8 
+------------------
++2 Crystal Hearts and more loot in Arazium Mountain Caverns
+Purpose added to small dead-end in AMC
+Added 6 lucky horseshoes
+Moved 1 bonfire farther from a lunar pillar
+Moved 1 bonfire closer to Hallowed Cavern entrance
+Moved 1 bonfire closer to Jungle village
+Added lanterns above more bonfires
+Fortified Golem Temple
+Added lava and Hellwing Bows to Fire Temple
+More crystal clues
+More sign hints
+Added Gold Bows to Catacombs
+Re-ordered boss list on sign giving late-game progression clue
+Fixed lighting and removed the small blocks obstructing aerial movement in final boss arena
+Added signs naming the Forgotten City's Cavern of Graves, The Bowels of the Abyss, Ashen Caves, Mushroom Caverns, Elengad's Desert Ruins, Ashen Peak Village, Cave of Shadows and the Frozen Depths
+
+
+MAP 0.5.7 
+------------------
+Added 8 shiny red balloons
+Space thing fix
+
+
+MAP 0.5.6 
+------------------
+Shortened and added line breaks to spawn sign
+Added more line breaks to the first several story signs where possible
+Changed the "too high to climb" sign to one describing locations to the East
+Added another navigation totem to the jungle mentioning what's beyond the volcano
+Added BoC sign
+Added clue sign after Golem
+
+
+MAP 0.5.5 
+------------------
+Tweaked Fire Temple signs hinting at Obsidian Shield location
+Added item statues for visual association in 2 places
+Added bonfire near jungle secret
+Added 2 chains to Corruption Temple
+Added loot to empty chest near The Hunter
+Added gate to The Hunter's lake
+Removed some mineable adamantite by 50% but added some elsewhere
+Fortified a trap room in The Hunter's ruins
+Added more thin ice to a path + a sign
+Added water to a jungle cavern for fun
+Made the sign after the Wall more noticable
+Made an Earth Temple secret more noticable
+---
+Changes by MarfMasterofDesaster:
+Removed pumpkin moon medallion and naughty present
+Added pumpkin blocks to a chest
+Removed Sorrow sign and chest with crafting ingredients
+
+
+
+MAP 0.5.4 
+------------------
+Added Serris gate clue
+Created teleporter clue for 4th lever in the Fire Temple
+Converted many more green/red pressure plates to brown ones
+Small edits to EoW room
+More crystal clues
+
+
+MAP 0.5.3 
+------------------
+Nerfed or rebalanced several more statue traps
+Added more Recall Potions near spawn
+Tweaked EoC boss room to encourage exploring further and added lanterns in flooded Earth Temple pool
+Added wise quote found at the Wizard's abode to prepare player for ???
+Added loot to Machine Temple entrance
++1 crystal heart in Fire Temple, Earth Temple and jungle surface
+Proximity puzzle added to the Earth Temple to teach players about this puzzle type sooner
+More crystal clues
+Teal pressure pad changed to switch in the Corruption Temple
+---
+Changes by MarfMasterofDesaster:
+Removed sign saying Platinum armor has an upgrade
+Buffed Platinum armor to be very tanky
+Added second Spider Mask and Hallowed Hood
+
+
+MAP 0.5.2 
+------------------
+Made several challenge-related tweaks to the Earth Temple
+Added sprites to Water Temple
+Redistributed loot from a concentrated chest and added sprites in the Meteorite Dungeon
+Duplicated a few more items for 4 player MP
+Added security system to >>>...<<<
+Buffed loot in 2 desert chests
+
+
+MAP 0.5.1 
+"The 4 Player Co-op Update" (Credit: MarfMasterofDesaster)
+------------------
+Added more copies of key items to accommodate 4 players (up from 3), supporting each class
+Added modifiers to various items
+Added Clouds in Bottles to Corruption Temple, totalling to 4 each chest
+Added Grappling Hooks, making a total of 4 and Golden Crowns so everyone can impersonate Yrimir
+Added 4th pair of Aglets, Tiger Climbing Gears, Spectre Boots, Lightning Boots, Dual Hooks, Tabi, Terraspark Boots
+Added 4th Obsidian Shield
+Added 3 Cellphones and 2 Anti-Gravity Hooks
+Added 3 extra Ankh Shields to secret chest
+Added a few balloons and double jumps
+Added class accessories to pre-hardmode and late-hardmode class armor sets and dishes
+Quadrupled all Life Fruits (nerfed one chest that had too many)
+
+Details/Spoilers: 
+Replaced Silver Armor with Gold Armor in Earth Temple, added Gold Ring and Seafood Dinner
+Added Mace to Earth Temple
+Added chest containing Blizzard in a Bottle to Path of Pain™️
+Removed 1 Cloud in a Balloon from Corruption Temple
+Replaced Gold Armor with modified Platinum Armor in Corruption Temple, added Treasure Magnet and Smoothie of Darkness
+Added Bladed Glove to Corruption Temple
+Added Sandstorm in a Bottle to Corruption Temple, replaced Demon Bow #134521 with Tendon Bow
+Replaced Blizzard in a Bottle with Blizzard in a Balloon in Corruption Temple
+Removed Witch Doctor from the map (allowed for early purchase of Pygmy Necklace)
+Replaced Pufferfish Balloon with Amber Horseshoe Balloon in Jungle Village
+Added modified Bee Armor, Pygmy Necklace and Coffee
+Moved Obsidian Armor, added Hercules Beetle and Dragonfruit
+Replaced Blizzard in a Balloon with Bundle of Balloons in Wyvern Mage's Fortress
+Actuated teleporter in Attraidies tower
+Added mannequins with each Hallowed armor set at shrine
+Added 2 Ankh Charms in post-Golem areas
+Added Golden Delights and class accessories to late-Hardmode class armor sets, mostly replaced those chests with mannequins or added some
+Added chest on Hallowed Island containing powerful buffs
+Added mannequins on Hallowed Island dressed with late-Hardmode armor
+Replaced 1 meteor in the sky with Luminite
+Added Snow Globe (it doesn't even work thanks to the mod lol)
+Added Naughty Present and Pumpkin Moon Medallion somewhere
+Fixed a lot of empty chest slots
+
+
+MAP 0.5.0 
+------------------
++1 Shadow Key
+Tweaked entrance to Shadow Temple
+Added teleports connecting a desert location and the Shadow Temple
+More peace candles 
+New path connecting Jungle and Meteorite Temple outskirts
+
+
+MAP 0.4.9 
+------------------
+Re-hid secret chest in the jungle
+Moved teleporter that leads to secret path; previous teleporter now goes to new location
+Removed cloud background near the Blight to assist projectile visibility
+Path of Mystery has +1 small puzzle
+Added more crystals to the Fire Temple for lost explorers
+Added light near "cave" portals to reduce the blinking light effect
+
+
+MAP 0.4.8 
+------------------
+Added teleporter connecting the Earth Temple and a secret path
++1 crystal heart near start of the game, but hidden
+Named a recently created path the Path of Mystery and another area the Lost Oolacile Forest
+More crystals and small edits offering more clues
+
+
+MAP 0.4.7 
+------------------
+Changed the secret path between the Jungle Temple and Meteorite Temple 
+Added teleport between Attraidies' tower and another location
+Tweaked areas near desert secrets
+Added another teal pressure plate puzzle in the Earth Temple with a bow nearby
+Changed the path from the Earth Temple exit to the village so it's harder to miss
+Named the caverns to the West of the village Arazium's Mountain Caverns
++1 crystal heart in Meteorite Temple
++1 crystal heart in Arazium's Mountain Caverns + nearby bonfire is harder to miss
++6 crystal hearts in Wyvern Mage Fortress and removed outdated boss summon materials
++15 crystal hearts near Corrupted Dragon Perch
+Added teleport between Earth Temple outskirts and another location
+Added bonfire and more details near entrance to the Shadow Temple
+Minor land and text edits
+ 
+
+MAP 0.4.6 
+------------------
+Fixed 3 cobweb-based puzzles that activated prematurely due to 1.4 update
+Added peace candles to EoW boss room
+Added more light to Slogra boss room
+Added alternate method of accessing 2 early-game secret areas
++1 heart crystal in Earth Temple
+Earth Temple edits to encourage exploring past EoC
+More crystals hinting at more paths and secrets
+Tiny text edits
+Added more smoke to key destination
+Replaced 1 early-game Slime Crown with musket shot, so getting to the East necessitates one of the many map-based solutions 
+Reduced stack of Mechanical Eye's to 1
+Added note about crafting Aaron's Protection stone when refighting The Wall
+
+
+MAP 0.4.5 
+------------------
+Fixed another 7 mannequins missing armor (2x Gold, 2x Jungle, 2x Meteorite, 1x Molten that's also in a chest)
+Trimmed opening story text slightly
+Extended town well chain
+Buffed loot along secret early-game progression skip
+Added several peace candles outside Hunter boss room and 1 more to Skeletron's room
+Fully collapsed a mountain path so folks didn't think it was a puzzle
+
+
+MAP 0.4.4 
+------------------
+Added more swiftness potions to early-game chests
+Added queen slime summoning item to caverns
+Added sign explaining the dodge roll (it's bound to Left Alt by default)
+Added sign in village tower noting some abandoned supplies in the mountain caverns nearby
+Added "supplies" and a few camp-themed sprites to mountain caverns
+Fixed two tight spots you could get stuck (needing a dodge roll to escape previously)
+Added more visual clues hinting at two secret early-game progression paths 
+Made a hidden bonfire easier to spot
+
+
+MAP 0.4.3 
+------------------
+Fixed 4 mannequins that lost their armor in a previous update (Boreal, Copper, Silver & Necro)
+Added Desert Chest, Tiger Staff, and Desert Key
+Added clue for hidden chest in the jungle and buffed loot
+
+
+MAP 0.4.2 
+------------------
+Added boss arena for Empress of Light
+Made bonfire area in village cooler
+Blocked 1 mini-shortcut near bridge
+Added a few rope vines
+Added curiosity to burned village
+Removed Gypsie Robe from Path of Pain chest
+Added Teapot to village
+
+
+MAP 0.4.1 
+------------------
+Added bonfire to village
+Buffed loot in secret mountain fortress chest
+Added more platforms and chains to Machine boss room
+Added a few more lanterns
+Added a little more space to EoC boss room
+Fixed Earth Temple platforming exploit
+Removed some text on a sign leading to the village
+
+
+MAP 0.4 
+Updated map for tModLoader 1.4 / Terraria 1.4. (Credit: MarfMasterofDesaster)
+------------------
+Replaced early(pre-Skeletron) instances of Bowls of Soup with Teacups
+Added few Bowls of Soup in post-Skeletron areas
+Added a Teapot and 100 Bottled Water to make more Teacups in the starter town + a very menacing potion...
+Added some Golden Delight at late stages(post-mech areas)
+Added  a few of all varieties of Luck Potions and a chest containing them
+Added Leather Whip at start
+Added Abigail's Flower at town
+Added a chest containing the Blood Rain Bow inside of a miniboss event area
+Replaced an instance of Wand of Sparking with a Thunder Zapper
+Added a Deer Thing(Deerclops summon) to a Snowy mountain
+Added Finch Staff at starter mountain
+Added 2 Summoning Potions to Earth Temple
+Added Storm Spear to Earth Temple
+Added Flinx Staff to Path of Pain™️
+Added Tentacle Spike to Path of Pain™️
+Added some Flipper Potions to Path of Pain™️
+Added Terragrim to Path of Pain™️
+Added Amphibian Boots to Path of Pain™️
+Added a chest containing Dunerider Boots, Celestial magnet and Mystic Robe to Path of Pain behind a miniboss
+Added a chest containg the Gi and Flinx Fur Coat to Path of Pain™️ behind a miniboss
+Added Snapthorn to Corruption Temple
+Added Celestial magnet to Jungle Temple
+Added Treasure Magnet to Jungle Temple
+Added Vampire Frog Staff to Jungle Temple
+Added Spinal Tap to Forgotten City
+Added Arkhalis to Fire Temple 
+Added Pirate Staff to Hallowed Caverns
+Added Gelatin Crystals to Hallowed caverns
+Added Ham Bat to Hardmode Crimson Cave
+Added Cool Whip to Frozen Ocean
+Added Firecracker to Hell(hardmode part)
+Added Optic Staff to Wyvern Mage's Fortress
+Added 2 bonfires in hardmode desert
+Added Berserker's Glove to Shadow Temple
+Added Hallowed Jousting Lance to Shadow Temple
+Added a chest containing Blood Thorn to Shadow Temple
+Added Drippler Crippler to Shadow Temple
+Added Unholy Trident to Shadow Temple
+Added Sanguine Staff to Skeletron Primes Temple
+Added 2 platforms to Skeletron Primes Arena
+Added Hallowed Hood(summoner helmet) to Hallowed Armor shrine
+Added Durendal to Hallowed Armor Shrine
+Added Resonance Scepter to Locked Hallowed Chest
+Added Terraspark Boots in Yggdrasil Tree in hardmode
+Added Shadow Jousting Lance in The Catacombs
+Added Dark Harvest in the spooky wood secret area
+Replaced Optic Staff in The Catacombs with Morning Star(whip)
+Added a stack of Potions of Return to Path of Pain™️
+Set Stylist to having been saved
+Set Tax Collector to having been saved
+Set Golfer to having been saved
+
+
+MUSIC 0.4
+------------------
+Updated music mod for tModLoader 1.4 (Credit: Recursive Collapse)
+
+
+MAP 0.3.23  
+------------------
+Made a few changes to the Earth Temple
+Added a couple more lanterns for game design reasons
+Filled in floor gaps in Slogra's boss room to fix rolling into the lava
+Added more background walls to places they were missing
+
+
+MAP 0.3.22  
+------------------
+Added another secret path into the corruption temple 
+Added subtle visual hint for secret boots and other secrets
+Created 1 new little secret path into the Earth Temple
+Created secret path between Hallowed Caves and the Frozen Ocean
+The Twins cannot be fought until a pickaxe 1 level higher is obtained
+Added more demon altars
+Added Path of Pain warning 
+Added Corruption Temple clue
+Added a little secret side path after EoC that hints at next direction to go
+Added lots of holy arrows to chests to compensate for them not being farmable from unicorns
+Reduced desert walls in a Corruption Temple room
+Changed some story text so that players know to read the boss shards for clues
+Changed Attraidies story sign a bit
+Added lore sign that describes the Corruption Tunnel
+Path of Pain is slightly more hidden
+Part of the Frozen Ocean has been cast in a cloudy fog
+Added something needed to escape early mini-boss room
+Added 2 extra Slime Crowns 
+Adjusted the EAST/WEST navigation signs and put a lantern next to one so it's harder to miss
+Raised height of Skeletron boss room shrine for the final time
+Filled 2 empty chests
+Lots more small tweaks
+
+
+
+MAP 0.3.21  
+------------------
+Added a few new pre-EoC secrets and progression-skips (if you find them, please be cryptic and use ||redacted spoiler text here|| in Discord to discuss them
+Fixed 2 progression-blocking puzzle walls in the SHM "dungeon with blue flames" (you will need to turn off adventure mode to mine through the walls if playing on a previous map)
+Glass Prison got some more attention and detail
+The Hunter, The Rage and the Litch King now spawn from a golden ring, instead of a craftable summon item (needs latest mod update to work)
+Larger portion of the jungle is also crimson and is cast in greater darkness
+Meteor Temple is slightly more spacious + a particular trap room is less lethal 
+Crimson zone near jungle underground is larger
+Path to the Catacombs adjusted (2 extra "shortcut" gates were also removed since they teased possible progression options that are no longer used)
+Path to jungle loot adjusted slightly to account for new progression options
+Tweaked The Sorrow's water pumps to avoid overflowing the boss room with water
+Fixed two signs that had their text removed in a previous update
+Fixed more typos
+Fixed a broken bed in The Machine Temple
+Removed unintended Soul of Fright exploit
+More small tweaks
+
+
+
+MUSIC 0.3.21
+------------------
+Added boss music for Ancient Demon 
+Tried to fix Sandstorm music not playing sometimes
+
+
+MAP 0.3.20  
+------------------
+Town well no longer gimps you
+Frozen Ocean and Hallow Caverns have been excavated 
+Wyvern Mage Fortress has been reinforced - 2 challenges harder to cheese
+Sky Fracture moved
+Hallowed Cavern entrance tweaked
+More recipe signs removed
+Water pumps in Sorrow's boss room fixed
+Removed clue 
+Weird immovable wooden block deleted near Western sea
+More sprites updated/added
+Destroyer Temple no longer triggers mushroom biome
+Removed gate near end of Meteor Temple that was outdated
+Added more meteorite to place above ground
+Replaced some mountain platforms with ice platforms; added large cavern in mountain
+Some Shadow Temple pressure plates can no longer be triggered by enemies
+Wizard trap is less punishing
+Peace candle added to story area
+More spikes added to Golem's boss room
+2 Golem Temple shortcuts more useful; deleted 1 bonfire
+Progression exploit between HM and SHM area fixed
+Reduced loot in chest with Temple Key so it stands out
+Moved 2 chests in the jungle and added underground lake
+1 Catacombs shortcut added
+Mini-puzzles added to turquoise mini-dungeon
+Removed bonfire in hallowed caverns
+More little things
+
+MUSIC 0.3.20  
+------------------
+The Twins now play mod music
+
+
+MAP 0.3.19  
+------------------
+Enlarged and reimagined EoW2 boss room
+Added peace candle to story event zone in FC
+Replaced Water Candles in FC with green candles
+Refined jungle puzzle clue and expanded nearby tunnels
+Added bonfire to Jungle Temple and removed safe house
+Made a couple more cavern portions larger for fighting
+Added more lights to Forgotten City and path to the next area
+Added more visuals clues for Fire Temple switch location and created a hidden route
+Added a dozen+ weird block combos around the map that will turn into mod loot
+Changed Chaos arena tile and wall textures
+Moved Wasp Gun and changed loot
+Hunter Ruins: Removed 1 bonfire and bed; replaced 1 bed save with bonfire; added desert background, fixed sand sections that caved in and looked strange
+Removed music box near MST
+Moved 1 bonfire in surface jungle
+Replaced 1 bed near Skeletron with bonfire, changed nearby bed sprites
++3 Bewitching Tables
+Changed more desert section in Corruption Temple to corruption and switched a few statues
+Added teleporter in Wyvern Mage Fortress (WMF)
+Removed shortcut to old area near Frozen Ocean surface, added something else
+Added signs about the Wyvern Mage Fortress
+Added benefit to engaging King Slime in its lair
+Fixed explosive that could dislodge undesired items in Corruption Temple
+Shadow Temple: added 2 more shortcuts, replaced 2 safe houses with bonfires, one of which can now be accessed on the path to the Catacombs 
+Removed NPC jail
+Dungeon Guardian less likely to trigger when exploring the super secret path to Skeletron
+Added more lore text near Skeletron
+Removed 1 bonfire from WMF
+
+
+MUSIC 0.3.19  
+------------------
+Added music for ???, Red Knight and Hero of Lumelia events 
+Added music for Etherian Lightning Bugs, Ice Golem, and Eternia Event
+Fixed vanilla music playing when a primordial crystal was onscreen but Seath was not
+Fixed the game occasionally crashing if you left a world and *immediately* reloaded mods while the rain music was still fading out in the background
+
+
+MAP 0.3.18  
+------------------
+IMPORTANT NOTICE FOR PLAYERS WHO DOWNLOADED THE PREVIOUS UPDATE:
+**FIXED 2 progression-blocking puzzles in the Catacombs (plus 3 optional puzzles), which broke in the last update, requiring players to turn off adventure mode to mine through some blocks. One involves solid blocks, where the next room can be seen below; the other is in lava, where the passageway is 1 tile too short
+--
+Added platforms to MST and Catacombs
+In Hunter Ruins: Replaced 1 safe house with new bonfire nearby, removed 1 safe house and bonfire, added rope & small shortcut 
+
+
+
+
+MAP 0.3.17
+------------------
+Made several noticeable changes to the Corruption Temple
+Removed 3 vanilla NPCs from the map. They'll now load in via the mod. This means another game manual rule can be removed!
+Transplanted difficult desert section in the Corruption temple to the Meteor Temple and made old section corruption biome
+Moved bonfire in Meteor temple and added more detail to secret entrance
+Moved Key in Jungle
+Added more clues and shortcut for Jungle puzzle
+Improved Red Knight mini-boss encounter rooms
+Removed cobalt gate near West Forgotten City tower
+Added bonfire to Fire Temple and enhanced clues for hidden bonfires
+Added new shortcut from fire temple bonfire
+Expanded caverns and textures in Fire Temple
+Filled in gaps in many bridges in the underworld to enhance late-game enemy combat
+Added bonfire and more detail to end of Catabombs
+Changed Molten Sky Temple's color scheme and added more detail; +1 bonfire
+Tweaked late-game underworld and added 1 bonfire + shortcut
+Dungeon Guardian harder to trigger in 1 area
+Shortcut to village added to corruption area
++1 heart crystal to Corruption path
+Secret near Corruption Temple slightly harder to spot
+Portion of underworld lava hardens in late-game
+Filled in wall gaps in Origin of the _____
+Going to the Meteor Temple has 1 new benefit depending on the path you go
+Removed safe house in Meteor Temple and replaced with bonfire nearby
+Added shortcut in Shadow Temple
+Added progression hint post-EoW2
+Lots more small tweaks I forget ;p
+
+
+
+MAP 0.3.16
+------------------
+Fix for door that could block you from the final boss room if you die
+
+
+MAP 0.3.15
+------------------
+Added two events and new rooms for Path of Pain
+Fixed two puzzles that were passable but not working as intended
+Changed entrance to secret near ???
+Added lanterns to bridge near Earth Temple
+More crimson texture in areas of PoP
+Fewer jumps needed in mountain maze
+Fixed door that couldn't open in village
+Added Shadewood wall to room with EoC
+Increased height of EoW 2 room
+Somewhat painstakingly finished adding stone walls to Forgotten City
+Added more details to FC room and other nearby areas
+Added more statues in two dungeons
++1 Pocket Mirror
+Touched up Catacomb walls missing grey paint
+Added more detail to entrance to Catacombs
+Added puzzle clue near Forgotten City
+
+
+MAP 0.3.14
+------------------
+Fixed and polished multiple things introduced in .13
+Secret near ??? now accessible
+Two beds above tavern now accessible
+Added a bonfire near Twin Peaks
+Path of Pain has more desert biome
+
+
+MAP 0.3.13
+------------------
+Added 7 new houses + 1 new bedroom for NPCs in the village 
+Added more trees, vines and another rope cliff on the village mountain
+Added secret near ??? encounter
+Added more snow and ice to the twin peaks bridge
+Added another tunnel in the mountain
+Made important boss gate more clear
+Added large mass of coral reef to ocean
+Changed outdated boss clue
+Improved death boss clue
+Cloud in a Bottle is no longer in a locked chest
+Added spider wall to Western ocean, deep, and in the underworld
+Corruption temple lava/desert biome jumping section is slightly easier
+Added shine potions near flooded mine
+Flooded mine shortcut now activated by teal pressure pad
+Portion of path of pain is now underground desert
+
+
+MAP 0.3.12
+------------------
+Improved Fire Temple (less cramped, more ash blocks to step on, more crystal hearts)
+Added 2 peace candles to the burned down village to give the opening an atmosphere of solitude
+Game starts a bit later in the morning; 2 mushroom blocks added to grave for lighting
+Reduced dirt layer by 5 
+Added clue about Ghost Wyvern Mage
+Separated gate switches inside village wall to reduce reliance on secret switch in mote
+Burned down village has more background moss
++1 Sharpening Stone in village
+
+
+MUSIC 0.3.12
+------------------
+Night music plays if the player is within the burned down village and they have not yet killed a boss
+
+
+MAP 0.3.11
+------------------
+Turned Forgotten City back to jungle biome
+Game now starts at night, for atmosphere and sorrow
+Increased dungeon brick count for all dungeon biomes to ensure dungeon enemies spawn more reliably
+Tweaked starting area to hint at roof path and added a few flasks of fire and a boreal wood bow to the first chest
+Moved clue sign about the Blight and added clue sign for Artorias
+Expanded Witchking area slightly
+Reduced frozen biome range in the Earth Temple
+Added Bone Sword and clue about seemingly useless items to Earth Temple
+Added secret location and treasure, post EoW
+Moved Large Amethyst Gem
+Added clue for Chaos, moved clue for the Blight
+Added more vines to secret area
+Added secret bonfire to Meteorite Temple
+Added boss room and bonfire for Seath the Scaleless
+Removed Hallow blocks from Mountain Fortress to maintain ice biome
+Added 1 more rope path to village cliff 
+Raised height of Rage boss room
++2 Hellwing Bow
+Changed "Forest" and "Hallow" background
+Tweaked 1 trap, added 1 new
+Added moss to starting area
+Moved Ranger and Sorcerer Emblems
+Fixed typos
+
+
+MUSIC 0.3.11
+------------------
+Fixed mod music not playing for several vanilla bosses
+Fixed corruption and crimson music rain bug
+
+
+MAP 0.3.10
+------------------
+Changed the biome type in the Forgotten City from jungle to forest
+Added new area and boss room for G###
+Improved visuals for Water Fiend room 
+Fixed multiple sand-based exploits
+Removed demon altar in jungle
+Added more clues to make jungle puzzle more intuitive
+Added more visual clues for the path to the Fire Temple
+Moved crystal heart in jungle
+Added small jungle shortcut
++1 Star Cloak
++1 Ice Rod for MP
+Tweaked several signs for clarity
+Added shortcut after Serris fight
+Finding Serris now grants access to something early...
+Serris boss room expanded slightly
+Removed Rod of Discord, added other things as a reward
+Moved Truffle bait.
+Fixed visual glitch beneath Western ocean
+Removed more unnecessary signs
+Painted Attraidies' Tower clouds black
+Changed entrance method for SHM area so it's less likely to be missed
+
+
+MUSIC 0.3.10
+------------------
+Bug fixes
+
+
+MAP 0.3.9
+------------------
+Fixed wire preventing an optional gate being opened near Western ocean.
+Small tweaks and polish added
+Removed 2 recipe signs, added 2 clue signs
+Fixed typos
+Added bonfire to the far west
+
+
+MUSIC 0.3.9
+------------------
+Added custom music to the title screen thanks to RecursiveCollapse!
+
+
+
+MAP 0.3.8
+------------------
++1 heart crystal in Corruption Temple
+Expanded Skeletron boss room a bit more
+Fixed Eternia Crystal Stand battle area
+Removed errant biome blocks and walls from places they shouldn't be
+Fixed several typos
+Fixed two bed save points in the Water Temple
+Fixed bed in glass dome
+Added 2 pumps to Sorrow room
+Added holes in the walls of the corruption forest cave
+Removed a few blocks in a room for a new NPC encounter
+Added clouds to Attraidies tower
+Moved Great Spirit sign
+Added Pyramid clue to sign
+Added cog wall to Machine battle room
++1 Molten Armor set for MP
++1 Obsidian Shield for MP
+
+
+
+MAP 0.3.7
+------------------
+Moved all 4 Monoliths to new locations above ground and placed 3 SHM bosses in prior locations
+Added new location to fight the Blight and Witchking
+Added Peace Candles to a few boss rooms
+Changed section of Shadow Temple path from jungle to forest and added new background textures
+Deleted several recipe signs
+Moved Tabi
+Changed tile theme for Mountain Fortress
+Added bee hive 
+Secret jungle level skip is more feasible and more rewarding
+Removed 4 safe houses
+Moved 3 bonfires, added a few more
+Added sign saying Golem doesn't possess the Picksaw
+Added missing chest 
+Removed duplicate Nebula Monolith
+Plantera should be harder to enrage in its arena
+Added clue about the Pyramid of Golem
+Added 2 alt paths to Pyramid
+Added Temple Key to a chest
+Added teleporter to surface from Pyramid link
++5 Life Fruit
+Added secrets, fixed things
+Added cave near village 
+Added gem locks for 2 SHM bosses
+Added identifying blocks to several teleporters to hint at where they lead (glass for surface, grass for jungle etc)
+Replaced Tedit coordinate signs with text clues
+Changed mountain from pearlstone block to marble
+Encased hallow blocks in mud to prevent spread
+
+
+MUSIC 0.3.7
+------------------
+Updated music mod version number to always match the latest map release version
+Fixed Goblin Invasion music, Attraidies, & Witchking
+Changed Chaos song
+
+
+MAP 0.3.6
+------------------
+Created new area for Vortex Monolith and moved it from previous location
+Moved 2 bonfires in Corruption Temple
+Replaced 4 safe houses with bonfires
+Erased pine tree glitch
+Fixed SHM teleporter
+Fixed tile blocking shortcut in Path of Pain
+Tweaked path to Corruption Temple
+Enlarged Ar____ boss room
+Tweaked EoC boss room
+
+
+MUSIC 0.3.6
+------------------
+Added music for Moon Lord
+
+
+
+MAP 0.3.5
+------------------
+The mountain tunnel has been overtaken by corruption...
+Replaced 11 safe houses with bonfires
++1 Demon Altar
+Fixed gate that could be mined
+Fixed underwater mine shortcut
+Fixed multiple typos
+Revamped house near corruption mouth
+Added room for SHM boss
+
+
+MUSIC 0.3.5
+------------------
+Added music for Solar Eclipses
+Added mod music for the remaining SHM bosses
+
+
+MAP 0.3.4
+------------------
+Fixed unobtainable heart crystal in meteorite temple
+Shroom NPC should no longer immediately die
+Removed more recipe signs
+Fixed dart trap in Earth Temple
+Fixed 3 teleporters with no switch
++1 Life Fruit
+Fixed 2 locations the player could get stuck
+Added Water Candles and more platforms to Forgotten City
+Added cobalt gate near volcano/underworld nexus and moved sign
+Added gold bars to jungle for speedruns
+Fixed Gwyn recipe sign
+Added pressure plate to teleporter, previously 1-way.
+Added additional chest in The A____
+Removed 1 of 2 paths to enter The Catacombs
+Fixed jump height issue at the end of secret path
+Moved featherfall sign to correct location
++4 Warmth Potions in Western Ocean
+Slightly expanded The Sorrow's boss room
+Expanded Golem's boss room to prevent Golem from spawning in the ceiling
+Gave path near Golem temple exit more detail
+Replaced Climbing Claws with Shoe Spikes in Path of Pain, moved Climbing Claws 
+
+
+MAP 0.3.3
+------------------
+Changed the version number convention from 1.3.3.3 to 0.3.3 for simplicity and to convey the map's beta status.
+Fixed tree sprites near Elder Crystal Stand
+Removed Dryad shortcut
+Significant revision to first EoW boss room 
+Removed most Water Walking Potions as they're no longer necessary (these potions were also nullifying too many lava related challenges)
+Moved gate blocking the fire pillar slightly so that the shortcut back to a previous area can be accessed
+Fixed last sign mentioning Gravelord Nito (now references Skeletron for clarity) and also foreshadows the Lunatic Cultist
++1 Life Fruit
++1 Heart Crystal to early game
+Added some blue lights to Hallowed Caves
+Removed 2 houses near bonfires
+Made shortcut to Hallowed Caverns only accessible if you went a certain path before...
++1 Golden Key in Jungle Temple
+Moved  --very powerful item-- to somewhere farther into the progression :wink:
+Moved Tavernkeep
+Named secret EoC area "Path of Pain"
+Added rope to icy drop that was previously one-way
+Added more arrows to starting area
+
+
+MAP 0.3.2
+------------------
+Changed most Greater Healing Potions to Healing Potions and Restoration Potions pre-Hardmode
+Reduced # of Water Walking Potions found in chests, plus a variety of other potion stacks and swapped out some potion types for others
+Sprinkled in a few more of the more rare potion types here and there
+Moved Sorcerer Emblem 
+Moved Spectre Boots to original location
+Added "strange goo" to some water surfaces
++4 Life Fruit
+Added switch to village gate as a failsafe
+Added 2 peace candles to village 
+Slight expansion to Skeletron boss room
+Tweaked EoW boss rooms to not rely on Water Walking Potions
+Added 2 bonfire areas
+
+
+
+MAP 0.3.1
+------------------
+Fixed post-golem tree puzzle (spacing was off by 1-2 blocks)
+Fixed mini-shortcut in Jungle area (Gold block couldn't be broken)
+Added 1 Golden Key to Jungle Temple
+Unlocked 1 Golden Chest in Jungle Temple
+Moved Seedler
+Added +1 Feral Claws
+Added Nazar
++5 Life Fruit
+Added loot to empty post-golem chest
+Added stacks of Silver bars for Magic Storage mod compatibility
+Improved Pillar boss room spawn rates
+Changed chlorophyte shortcut gate to cobalt
+Added +1 Climbing Claws
+Fixed stone gate blocking another gate
+Moved Death Sickle
+Added Orichalcum armor, Halberd, Sword, Repeater and Waraxe
+Tweaked Fire Fiend boss room
+
+
+
+MUSIC 0.3.1
+------------------
+Changed Boss4 song to Bloodborne: The First Hunter (From Software)
+Changed Boss3 song to Dark Souls 3: Abyss Watchers (From Software)
+Changed Boss2 song to Dark Souls: Battle of Stoicism (Motoi Sakuraba / From Software)
+Changed Boss1 song to Dark Souls 3:  Ludex Gundyr (Tsukasa Saitoh / From Software)
+Added Boss6 song: Dark Souls: Knight Artorias (From Software)
+Added music for Serris X 
+Fixed Golem music not playing
+
+
+
+MAP 0.3
+------------------
+MAIN FEATURES
+-4 new optional end-game dungeons
+-major tile, wall and sprite updates across the entire map utilizing 1.3 assets
+-almost all new weapons, armor, potions and accessories from vanilla 1.2-1.3 added
+-multiple new mini-biomes (ice, desert, crimson, marble, beehive, granite) added to existing dungeons
+-new/altered paths, shortcuts, and tweaks to several existing dungeons
+-item rebalancing in almost all chests
+-added 1.2-1.3 vanilla bosses
+-companion music soundtrack updated with 19 new songs
+
+FULL CHANGE LOG
+Changed chest sprite when altering a chest's contents (aside from locked gold chests and some gold chests) 
+Added waterfountain setpiece in Earth Temple
+Added waterfalls in Earth Temple + new small paths
+New path near Fairy home
+Removed Cloud in a Bottle from Alternate Eye of Chuthulu battle. Now found at end of alternate path. 
+Added more wall textures to more areas
+Added a shortcut after Wall of Flesh fight that leads to Hallowed Caverns through Volcano Temple 
+Added summon materials for Slogra and Gaibon boss fight to their crypt.  
+Altered Earth Temple entrance and hill.
+Added spider walls to sections of Earth temple and Jungle temple.
+Added yet more detail to Earth temple.
+Changed the names of several characters.
+Edited the opening story dialog and other main story beats.
+Added Climbing Claws to Secret Jungle EoC Temple
+Temple of the Machine/Shadow Temple now need Chlorophyte Pickaxe to access
+Added unique entrance to the Shadow Temple
+Added more texture to mountain wall/corruption tunnels
+Added new textures to underground desert biome (hallow, hardened sand, marble, crimson, corruption, jungle)
+Added forest texture to Eastern path
+Duke Fishron summon items moved to secret location in Western ocean biome
+Re-colored The Sorrow's boss room
+Added secret mini Ice Biome pre-dungeon, plus 2 more mini-bee biomes
+Added two basement levels to Wizard's house in village
+Updated sprites for village furniture, jungle tree houses,
+Loot nerf complete in: Earth Temple, town, mountain tunnels, Jungle Temple (PHM)
+Placed Tavernkeep
+Placed Elder Crystal Stand
+Nerfed/refreshed starting items
+Fixed several typos
+Expanded Forgotten City a bit
+Created new, custom Golem Temple from scratch 
+Updated sprites for various houses
+Placed Witch Doctor
+Placed Painter
+Duplicate items added for multiplayer (besides progression dependent ones) have been removed in many places to encourage asymetrical gameplay and build choices
+Placed a couple Snail statues for unknown reasons
+Added more torches for remembering treaded paths
+Added new tips
+Placed Truffle with new house
+Made 2 hearts in Earth Temple riskier to obtain 
+Removed 1 crystal heart from Earth Temple, replaced with Ninja Set.
++1 Mining Helmet to starting area
+Removed clue from starting area
+Moved section of Corruption Temple to later in progression for better pacing
+Added Crimson section within Corruption Temple
+Simplified Corruption Temple paths
+Improved EoW Boss rooms
+New progression path added to end of Corruption Temple
+Added Ice Biome  
+Added possible level skip?
+Expanded Corruption Temple with granite cave sections and mini-desert biome 
+Added more campfires
+Expanded Hallow Caverns with new area
+Added clouds
+Added space things
+Restored and finished cut dungeon (late game, optional)  - now tied to optional boss
+Added new shortcut and progression loot in Meteor Temple
+Added desert biome to Meteor Temple
+Shortened length of Hunter Lair Temple and Shadow Temple
+Added 1 new optional dungeon to go with another mod boss which previously only had a battle room
+Removed several signs
+Target Dummies added to village
+Added Geysters
+Made the Meteor Temple more enticing as an alternative to the Jungle Temple path
+Added shortcut from Meteor Temple that skips Jungle Temple 
+Added mini-crimson ice biome
+Added mini-corruption ice biome
+Tweaked progression options with a couple more secret options (multi-choice late game)
+Added more statues, background textures
+Added teleporter at end of secret dungeon
+Updated Forgotten City and Underworld sprites + wall textures
+Tweaked Water Temple tileset
+Increased the dirt layer height of the map
+Improved reliability of the correct song playing in certain areas
+Fixed spawn for 3 NPCs
+Increased mountain steepness near town village but made it easier to scale 
+Added 3 hidden, custom Pillar battle rooms + 1 shared room
+Updated Shadow Temple sprites and added new loot
+--
+Fixed two platform jumps that shouldn't need a cloud in a bottle in the village
+Replaced enemy statue in corruption temple
+Added 2 ammo boxes
+Added +1 imbuing station
+Slime staff added to Earth Temple
+Removed 4 Waterbolts erroniously placed in the village!
+Added Summoning Potions and Flask of Fire to early game
+Added Summoner Emblem to secret area pre-jungle
+Added 4 Ruby to Earth Temple
+Made 1st Eater of Worlds boss room more forgiving
+Removed gate that was no longer needed
+Sealed 1 adamantite gate
+Attempted pillar boss room fix
+--
+Added gate and bridge to jungle exit
+Made the Dungeon Gaurdian less likely to trigger in the Earth Temple
+Added breathing spot in Earth Temple to compensate for Expert mode's cold water debuff
+Added extra Cloud in a Bottle, Magic Mirrors, and Hooks to support 3 player multiplayer
+Added 1 crystal heart to early game optional dungeon and 1 heart to corruption temple
+Added shortcut near a save point
+Added shortcut near optional (harder) EoC boss room
+Added extra golden key in corruption temple to prevent soft lock possibility
+Edited a few signs, with extra clarity about tile breaking and Dark Souls crafting
+Ensured all stone gates are 2-3 width wide (report any I missed)
+Added campfire near village and several more places
+Added Hand Warmers to secret location accessible before Frozen Ocean
++Lots more little things
+
+Items Added: Forbidden Armor, Frog Leg, Rocket Boots, Black Belt, Tiger Climbing Gear, Panic Necklace,Sweetheart Necklace, Honey Comb, Shark Tooth Necklace, Valor, Uzix2, Adhesive Bandage, Balloon Pufferfish, Tsunami in a Bottle, Anklet of the wind, Blizzard in a Balloon, Heartreach Potion, Ice Boomerang, Ice Blade, Slime Staff, Lava Charm, Mana Regeneration Band, Monk's Belt, Bezoar, Medicated Bandage, Boomstick, Bewitching Table, Sharpening Station, Imbuing Station, Hornet Staff, Imp Staff, Cactus Armor, Pumpkin Armor, Tin Armor and Weapons, Topaz Staff, Amethyst Staff, Sapphire Staff, Vitamins, Armor Polish, Armor Bracing, Fast Clock, Trifold Map, Moon Stone, Flask of Poison, Obsidian Rose, Fish Hook, Lava Waders, Ice Skates, Arctic Diving Gear, Frostburn Arrow, Flurry Boots, Lighting Boots, Tin Pickaxe, Defender's Forge, Strange Brew, Mushroom Spear, Wand of Sparking, Tungsten Broadsword, Tungsten Bow, Strange Glowing Mushroom, Lizard Egg, Parrot Cracker, Creeper Egg, Orichalcum Bar, Rich Mahogany Armor, Rich Mahogany Sword, Flare Gun, Flares, Boreal Wood Armor, Boreal Wood Bow, Celestial Cuffs, Blizzard in a Bottle, Jellyfish Necklace, Platinum Armor,  Magic Cuffs, Emerald Staff, Diamond Staff, Tungsten Armor, Tungsten Bow, Binoculars, Sickle, Blowpipe, Fiberglass Fishing Pole, Blowgun, Magic Lantern, Hardy Sadle, Chain Knife, Rally, Ruby Staff, Tsunami in a Bottle, Poison Dart, Frost Daggerfish, Crimson Armor, Fuzzy Carrot, Fossil Armor, Mandible Blade, Gladiator armor, Eater's Bone, Spider Staff, Spider Armor, Tabi, Bladed Glove, Book of Skulls, Ancient Necro Helmet, Magic Missle, Obsidian Armor, Honeyed Goggles, Palladium Armor, Palladium Weapon Set, Wisp in a Bottle, Super Healing Potion, Amethyst Robe, Topaz Robe, Sapphire Robe, Ruby Robe, Emerald Robe, Diamond Robe, Meteor Staff, Spectre Armor, Spectre Wings, Mothron Wings, Broken Hero Sword, Vortex Booster, Spectre Hamaxe, Chlorophyte Pickaxe, Chlorophyte Armor, Ammo Reservation Potion, Endurance Potion, Rage Potion, Titan Potion, Arkhalis, Arkhalis's Lightwings, Ankh Shield, Nimbus Rod, Wrath Potion, Daedalus Stormbow, Anti-Gravity Hook, Skeletron Hand, Pygmy Staff, Shroomite Armor, Shroomite Digging Claw, Frost Armor, Frost Staff, Shark Tooth Necklace, Titan Glove, Star in a Bottle, Revolver, Katana, Star Anise, Amazon, Code 1, Valor, Magma Stone, Charm of Myths, Exotic Scimitar, Sandstorm in a Ballon, Golden Bug Net, Paladin's Shield, Frozen Turtle Shell, Angler Tackle Bag, Lifeform Analyzer, Rod of Discord, Cell Phone, Mechanic's Rod, Lightning Boots, Sharkron Balloon, Stake Launcher, Spooky Armor, Spooky Wings, Beetle Armor, Beetle Wings, Necromantic Scroll, Hercules Beetle, Red Ryder, Swordfish, Sticky Grenade, Tungsten Pickaxe, Sniper Rifle, Venus Magnum, Vortex Beater, Xenopopper, Chlorophyte Bullet, Nebula Pickaxe, Celestial Sigil, Tactical Shotgun, Shinobi Infiltrator Armor, Deadly Sphere Staff, Raven Staff, Death Sickle, Suspicious Looking Tentacle, Solar Tablet Fragment, Vampire Knives, Magical Quiver, Avenger Emblem, Summoner Emblem, Lifeforce Potion, True Night's Edge, Blood Butcherer, Tendon Bow, Blood Lust Cluster, Crimtane Bar, Optic Staff, Rainbow Rod, Rainbow Gun, Staff of the Frost Hydra, Titanium Armor and Weapons Set,  Chlorophyte Claymore, Pharaoh's Mask, Sky Fracture, Onyx Blaster, Toxic Flask, Flask of Poison, Celestial Stone, Wasp Gun, Scourge of the Corruptor, Venom Staff, Venom Bullet, Nettle Burst, Flask of Fire, Flask of Cursed Flame, Anchor, True Excalibur, Marrow, Bone Arrow, Bone Throwing Knife, Cascade, Amber Staff, Bone Javelin, Chlorophyte Saber, Chlorophyte Greataxe/Partisan/Shotbow/Arrows/Warhammer, Bars, Medusa Head, Pocket Mirror, Life Drain, Crystal Vile Shard, Night Vision Helmet, Wormhole Potion, Black Belt, Blindfold, Brand of the Inferno, Sleepy Octopod, Scourge of the Corruptor, Flask of Nanites, Summoning Potion, Summoner Emblem, Bladetongue, Ankh Shield, Ghastly Glaive, Nano Bullet, Beam Sword, Pulse Bow, Seedler, Flower Pow, Paladin's Hammer, Cutlass, Frostbrand,  Mushroom Spear, Obsidian Swordfish, North Pole, Flying Knife, Possessed Hatchet, Chain Guillotines, Hellwing Bow, Shadowflame Knife, Marrow, Hand Warmer, Shadowflame Hex Doll, Phantom Phoenix, Spectre Staff, Toxikarp, Spirit Flame, Falcon Blade, 
+
+Life Fruit added: 22x
+
+
+
+MUSIC 0.3
+------------------
+Fixed bug: Music volume no longer starts at 0% on the first load
+Ocean biome expanded to fit the adventure map
+Replaced vanilla music for TSORC bosses: The Rage, The Sorrow, The Hunter, Attraidies, Blight, Artorias, Witchking, Slogra & Gaibon, Earth Fiend Lich, Water Fiend Kraken, Fire Fiend Marilith, Wyern Mage, Jungle Wyvern, and Chaos
+Known bug: Vanilla music plays for Moon Lord
+Known bug: Vanilla music plays during Pillars boss fight if you leave area
+
+
+
+MAP 0.2.1
+------------------
+Fixed wire bug: Placeholder Golem Temple now accessible
+Switched a couple more Silver Ore gates to Chlorophyte
+Small tweak to Shadow Temple entrance
+Map difficulty switched to Expert
+
+
+
+MUSIC 0.2.1
+------------------
+Fixed missing Golem Temple music
+Fixed multiple locations where an error message would pop up, the music would stop and the music volume slider would go to 0%. If you see that error yourself, please report your location when the error happens to help me fix any areas I missed.
+Bug: Music volume sometimes starts at 0% on the first load, then is normal after increasing the volume once.
+
+
+
+MAP 0.2
+------------------
+Fixed: Dungeon bricks that need breaking changed to grass for Earth Temple
+Fixed: Changed "Titanite"/Silver ore to Chlorophyte ore and edited signs
+Added randomly generated Golem Temple as a placeholder for original temple
+Map should be fully compatible with TML 1.3
+Bug: Golem Temple inaccessible due to cut teleporter wire
+
+
+
+MUSIC 0.2
+------------------
+Added desert wind sounds to Ocean song
+Changed Corruption song to Dark Souls "Abyss" ambient sounds mixed with a song from Metroid Prime 2
+Added song variations for a few mixed biomes, like "jungle + dungeon" will play the desert song during the day and underground song at night
+Mushroom biome above ground no longer plays normal terraria music
+Jungle song no longer overrides most biomes
+Removed Title song (as it's too difficult to code currently)
+
+
+
+MAP 0.1
+------------------
+Changed Earth Temple tiles
+Added polish to mountain tunnels near main village
+Converted section of hidden dungeon (associated with the Earth Temple) to the Crimson Biome and added Crimson Boss
+Added Crimson Biome and Boss to normal progression path
+Added save house to secret post-Earth Temple dungeon 
+Added Bee biome to Jungle Temple plus Abeemination item in chest to summon Queen Bee
+Changed Skeletron boss room tiles and layout to account for Lunatic spawn
+Added Fishing Pole and Truffle Worm for Duke Fishron Boss summoning
+Changed secret Serris X dungeon tiles
+Added new jungle wall textures to Forgotten City Dungeon
+Changed underworld background walls to add depth perception
+Added ice biome to Eastern side of map
+Added new walls to mushroom biomes
+Added new jungle walls to jungle temple
+Added shortcut in flooded mine 
+Changed Attraidies tower tiles and sprites
+Added coral to western ocean
+Added new Hallow walls to Hallow Underground Caves
+Added Plantera bulbs to _________  arena 
+Added new path post Skeletron Prime that leads to additional ______ boss arena
+Changed spikes to wooden spikes in water temple
+Changed Mountain Wizard Temple tiles and sprites
+Started Golem Dungeon / made more progress
+Added Corruption/sand walls to Hunter temple
+Rebuilt village tower
+Added mushroom music to special chest area
+
+
+
+MUSIC 0.1
+------------------
+TSORC soundtrack from 2012 converted from wavbank form to tmodloader mod.
+
+Added 19 new tracks, for: Boss 4, Boss 5, Cavern, Crimson, Underground Crimson, Space, Eerie, Desert, Snow, Underground Snow, Mushrooms, Underground Mushrooms, Rain, Underworld, Pillars, Ocean, Sandstorm, Underground Eerie, Underground Desert
+
+
+
+INSTALL FOLDER FOR THE STORY OF RED CLOUD  - REVAMPED 0.1
+------------------
+Updated change log from tConfig Edition 1.1y to TML Edition 0.1 to mark shift to TModLoader and Terraria 1.3.5
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+All map updates by Tim Hjersted aka Vibrent on Discord, with 3 exceptions noted above.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
