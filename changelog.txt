@@ -1,4 +1,15 @@
 CHANGELOG
+MAP 1.05
+------------------
+Added Titanium Gate just before Triad boss to prevent even attempting this boss too early (since there's a secret entrance)
+Retained secret path to Western half of the map via new hidden spot
+Reduced progression confusion related to a hidden Corruption Temple secret path by tweaking several things
+Removed broken invisible Eternia Crystal Stand
+Tweaked some blocks in the Forgotten City and Fire Temple
+Added water to a cheeseable EoW cavern before main fight
+Machine Temple: Added bonfire and coral/pot decoration, changed background tiles and removed ice to reduce music swaping, added 1 minor and 2 greater shortcuts, tweaked blocks and water
+
+
 MAP 1.04
 ------------------
 Added water mechanic back to EoW1
