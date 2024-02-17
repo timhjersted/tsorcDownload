@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 1.06
+------------------
+Fixed two Chlorophyte ore gates at the beginning of the Machine Temple being unmineable due to pots placed in 1.05. Simply disable adventure mode temporarily once you can mine Chlorophyte to pass through.
+Polished Machine Temple blocks and spikes further and added more coral
+
+
 MAP 1.05
 ------------------
 Added Titanium Gate just before Triad boss to prevent even attempting this boss too early (since there's a secret entrance)
