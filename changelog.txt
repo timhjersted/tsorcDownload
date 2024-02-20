@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 1.07
+------------------
+Removed Corruption and Crimson from Elengad's Desert Ruins; added decorations, removed spikes from homes for lore reasons, swapped dart traps, added sandfalls
+Removed Hallowed biome tiles from Machine Temple, added coral blocks and retiled glass tube section with forest biome 
+Removed Hallowed biome from the Frozen Ocean
+
+
+
 MAP 1.06
 ------------------
 Fixed two Chlorophyte ore gates at the beginning of the Machine Temple being unmineable due to pots placed in 1.05. Simply disable adventure mode temporarily once you can mine Chlorophyte to pass through.
