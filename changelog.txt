@@ -1,4 +1,15 @@
 CHANGELOG
+MAP 1.08
+------------------
+Late-game Tomb: Removed corruption, added ash 
+Jungle surface in one area: Removed crimson 
+Frozen Ocean: Removed the rest of the hallowed biome blocks 
+Added a Large Ruby to The Machine Temple and Shadow Temple, used to guard Golem's Temple
+Golem Temple: Added several more traps and block tweaks 
+Oolicile Forest: Added more trees and tweaked blocks
+Thanks to Xelvaa for several of these changes!
+
+
 MAP 1.07
 ------------------
 Removed Corruption and Crimson from Elengad's Desert Ruins; added decorations, removed spikes from homes for lore reasons, swapped dart traps, added sandfalls
