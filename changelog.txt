@@ -3,11 +3,11 @@ CHANGELOG
 RemixMAP 1.4 
 ------------------
 Official implementation update!
-Map directly implemented in the mod, with the map added to the world choice 
+Remix world directly implemented in the mod, with the world added to the world choice 
 Added unique events!
-Major changes everywhere in the map
+Major changes everywhere in the world
 Notable changes in the Wyvern's Mage Prison
-Added a new location at the top West of the map, where you can fight the Lunatic Cultist, and after, Moon Lord
+Added a new location at the top West of the world, where you can fight the Lunatic Cultist, and after, Moon Lord
 A lot of fixes
 
 
@@ -19,7 +19,8 @@ Reworked Oolacile Forest and make it easier to access
 Eternal Reef and Deep Jungle require a large emerald to access, found in a small location in the Tropics
 Expansion of Fire Temple and Wyvern Mage's Fortress
 Reworked and extended Wyvern Mage's Prison
-Improvements and changes everywhere on the map
+Improvements and changes everywhere in the world
+
 
 MAP 1.17
 ------------------
@@ -101,7 +102,7 @@ Made discovering wizard's home slightly more intuitive
 
 MAP 1.11
 ------------------
-Fixed an early shortcut into the desert being blocked off and inaccessible in past versions due to Terraria clipping the 40 blocks at the edges of the map
+Fixed an early shortcut into the desert being blocked off and inaccessible in past versions due to Terraria clipping the 40 blocks at the edges of the world
 
 
 MAP 1.10
@@ -156,7 +157,7 @@ Polished Machine Temple blocks and spikes further and added more coral
 MAP 1.05
 ------------------
 Added Titanium Gate just before Triad boss to prevent even attempting this boss too early (since there's a secret entrance)
-Retained secret path to Western half of the map via new hidden spot
+Retained secret path to Western half of the world via new hidden spot
 Reduced progression confusion related to a hidden Corruption Temple secret path by tweaking several things
 Removed broken invisible Eternia Crystal Stand
 Tweaked some blocks in the Forgotten City and Fire Temple
@@ -320,7 +321,7 @@ Added some other small tweaks
 
 MAP 0.9.9.2
 ------------------
-Updated Map for Terraria 1.4.4.9
+Updated World for Terraria 1.4.4.9
 Revamped biome and visuals for Path of Ambition (aka Path of Pain) and swapped EoC summon item for something else...
 Added a cool bridge to the Lake of Flowered Paths
 Made a mushroom cavern cooler
@@ -469,7 +470,7 @@ Earth Temple: LOTS of small adjustments based on a recent playthrough
 Corruption Temple: Several adjustments to improve progression flow
 Corruption Temple: 2nd half is now harder to access, to encourage the player to progress East or make a more commited decision to explore more, to improve game pacing and choice (instead of feeling like the whole thing needs to be done). To compensate then for the extra effort, the rewards have been increased
 Catcombs: more atmospheric lighting and more spacious hallways 
-Added a few more ropes around the map to reduce jump climbing in key areas to improve game flow
+Added a few more ropes around the world to reduce jump climbing in key areas to improve game flow
 Removed Fishing Rod in starting area because fishing isn't an encouraged mechanic (was supposed to just be a lore thing)
 Burned Down Village: Adjusted loot and blocks
 Increased visual clues for a couple secrets
@@ -503,8 +504,8 @@ Removed empty skeleton near hunter arena
 Removed a sign mentioning the cosmic watch and changed the text of another sign nearby to remind players about the dodge roll
 
 Game Folder Changes:
-Deleted two old semi-custom sandbox maps from the upload folder as they currently are corrupted
-Added one new WIP sandbox map called "The Legend of Red Cloud," which is supposed to take place 10,000 years after the events of the main game. It should be played with adventure mode disabled. Most text bubbles with story elements have been removed. Feedback appreciated.
+Deleted two old semi-custom sandbox worlds from the upload folder as they currently are corrupted
+Added one new WIP sandbox world called "The Legend of Red Cloud," which is supposed to take place 10,000 years after the events of the main game. It should be played with adventure mode disabled. Most text bubbles with story elements have been removed. Feedback appreciated.
 
 
 MAP 0.9.2 
@@ -517,7 +518,7 @@ Added Demon Contch, Magic Contch and Advanced Combat Techniques, +2 Shark Tooth 
 Added two Queen Spider Staffs to a Cobalt-tier area and expanded cavern path, also added visual clue
 Added a secret area with loot and a means to access Deerclops arena in the Earth Temple
 Added loot in a few existing chests
-Added two old semi-custom sandbox maps from the tConfig days to the Github repository (Valley of Lord Gwyn and Valley of Defilement are identical aside from the global cave layer height (Sandbox 1.1 generally has more custom elements))
+Added two old semi-custom sandbox worlds from the tConfig days to the Github repository (Valley of Lord Gwyn and Valley of Defilement are identical aside from the global cave layer height (Sandbox 1.1 generally has more custom elements))
 
 
 MAP 0.9.1 
@@ -707,7 +708,7 @@ Improved Teal Pressure Plate tip and Celestial Sigil tip
 
 MAP 0.7.4 
 ------------------
-Removed a mythril gate that couldn't be mined because of an adjacent door (if you're on an older map, turn off adventure mode temporarily to break it)
+Removed a mythril gate that couldn't be mined because of an adjacent door (if you're on an older world, turn off adventure mode temporarily to break it)
 Updated Great Eye clue
 Filled in some clouds
 Replaced switch with lever in Corruption Temple
@@ -879,7 +880,7 @@ MUSIC 0.6.2
 Added 30 new songs!
 Changed title music
 The village now has its own day and night theme
-Added new songs for a dozen specific locations unique to the custom map 
+Added new songs for a dozen specific locations unique to the custom world 
 Numerous bosses and mini-bosses have their own songs now 
 Removed 5 songs because the sound quality was poor or because they no longer fit with the overall theme and quality bar of the soundtrack
 Re-exported Underground, Night, Jungle, Underground Hallow and Dungeon from the original wav files in higher quality
@@ -911,7 +912,7 @@ Changed backdrop for the underworld
 
 MAP 0.6.1 
 ------------------
-Added a new late pre-HM/HM event that's only accessible with this map
+Added a new late pre-HM/HM event that's only accessible with this world
 Added Shadow Key sign clue, tweaked another
 Made the WoF arena slightly harder in 2 places and slightly easier towards the end
 Blocked off a volcanic interior space that's accessed after beating a secret boss, with improved loot
@@ -1084,7 +1085,7 @@ Replaced Gold Armor with modified Platinum Armor in Corruption Temple, added Tre
 Added Bladed Glove to Corruption Temple
 Added Sandstorm in a Bottle to Corruption Temple, replaced Demon Bow #134521 with Tendon Bow
 Replaced Blizzard in a Bottle with Blizzard in a Balloon in Corruption Temple
-Removed Witch Doctor from the map (allowed for early purchase of Pygmy Necklace)
+Removed Witch Doctor from the world (allowed for early purchase of Pygmy Necklace)
 Replaced Pufferfish Balloon with Amber Horseshoe Balloon in Jungle Village
 Added modified Bee Armor, Pygmy Necklace and Coffee
 Moved Obsidian Armor, added Hercules Beetle and Dragonfruit
@@ -1156,7 +1157,7 @@ Earth Temple edits to encourage exploring past EoC
 More crystals hinting at more paths and secrets
 Tiny text edits
 Added more smoke to key destination
-Replaced 1 early-game Slime Crown with musket shot, so getting to the East necessitates one of the many map-based solutions 
+Replaced 1 early-game Slime Crown with musket shot, so getting to the East necessitates one of the many world-based solutions 
 Reduced stack of Mechanical Eye's to 1
 Added note about crafting Aaron's Protection stone when refighting The Wall
 
@@ -1213,7 +1214,7 @@ Removed some text on a sign leading to the village
 
 
 MAP 0.4 
-Updated map for tModLoader 1.4 / Terraria 1.4. (Credit: MarfMasterofDesaster)
+Updated world for tModLoader 1.4 / Terraria 1.4. (Credit: MarfMasterofDesaster)
 ------------------
 Replaced early(pre-Skeletron) instances of Bowls of Soup with Teacups
 Added few Bowls of Soup in post-Skeletron areas
@@ -1311,7 +1312,7 @@ Lots more small tweaks
 MAP 0.3.21  
 ------------------
 Added a few new pre-EoC secrets and progression-skips (if you find them, please be cryptic and use ||redacted spoiler text here|| in Discord to discuss them
-Fixed 2 progression-blocking puzzle walls in the SHM "dungeon with blue flames" (you will need to turn off adventure mode to mine through the walls if playing on a previous map)
+Fixed 2 progression-blocking puzzle walls in the SHM "dungeon with blue flames" (you will need to turn off adventure mode to mine through the walls if playing on a previous world)
 Glass Prison got some more attention and detail
 The Hunter, The Rage and the Litch King now spawn from a golden ring, instead of a craftable summon item (needs latest mod update to work)
 Larger portion of the jungle is also crimson and is cast in greater darkness
@@ -1378,7 +1379,7 @@ Added bonfire to Jungle Temple and removed safe house
 Made a couple more cavern portions larger for fighting
 Added more lights to Forgotten City and path to the next area
 Added more visuals clues for Fire Temple switch location and created a hidden route
-Added a dozen+ weird block combos around the map that will turn into mod loot
+Added a dozen+ weird block combos around the world that will turn into mod loot
 Changed Chaos arena tile and wall textures
 Moved Wasp Gun and changed loot
 Hunter Ruins: Removed 1 bonfire and bed; replaced 1 bed save with bonfire; added desert background, fixed sand sections that caved in and looked strange
@@ -1421,7 +1422,7 @@ In Hunter Ruins: Replaced 1 safe house with new bonfire nearby, removed 1 safe h
 MAP 0.3.17
 ------------------
 Made several noticeable changes to the Corruption Temple
-Removed 3 vanilla NPCs from the map. They'll now load in via the mod. This means another game manual rule can be removed!
+Removed 3 vanilla NPCs from the world. They'll now load in via the mod. This means another game manual rule can be removed!
 Transplanted difficult desert section in the Corruption temple to the Meteor Temple and made old section corruption biome
 Moved bonfire in Meteor temple and added more detail to secret entrance
 Moved Key in Jungle
@@ -1651,7 +1652,7 @@ Encased hallow blocks in mud to prevent spread
 
 MUSIC 0.3.7
 ------------------
-Updated music mod version number to always match the latest map release version
+Updated music mod version number to always match the latest world release version
 Fixed Goblin Invasion music, Attraidies, & Witchking
 Changed Chaos song
 
@@ -1795,7 +1796,7 @@ MAP 0.3
 ------------------
 MAIN FEATURES
 -4 new optional end-game dungeons
--major tile, wall and sprite updates across the entire map utilizing 1.3 assets
+-major tile, wall and sprite updates across the entire world utilizing 1.3 assets
 -almost all new weapons, armor, potions and accessories from vanilla 1.2-1.3 added
 -multiple new mini-biomes (ice, desert, crimson, marble, beehive, granite) added to existing dungeons
 -new/altered paths, shortcuts, and tweaks to several existing dungeons
@@ -1876,7 +1877,7 @@ Added more statues, background textures
 Added teleporter at end of secret dungeon
 Updated Forgotten City and Underworld sprites + wall textures
 Tweaked Water Temple tileset
-Increased the dirt layer height of the map
+Increased the dirt layer height of the world
 Improved reliability of the correct song playing in certain areas
 Fixed spawn for 3 NPCs
 Increased mountain steepness near town village but made it easier to scale 
@@ -1920,7 +1921,7 @@ Life Fruit added: 22x
 MUSIC 0.3
 ------------------
 Fixed bug: Music volume no longer starts at 0% on the first load
-Ocean biome expanded to fit the adventure map
+Ocean biome expanded to fit the adventure world
 Replaced vanilla music for TSORC bosses: The Rage, The Sorrow, The Hunter, Attraidies, Blight, Artorias, Witchking, Slogra & Gaibon, Earth Fiend Lich, Water Fiend Kraken, Fire Fiend Marilith, Wyern Mage, Jungle Wyvern, and Chaos
 Known bug: Vanilla music plays for Moon Lord
 Known bug: Vanilla music plays during Pillars boss fight if you leave area
@@ -1932,7 +1933,7 @@ MAP 0.2.1
 Fixed wire bug: Placeholder Golem Temple now accessible
 Switched a couple more Silver Ore gates to Chlorophyte
 Small tweak to Shadow Temple entrance
-Map difficulty switched to Expert
+World difficulty switched to Expert
 
 
 
@@ -1949,7 +1950,7 @@ MAP 0.2
 Fixed: Dungeon bricks that need breaking changed to grass for Earth Temple
 Fixed: Changed "Titanite"/Silver ore to Chlorophyte ore and edited signs
 Added randomly generated Golem Temple as a placeholder for original temple
-Map should be fully compatible with TML 1.3
+World should be fully compatible with TML 1.3
 Bug: Golem Temple inaccessible due to cut teleporter wire
 
 
