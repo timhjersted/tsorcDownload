@@ -1,4 +1,11 @@
 CHANGELOG
+RemixMAP 1.4.1
+------------------
+Frozen Cathedral is finally finished
+Added mushrooms islands above the tropics with the home of the Truffle
+Reworked Flooded Mines and re-tiered post-Hunter
+A lot of changes and fixes everywhere in the map, notably in the Frozen Ocean
+
 
 RemixMAP 1.4 
 ------------------
