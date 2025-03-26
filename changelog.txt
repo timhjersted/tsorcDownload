@@ -1,4 +1,18 @@
 CHANGELOG
+RemixMAP 1.5
+------------------
+Reworked Eternal Reef 
+Changes on Serris Temple and now named the Basements of the Dark Tower
+Dark Tower is now locked and can be opened with a lever at the end of the Dark Tower Basements
+Removed the mushrooms islands above the tropics but added the Mycellium Forest at the Desert East 
+Re-added the Obsidian Volcan between Hallow and Jungle 
+Removed the current location of the Ancestral Spirit and moved it to the East, with a new arena on the border between Frozen Ocean and Hallow
+Moved Death arena at the very east of the frozen ocean above the clouds 
+Notable changes in the Hallow, Desert, Dreamlike Caverns, Shadow Temple, Undergrowth 
+Added more minecarts areas 
+Fixes and major changes everywhere in the map
+
+
 RemixMAP 1.4.1
 ------------------
 Frozen Cathedral is finally finished
