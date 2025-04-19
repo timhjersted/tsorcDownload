@@ -1,4 +1,10 @@
 CHANGELOG
+RemixMAP 1.5.1
+------------------
+Fixed some gates not opening, weird timers and not openable chests
+Improvements and minor changes everywhere in the map
+
+
 RemixMAP 1.5
 ------------------
 Reworked Eternal Reef 
