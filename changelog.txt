@@ -1,4 +1,9 @@
 CHANGELOG
+RemixMAP 1.5.2
+------------------
+Changes and fixes
+
+
 RemixMAP 1.5.1
 ------------------
 Fixed some gates not opening, weird timers and not openable chests
