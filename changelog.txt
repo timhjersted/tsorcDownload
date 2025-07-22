@@ -1,4 +1,27 @@
 CHANGELOG
+RemixMAP 1.6
+------------------
+The biggest update yet!
+Reworked the Spawn 
+Improved the Ashenpeak Village 
+Changes to Autumnal Skies, now named the Cherry Blossom Skies 
+A pirate invasion is now launched upon entering the tropics, minor changes in this area too
+Expanded Catacombs of the Drowned, also added 1 shortcut and more loot
+Slightly expanded Great Foundry and Molten Sky Temple
+Expansion and renaming of the Shrine of the Triad to Sanctuary of the Watchers
+Expansion and renaming of the Moon Temple to Temple of Forgotten Lights
+More decorations on Lihzahrd, Shadow Temple and Frozen Ocean 
+Improved Oolacile Forest and added more paths and shortcuts 
+Small Changes and improvements on Sky Temple Ruins, ???, Morgul Feleg and more !
+Removed Large Amber Locks across the map, Large Ambers from Old One's Tree and removed Flooded Mines
+The Old One's Tree is now locked by Chlorophyte instead of Lihzahrd Bricks and the location of Hallowed Stuff and Light Shards 
+Added a new area that needs 3 large ambers, scattered through the world with a secret event here
+Added more clues and hints on the map, especially on some levers/switches obligatory for progression
+Many chest changes/additions and added more vanity items to the map 
+Fixed some buggy and non-functional chests 
+Added a secret weird zone with Waffle's Iron there
+
+
 RemixMAP 1.5.2
 ------------------
 Changes and fixes
