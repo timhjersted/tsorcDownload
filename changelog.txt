@@ -1,4 +1,18 @@
 CHANGELOG
+
+
+RemixMAP 1.7 : 
+------------------
+Removed Temple of Forgotten Lights and moved Chaos somewhere in the hallow
+Added a new area for Dark Cloud, accessible via the Dark Mirror
+Added a secret arena in the Shadow Temple
+Added the Forgotten Grove, a new small area with a new exclusive Remix NPC 
+Reworked Molten Sky Temple and renamed into Molten citadel
+Major changes in the Catacombs and renamed into Gray Catacombs 
+Swapped places with Earth Fiend Lich and Fire Fiend Marilith 
+A lot of changes everywhere in the map
+
+
 RemixMAP 1.6
 ------------------
 The biggest update yet!
