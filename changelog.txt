@@ -1,5 +1,10 @@
 CHANGELOG
 
+RemixMAP 1.7.1 : 
+------------------
+Removed Large Topaz in the Foundry and the Lock in the Lost Ruins of Artorias
+Minor changes everywhere in the map 
+
 
 RemixMAP 1.7 : 
 ------------------
