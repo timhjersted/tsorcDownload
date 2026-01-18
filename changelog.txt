@@ -1,5 +1,9 @@
 CHANGELOG
 
+RemixMAP 1.7.2.1 : 
+------------------
+Some bugfixes 
+
 RemixMAP 1.7.2 : 
 ------------------
 Fixed the Golem Temple being inaccessible
