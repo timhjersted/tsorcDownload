@@ -81,7 +81,6 @@ Binary Construct / Tedit program creator
 Mod Revamp (Current tModloader Edition)
 ----
 Zeodexic / programmer
-RecursiveCollapse / programmer
 Chroma Equinox / programmer + spriter
 Vibrent / programmer + sprite editer
 MarfMasterofDesaster / programmer + beta testing
@@ -162,7 +161,7 @@ Solenix / select Vertigo Elemental content
 
 
 Version compatibility: tModLoader 1.4.4 & Terraria 1.4.4.9
-Coding by: RecursiveCollapse and Vibrent
+Coding by: Vibrent
 Contact: Vibrent#7623 on Discord.com
 
 SONG CREDITS
