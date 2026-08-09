@@ -1,3 +1,8 @@
+MOD 0.17.3
+------------------
+Fixed Slime Staff and Spider Staff
+
+
 MAP 1.18
 ------------------
 Expanded height of world by 400 tiles
