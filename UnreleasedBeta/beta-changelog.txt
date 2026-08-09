@@ -1,0 +1,9 @@
+MAP 1.18
+------------------
+Expanded height of world by 400 tiles
+Improved lighting and progression in Corruption Temple 
+Improved Earth Temple progression and added new room for enemy event
+Improved Ashen Peak Mountain and adjusted loot
+Improved Burned village and adjusted loot
+Made the bonfire area near Emerald Herald more pretty
+Improved Fire Fiend Marilith and The Machine's boss rooms
