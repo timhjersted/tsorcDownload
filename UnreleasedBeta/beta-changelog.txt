@@ -1,3 +1,11 @@
+MOD 0.17.4
+------------------
+Red Knight & Great Red Knight revamps
+Updated basilisk family spawns
+Balanced and updated Studded Leather Warrior and improved drops
+Removed 4 vanilla NPCs from spawn pools
+
+
 MOD 0.17.3
 ------------------
 Fixed Slime Staff and Spider Staff
