@@ -1,3 +1,11 @@
+MOD 0.17.5
+------------------
+Fix for Ancient Oolicile Demon TP bug
+Enemy event tomb bug fix
+Stamina fix for axes, hammers and tools
+Added Ryze (but no world event yet)
+
+
 MOD 0.17.4
 ------------------
 Red Knight & Great Red Knight revamps
