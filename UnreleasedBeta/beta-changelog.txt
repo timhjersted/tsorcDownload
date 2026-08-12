@@ -1,3 +1,7 @@
+MOD 0.17.7
+------------------
+Reverted to old weapon stamina cost system
+
 MOD 0.17.6
 ------------------
 Fixed enemy events file deleted accidently during pull request
