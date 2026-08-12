@@ -1,3 +1,13 @@
+MOD 0.17.6
+------------------
+Fixed enemy events file deleted accidently during pull request
+Event Reset Tomb now works with the new json events
+Enemy Event Tomb displays actual soul drops in menu based on npc value in real time (expert values)
+Adjusted Kahlrun and gave him a temporary event location in the ashen peak mountain caverns
+Added several new map events
+Added new teleport style "RecoveryOnly" that TPs to get unstuck when player is near but won't TP to pursue a fleeing player, testing on Kahlrun
+Fixed a soapstone reading bug (text went away without moving mouse or walking at high zoom and or increased UI scale)
+
 MOD 0.17.5
 ------------------
 Fix for Ancient Oolicile Demon TP bug
