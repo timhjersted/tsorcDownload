@@ -1,3 +1,9 @@
+MOD 0.17.8
+------------------
+Added 5th "Deprived" starting class
+Sandbox worlds now spawn Jade and several bonfires around the world
++more
+
 MOD 0.17.7
 ------------------
 Reverted to old weapon stamina cost system
