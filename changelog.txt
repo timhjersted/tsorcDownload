@@ -1,4 +1,19 @@
 CHANGELOG
+RemixMAP 1.8 : 
+------------------
+Reworked the Ashenpeak Village (Built by swampgodperseverance, a big thanks to him)
+Reworked the Moon Lord area and renamed it the Celestial Wastes
+Darkness invades the Hallow after the death of the Mindflayer King...
+Removed the Pirate Invasion in the Tropics
+Made the Frozen Ocean less empty, with loot and crystals to be found
+Reworked a small secret place in the Desert
+Added a new path to the Molten Sky Temple
+Added a Shortcut for Abysmal Oolacile Sorcerer
+Added more chests and loots and general, especially in SHM
+A lot of adjustements in the Hallow, Origin of the Abyss, Wyvern Mage Prison
+Fixed some blocked passages or bugs on the map
+Minor changes everywhere in the map
+
 RemixMAP 1.7.2.1 : 
 ------------------
 Some bugfixes 
