@@ -1,43 +1,10 @@
-MOD 0.17.8
+MAP 1.3.2
 ------------------
-Added 5th "Deprived" starting class
-Sandbox worlds now spawn Jade and several bonfires around the world
-+more
-
-MOD 0.17.7
-------------------
-Reverted to old weapon stamina cost system
-
-MOD 0.17.6
-------------------
-Fixed enemy events file deleted accidently during pull request
-Event Reset Tomb now works with the new json events
-Enemy Event Tomb displays actual soul drops in menu based on npc value in real time (expert values)
-Adjusted Kahlrun and gave him a temporary event location in the ashen peak mountain caverns
-Added several new map events
-Added new teleport style "RecoveryOnly" that TPs to get unstuck when player is near but won't TP to pursue a fleeing player, testing on Kahlrun
-Fixed a soapstone reading bug (text went away without moving mouse or walking at high zoom and or increased UI scale)
-
-MOD 0.17.5
-------------------
-Fix for Ancient Oolicile Demon TP bug
-Enemy event tomb bug fix
-Stamina fix for axes, hammers and tools
-Added Ryze (but no world event yet)
-
-
-MOD 0.17.4
-------------------
-Red Knight & Great Red Knight revamps
-Updated basilisk family spawns
-Balanced and updated Studded Leather Warrior and improved drops
-Removed 4 vanilla NPCs from spawn pools
-
-
-MOD 0.17.3
-------------------
-Fixed Slime Staff and Spider Staff
-
+Added new area to Earth Temple with mini-boss
+Expanded Crimson biome and Oolacile Forest
+Moved Crimson boss fight and a portion of Corruption Temple
+Changes to Corruption Temple and Earth Temple
+Expanded arena for Queen Slime
 
 MAP 1.18
 ------------------
