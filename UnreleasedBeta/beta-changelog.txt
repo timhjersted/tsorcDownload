@@ -1,3 +1,18 @@
+MAP 1.3.27
+------------------
+Lots of biome enhancements
+
+
+MAP 1.3.5
+------------------
+Fixed broken teleporter
+Fixed endgame secret path
+Changed biomes for two areas and improved them
+Added black paint to Chaos boss room and Molten Sky Temple
+Added invisible ice walls to western ocean surface
+Changed crimson and snow biome backgrounds
+
+
 MAP 1.3.5
 ------------------
 Improved Vessel of Souls arena
