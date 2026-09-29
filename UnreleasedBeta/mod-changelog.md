@@ -1,3 +1,28 @@
+0.18.16
+
+\- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+\-Fixed Slimey Saddle tooltip
+
+\-Added "Can equip one at a time" tooltip to shields
+
+\-Removed dodgeroll and from basilisks and prevented basilisks from getting stuck in invulnerable state when doing tongue attack
+
+\-Artorias damage balance and attack improvements (WIP)
+
+\-Added Perma Food upgrading
+
+\-Improved Owl Father behavior when player runs away... and comes back 
+
+\-Fixed lifegem and starlight shard tooltips
+
+\-Fixed music swapping during Artorias fight
+
+\-Fixed incorrect damage numbers for a few enemies
+
+\- Added a few more events
+
+
 0.18.15 
 
 \- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
