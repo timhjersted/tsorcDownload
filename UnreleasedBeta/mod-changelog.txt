@@ -1,3 +1,42 @@
+0.19.7
+-------------------------------------------------------------
+Enemy Scaling
+-Hardmode enemy scaling: regular enemies gain HP for each of the 7 bosses required to reach Attraidies (The Rage, The Sorrow, The Hunter, The Destroyer, The Triad, The Machine, Golem). Each adds about 14%, up to 2× HP once all 7 are down. Bosses are not affected.
+-Super Hardmode enemy scaling reworked: enemy HP starts fresh at the beginning of Super Hardmode and grows to 1.5× over the 12 Super Hardmode bosses. It now applies to every regular enemy you meet in Super Hardmode, not just ones native to it.
+-Consistent damage scaling: all damage you take from enemies and bosses goes up 2% per required Hardmode boss defeated, plus up to 20% more across the Super Hardmode bosses. This replaces the old per-enemy Super Hardmode damage scaling. Late Super Hardmode attacks hit a bit softer, and contact damage hits harder.
+-Vanilla enemies get set HP per stage: Hardmode HP is double their pre-Hardmode HP, or their old Hardmode HP if that was higher. Super Hardmode HP is 5× their Hardmode HP, unless they already had a dedicated value.
+Event bosses are unchanged.
+-Hardmode HP increases based on TTKs being too fast in early HM for their intended tier (fodder, standard, strong, elite): Dunlending, Jungle Sentree, Parasprite, Shadow Mage, Barrow Wight, Byakhee, Quara Clutch Crab, Ringed Knight, Quara Hydromancer, Eland, Firebomb Hollow, Archdeacon, Necromancer, Lothric Knight, Oolacile Cultist
+-Super Hardmode HP increases: Parasprite, Archdeacon, Necromancer
+-Pre-Hardmode HP increase: Attraidies Manifestation
+-Wyvern Mage: the Dragon's HP lowered from 60000 to 40000, so the whole fight is now 80000 HP instead of 100000
+-The Hunter: HP lowered from 90000 to 70000
+-The Rage: contact damage 120 (160 when enraged). Fire Trails deal (true) +12 and inflict Dark Inferno for 2s. It now heals 900 HP when it enrages, up from 300
+-The Sorrow: Contact damage 110 (150 when enraged), and enraged defense is up to 97. Its attacks build Frost: each projectile hit adds 40, and standing in Frozen Breath builds it continuously
+
+Mobility  
+-The mobility rebalance applies in every mode. The Souls Mode changes to Supersonic Boots, Supersonic Wings I & II and Wings of Seath now apply in Classic too, and the "Souls Mode Mobility" config option has been removed.
+-Classic keeps wing fall immunity: wings fully negate fall damage again. In Souls Mode, wings still raise your safe fall distance without granting full immunity.
+-Wing Harness Slot: Wings slotted into Supersonic Wings I/II now fly at their own horizontal speed when it's faster than your sprint speed. The harness also inherits the slotted wing's hover speed. Ground speed still comes from sprint speed, which is boosted by your Supersonic boots/wings, and can scale with your other movement speed bonues.
+-Supersonic Wings I: flight time with no wing slotted raised from 1.5s to about 1.7s, matching Angel Wings.
+-Supersonic Wings II: flight time with no wing slotted raised from 3s to 3.5s.
+-Wings of Seath: Minimum flight speed raised to match Fishron and Empress wings; hovering is faster still, and it's faster again with movement speed bonuses. The speed/featherfall toggle now works in multiplayer. It no longer overrides your mount's speed while mounted.
+-Jump speed bonuses now stack: Supersonic Wings II and Wings of Seath no longer accidently cancel jump speed bonuses from other accessories.
+-Tooltips: the Shift wing stats now show your real flight speed for the Supersonic items and Wings of Seath. The fall-damage warning on wings is now highlighted in orange.
+
+Misc
+-Mana Burn nerf (reduced damage bonus, increased mana costs)
+-Tooltips on items that also have a shield tooltip no longer show duplicated or shifted lines
+-The beta updater's status text no longer overlaps the main menu buttons
+-Balance logs now record progression scaling: Hardmode bosses defeated, the enemy HP scaling factor and the damage-taken multiplier
+-Fixed Resistance DR display on Adv Card and localizations
+-Added Frost buildup to two enemies 
+-Gave the Hollowed debuff an improved temporary sprite and added a clue for clearing it
+-Reduced max Cerulean Tear flasks from 36 to 18 (each upgrade is now +1 instead of +3)
+-Seath now applies Frost buildup to his attacks instead of Curse buildup, and from more sources
+-Oolacile Cultist applies Madness buildup in Hardmode (was Super Hardmode)
+-Gae Bolg, Longinus and Dark Trident's stab attack was broken; it's now fixed. The stab moved to left click and the throw is left-click hold, which frees up right click. Added a smooth arm-raise animation from the stab pose (held forward) to the raised throw pose. Also, the stab now hits for the weapon's full listed damage. It used to be about 17%, back when it was the right-click attack. Also fixed: a click that takes you into stamina debt still stabs instead of being cancelled, and each stab costs its listed stamina once instead of twice.
+
 0.19.6
 -------------------------------------------------------------
 -Adjusted HP for HM and SHM enemies
